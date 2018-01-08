@@ -1,0 +1,17 @@
+title:             APF-Blog
+email:             huangshoukai@yeah.net
+description:       人生在于体会，今时哪及昔时。
+author:            shoukai
+baseurl:           ""
+url:               "http://shoukai.github.io"
+
+# Social Profiles
+github_username:   shoukai
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
