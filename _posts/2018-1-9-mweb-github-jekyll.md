@@ -3,7 +3,7 @@ layout: post
 title:  "GitHub Pages 搭建笔记"
 subtitle: "Jekyll、Github.io、七牛云 构建个人博客"
 date:   2018-01-08 10:45:13
-background: '/img/posts/01.jpg'
+background: 'http:/\/oo6gt25nl.bkt.clouddn.com/01.jpg'
 ---
 
 # Github Pages 搭建笔记
