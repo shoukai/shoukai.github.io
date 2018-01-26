@@ -78,8 +78,12 @@ table tr, table th {
 }
     
 /* Padding and font style */
-    table td, table th {
+table td, table th {
     padding: 5px 10px;
     font-size: 16px;
+}
 
+.center {
+  text-align: center;
+  margin: 0 auto;
 }
