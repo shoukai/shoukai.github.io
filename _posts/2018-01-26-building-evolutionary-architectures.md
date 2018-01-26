@@ -72,6 +72,58 @@ of six stages.
 ## Chapter 4. Architectural Coupling
 -------
 
+* Discussions about architecture frequently boil down to coupling: how the pieces of the architecture connect and rely on one another（架构的各个部分是如何相互连接和依赖的）.
+* In evolutionary architecture, architects deal with architectural quanta, the parts of a system held together by hard-to-break forces.
+* The relationship between modules, components and quanta
+![evolutionary-quantum](http://oo6gt25nl.bkt.clouddn.com/evolutionary-quantum.jpg)
+
+* the outermost container is the quantum: the deployable unit that includes all the facilities required for the system to function properly, including data.
+* Within the quantum, several components exist, each consisting of code (classes, packages, namespaces, functions, and so on). An external component (from an open source project) also exists as a library, a component packaged for reuse within a given platform. Of course, developers can mix and match all possible combinations of these common building blocks.
+
+**架构风格演变**
+
+* Big Ball of Mud
+    1. Incremental change: 
+    2. Guided change via fitness functions: 
+    3. Appropriate coupling: 
+* Monoliths
+    1. Incremental change: 
+    2. Guided change via fitness functions: 
+    3. Appropriate coupling: 
+* Layered architecture
+    1. Incremental change: 
+    2. Guided change via fitness functions: 
+    3. Appropriate coupling: 
+* Modular monoliths: A modular monolith contains logical grouping of functionality with well-defined isolation between modules.
+    1. Incremental change: 
+    2. Guided change via fitness functions: 
+    3. Appropriate coupling: 
+* Microkernel
+    1. Incremental change: 
+    2. Guided change via fitness functions: 
+    3. Appropriate coupling: 
+* Event-Driven Architectures: Event-driven architectures (EDA) usually integrate several disparate systems together using message queues. There are two common implementations of this type of architecture: the broker and mediator patterns.
+    1. Incremental change: 
+    2. Guided change via fitness functions: 
+    3. Appropriate coupling: 
+* Service-Oriented Architectures: ESB-driven SOA A particular manner of creating SOAs became popular several years ago, building an architecture based around services and coordination via a service bus — typically called an Enterprise Service Bus (ESB).
+    1. Incremental change: 
+    2. Guided change via fitness functions: 
+    3. Appropriate coupling: 
+* Microservices architectures partition across domain lines, embedding the technical architecture
+    1. Incremental change: 
+    2. Guided change via fitness functions: 
+    3. Appropriate coupling: 
+* Service-based architectures A more commonly used architectural style for migration is a service-based architecture, which is similar to but differs from microservices in three important ways: service granularity, database scope, and integration middleware.
+    1. Incremental change: 
+    2. Guided change via fitness functions: 
+    3. Appropriate coupling: 
+* “Serverless” Architectures: “Serverless” architectures are a recent shift in the software development equilibrium, with two broad meanings, both applicable to evolutionary architecture.
+    1. Incremental change: 
+    2. Guided change via fitness functions: 
+    3. Appropriate coupling: 
+
+
 ## Chapter 5. Evolutionary Data
 -------
 
