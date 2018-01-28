@@ -2,7 +2,7 @@
 layout: post
 title:  "《Building Evolutionary Architectures》读书笔记"
 subtitle: "构建进化软件架构 读书笔记"
-date:   2018-01-28 8:00:00
+date:   2018-01-30 18:00:00
 background: 'http:/\/oo6gt25nl.bkt.clouddn.com/04.jpg'
 ---
 
@@ -82,57 +82,174 @@ of six stages.
 
 **架构风格演变**
 
-* Big Ball of Mud
-    1. Incremental change: 
-    2. Guided change via fitness functions: 
-    3. Appropriate coupling: 
-* Monoliths
-    1. Incremental change: 
-    2. Guided change via fitness functions: 
-    3. Appropriate coupling: 
-* Layered architecture
-    1. Incremental change: 
-    2. Guided change via fitness functions: 
-    3. Appropriate coupling: 
-* Modular monoliths: A modular monolith contains logical grouping of functionality with well-defined isolation between modules.
-    1. Incremental change: 
-    2. Guided change via fitness functions: 
-    3. Appropriate coupling: 
-* Microkernel
-    1. Incremental change: 
-    2. Guided change via fitness functions: 
-    3. Appropriate coupling: 
-* Event-Driven Architectures: Event-driven architectures (EDA) usually integrate several disparate systems together using message queues. There are two common implementations of this type of architecture: the broker and mediator patterns.
-    1. Incremental change: 
-    2. Guided change via fitness functions: 
-    3. Appropriate coupling: 
-* Service-Oriented Architectures: ESB-driven SOA A particular manner of creating SOAs became popular several years ago, building an architecture based around services and coordination via a service bus — typically called an Enterprise Service Bus (ESB).
-    1. Incremental change: 
-    2. Guided change via fitness functions: 
-    3. Appropriate coupling: 
+分别从Incremental change（增量更改）、Guided change via fitness functions（恰当功能指导变更）和Appropriate coupling（适当耦合）三个方面，分析历史过程中的各个架构风格
+
+#### Big Ball of Mud
+
+1. 增量更改: Making any change in this architecture is difficult.
+2. 指导变更: Building fitness functions for this architecture is difficult because no clearly defined partitioning exists.
+3. 适当耦合: This architectural style is a good example of inappropriate coupling.
+
+#### Monoliths
+
+1. 增量更改: 
+2. 指导变更:
+3. 适当耦合: 
+
+#### Layered architecture
+
+
+1. 增量更改: 
+2. 指导变更:
+3. 适当耦合: 
+
+#### Modular monoliths
+
+A modular monolith contains logical grouping of functionality with well-defined isolation between modules.
+
+1. 增量更改: 
+2. 指导变更:
+3. 适当耦合: 
+
+
+#### Microkernel
+
+1. 增量更改: 
+2. 指导变更:
+3. 适当耦合: 
+
+#### Event-Driven Architectures
+
+Event-driven architectures (EDA) usually integrate several disparate systems together using message queues. There are two common implementations of this type of architecture: the broker and mediator patterns.
+
+1. 增量更改: 
+2. 指导变更:
+3. 适当耦合: 
+
+#### Service-Oriented Architectures
+
+ESB-driven SOA A particular manner of creating SOAs became popular several years ago, building an architecture based around services and coordination via a service bus — typically called an Enterprise Service Bus (ESB).
+
+1. 增量更改: 
+2. 指导变更:
+3. 适当耦合: 
+
+#### Microservices
+
 * Microservices architectures partition across domain lines, embedding the technical architecture
-    1. Incremental change: 
-    2. Guided change via fitness functions: 
-    3. Appropriate coupling: 
+
+1. 增量更改: 
+2. 指导变更:
+3. 适当耦合: 
+
+#### Service-based architectures
+
 * Service-based architectures A more commonly used architectural style for migration is a service-based architecture, which is similar to but differs from microservices in three important ways: service granularity, database scope, and integration middleware.
-    1. Incremental change: 
-    2. Guided change via fitness functions: 
-    3. Appropriate coupling: 
+
+1. 增量更改: 
+2. 指导变更:
+3. 适当耦合: 
+
+#### Serverless
+
 * “Serverless” Architectures: “Serverless” architectures are a recent shift in the software development equilibrium, with two broad meanings, both applicable to evolutionary architecture.
-    1. Incremental change: 
-    2. Guided change via fitness functions: 
-    3. Appropriate coupling: 
+
+1. 增量更改: 
+2. 指导变更:
+3. 适当耦合: 
 
 
 ## Chapter 5. Evolutionary Data
 -------
 
+When we refer to the DBA, we mean anyone who designs the data structures, writes code to access the data and use the data in an application, writes code that executes in the database, maintains and performance tunes the databases, and ensures proper backup and recovery procedures in the event of disaster. DBAs and developers are often the core builders of applications, and should coordinate closely.
+
+Option 1: No integration points, no legacy data
+
+ALTER TABLE customer ADD firstname VARCHAR2( 60); ALTER TABLE customer ADD lastname VARCHAR2( 60); ALTER TABLE customer DROP COLUMN name;
+
+Option 2: Legacy data, but no integration points
+
+ALTER TABLE Customer ADD firstname VARCHAR2( 60); ALTER TABLE Customer ADD lastname VARCHAR2( 60); UPDATE Customer set firstname = extractfirstname (name); UPDATE Customer set lastname = extractlastname (name); ALTER TABLE customer DROP COLUMN name;
+
+Option 3: Existing data and integration points
+
+ALTER TABLE Customer ADD firstname VARCHAR2( 60); ALTER TABLE Customer ADD lastname VARCHAR2( 60); UPDATE Customer set firstname = extractfirstname (name); UPDATE Customer set lastname = extractlastname (name); CREATE OR REPLACE TRIGGER SynchronizeName
+
+BEFORE INSERT OR UPDATE ON Customer REFERENCING OLD AS OLD NEW AS NEW FOR EACH ROW BEGIN IF :NEW.Name IS NULL THEN :NEW.Name := :NEW.firstname | |' '| |: NEW.lastname; END IF; IF :NEW.name IS NOT NULL THEN :NEW.firstname := extractfirstname(: NEW.name); :NEW.lastname := extractlastname(: NEW.name); END IF; END;
+
+
+
 ## Chapter 6. Building Evolvable Architectures
 -------
+
+Mechanics Architects can operationalize these techniques for building an evolutionary architecture in three steps:
+
+1. Identify Dimensions Affected by Evolution
+
+First, architects must identify which dimensions of the architecture they want to protect as it evolves.
+
+2. Define Fitness Function( s) for Each Dimension
+
+A single dimension often contains numerous fitness functions.
+
+Then, for each dimension, they decide what parts may exhibit undesirable behavior when evolving, eventually defining fitness functions.
+
+3. Use Deployment Pipelines to Automate Fitness Functions
+
+Lastly, architects must encourage incremental change on the project, defining stages in a deployment pipeline to apply fitness functions and managing deployment practices like machine provisioning, testing, and other DevOps concerns.
+
+Retrofitting Existing Architectures Adding evolvability to existing architectures depends on three factors: component coupling, engineering practice maturity, and developer ease in crafting fitness functions.
+
+For the first step in migrating architecture, developers identify new service boundaries. Teams may decide to break monoliths into services via a variety of partitioning as follows:
+
+Business functionality groups
+
+A business may have clear partitions that mirror IT capabilities directly. Building
+
+Transactional boundaries
+
+Many businesses have extensive transaction boundaries they must adhere to.
+
+Deployment goals
+
+Incremental change allows developers to selectively release code on different schedules.
+
+
 
 ## Chapter 7. Evolutionary Architecture Pitfalls and Antipatterns
 -------
 
+Antipattern: Vendor King
+
+Rather than fall victim to the vendor king antipattern, treat vendor products as just another integration point. Developers can insulate vendor tool changes from impacting their architecture by building anticorruption layers between integration points.
+
+A typical software stack in 2016, with lots of moving parts
+
+Microservices eschew code reuse, adopting the philosophy of prefer duplication to coupling: reuse implies coupling, and microservices architectures are extremely decoupled.
+
+We’re not suggesting teams avoid building reusable assets, but rather evaluate them continually to ensure they still deliver value.
+
+
 ## Chapter 8. Putting Evolutionary Architecture into Practice
 -------
+
+This includes both technical and business concerns, including organization and team impacts.
+
+Organizational Factors The impact of software architecture has a surprisingly wide breadth on a variety of factors not normally associated with software, including team impacts, budgeting, and a host of others.
+
+Cross-Functional Teams
+
+these roles must change to accommodate this new structure, which includes the following roles:
+
+Business Analysts Must coordinate the goals of this service with other services, including other service teams. Architecture Design architecture to eliminate inappropriate coupling that complicates incremental change.
+
+Testing Testers must become accustomed to the challenges of integration testing across domains,
+
+Operations Slicing up services and deploying them separately (often alongside existing services and deployed continuously) is a daunting challenge for many organizations with traditional
+
+IT structures.
+
+Data Database administrators must deal with new granularity, transaction, and system of record issues.
+
 
