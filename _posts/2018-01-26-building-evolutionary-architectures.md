@@ -20,7 +20,7 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/04.jpg'
     * Operational/System: Concerns how the architecture maps to existing physical and/ or virtual infrastructure: servers, machine clusters, switches, cloud resources, and so on. 
 * Each of these perspectives forms a dimension of the architecture — an intentional partitioning of the parts supporting a particular perspective.
 * An architecture consists of both requirements and other dimensions, each protected by fitness functions
-![evolutionary-scope](http://oo6gt25nl.bkt.clouddn.com/evolutionary-scope.jpg)
+![evolutionary-scope](http://oo6gt25nl.bkt.clouddn.com/evolutionary-scope.jpg){:height="100%" width="100%"}
 
 * An evolutionary architecture consists of three primary aspects: **incremental change, fitness functions, and appropriate coupling**.
 
@@ -33,7 +33,7 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/04.jpg'
     * An architectural fitness function provides an objective integrity assessment of some architectural characteristic(s). 
     * 恰当功能提供了一些架构特征的客观完整性评估
 * The systemwide fitness function is crucial for an architecture to be evolutionary, as we need some basis to allow architects to compare and evaluate architectural characteristics against one another.
-![evolutionary-systemwide](http://oo6gt25nl.bkt.clouddn.com/evolutionary-systemwide.jpg)
+![evolutionary-systemwide](http://oo6gt25nl.bkt.clouddn.com/evolutionary-systemwide.jpg){:height="100%" width="100%"}
 
 * A system is never the sum of its parts. It is the product of the interactions of its parts. Dr. - Russel Ackoff
 * **Identify Fitness Functions Early.** Teams should identify fitness functions as part of their initial understanding of the overall architecture concerns that their design must support. They should also identify their system fitness function early to help determine the sort of change that they want to support.
@@ -55,7 +55,7 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/04.jpg'
     4. holistic + continual: Holistic, continual fitness functions test multiple parts of the system all the time.
 
 **PenultimateWidgets deployment pipeline**
-![evolutionary-pipeline](http://oo6gt25nl.bkt.clouddn.com/evolutionary-pipeline.jpg)
+![evolutionary-pipeline](http://oo6gt25nl.bkt.clouddn.com/evolutionary-pipeline.jpg){:height="100%" width="100%"}
 
 PenultimateWidgets’ deployment pipeline consists
 of six stages. 
@@ -75,7 +75,7 @@ of six stages.
 * Discussions about architecture frequently boil down to coupling: how the pieces of the architecture connect and rely on one another（架构的各个部分是如何相互连接和依赖的）.
 * In evolutionary architecture, architects deal with architectural quanta, the parts of a system held together by hard-to-break forces.
 * The relationship between modules, components and quanta
-![evolutionary-quantum](http://oo6gt25nl.bkt.clouddn.com/evolutionary-quantum.jpg)
+![evolutionary-quantum](http://oo6gt25nl.bkt.clouddn.com/evolutionary-quantum.jpg){:height="100%" width="100%"}
 
 * the outermost container is the quantum: the deployable unit that includes all the facilities required for the system to function properly, including data.
 * Within the quantum, several components exist, each consisting of code (classes, packages, namespaces, functions, and so on). An external component (from an open source project) also exists as a library, a component packaged for reuse within a given platform. Of course, developers can mix and match all possible combinations of these common building blocks.
@@ -92,71 +92,95 @@ of six stages.
 
 #### Monoliths
 
-1. 增量更改: 
-2. 指导变更:
-3. 适当耦合: 
+1. 增量更改: Large quantum size hinders incremental change because high coupling requires deploying large chunks of the application.
+2. 指导变更: Building fitness functions for monoliths is difficult but not impossible.
+3. 适当耦合: A monolithic architecture, with little internal structure outside simple classes, exhibits coupling almost as bad as a Big Ball of Mud.
 
 #### Layered architecture
+Each layer represents a technical capability, allowing developers to swap out technical architecture functionality easily.
 
+![evolutionary-layer](http://oo6gt25nl.bkt.clouddn.com/evolutionary-layer.jpg){:height="100%" width="100%"}
 
-1. 增量更改: 
-2. 指导变更:
-3. 适当耦合: 
+1. 增量更改: Developers find it easy to make some changes in this architecture, particularly if those changes are isolated to existing layers.
+2. 指导变更: Developers find it easier to write fitness functions in a more structured version of a monolith because the structure of the architecture is more apparent.
+3. 适当耦合: One of the virtues of monolith architectures is easy understandability. Layered architectures allow for easy evolution of the technical architecture partitions defined by the layers.
 
 #### Modular monoliths
 
 A modular monolith contains logical grouping of functionality with well-defined isolation between modules.
 
-1. 增量更改: 
-2. 指导变更:
-3. 适当耦合: 
+![evolutionary-modular](http://oo6gt25nl.bkt.clouddn.com/evolutionary-modular.jpg){:height="100%" width="100%"}
 
+1. 增量更改: Incremental change is easy in this type of architecture because developers can enforce modularity. 
+2. 指导变更: Tests, metrics, and other fitness function mechanisms are easier to design and implement in this architecture because of good separation of components, allowing easier mocking and other testing techniques that rely on isolation layers.
+3. 适当耦合: A well-designed modular monolith is a good example of appropriate coupling. 
 
 #### Microkernel
 
-1. 增量更改: 
-2. 指导变更:
-3. 适当耦合: 
+Consider another popular monolithic architectural style, the microkernal architecture, commonly found in browsers and integrated development environments (IDEs)
+
+1. 增量更改: Once the core system is complete, most behavior should come from plug-ins, small units of deployment.
+2. 指导变更: Fitness functions are typically easy to create in this architecture because of the isolation between the core and plug-ins.
+3. 适当耦合: The coupling characteristics in this architecture are well defined by the microkernel pattern.
 
 #### Event-Driven Architectures
 
 Event-driven architectures (EDA) usually integrate several disparate systems together using message queues. There are two common implementations of this type of architecture: the broker and mediator patterns.
 
-1. 增量更改: 
-2. 指导变更:
-3. 适当耦合: 
+**Brokers**
+
+In a broker EDA, the architectural components consist of the following elements: 
+
+* message queues : Message queues implemented via a wide variety of technologies such as JMS (Java Messaging Service). 
+* initiating event : The event that starts the business process. 
+* intra-process events : Events passed between event processors to fulfill a business process. 
+* event processors : The active architecture components, which perform actual business processing. When two processors need to coordinate, they pass messages via queues.
+
+![evolutionary-broker](http://oo6gt25nl.bkt.clouddn.com/evolutionary-broker.jpg){:height="100%" width="100%"}
+
+1. 增量更改: Broker EDAs allow incremental change in multiple forms. Building deployment pipelines for broker EDAs can be challenging because the essence of the architecture is asynchronous communication, which is notoriously difficult to test.
+2. 指导变更: Atomic fitness functions should be easy for developers to write in this architecture because the individual behaviors of event processors is simple.
+3. 适当耦合: Broker EDAs exhibit a low degree of coupling, enhancing the ability to make evolutionary change.
+
+**Mediators**
+
+The other common EDA pattern is the mediator, where an additional component appears: a hub that acts as a coordinator
+
+![evolutionary-mediator](http://oo6gt25nl.bkt.clouddn.com/evolutionary-mediator.jpg){:height="100%" width="100%"}
+
+1. 增量更改: Similar to broker EDAs, the services in a mediator EDA are typically small and self-contained. Thus, this architecture shares many of the operational advantages of the broker version.
+2. 指导变更: Developers find it easier to build fitness functions for the mediator than for the broker EDA. The tests for individual event processors don’t differ much from the broker version. However, holistic fitness functions are easier to build because developers can rely on the mediator to handle coordination.
+3. 适当耦合:  While many testing scenarios become easier with mediators, coupling increases, harming evolution.
 
 #### Service-Oriented Architectures
 
 ESB-driven SOA A particular manner of creating SOAs became popular several years ago, building an architecture based around services and coordination via a service bus — typically called an Enterprise Service Bus (ESB).
 
-1. 增量更改: 
-2. 指导变更:
-3. 适当耦合: 
+1. 增量更改: While having a well-established technical service taxonomy allows for reuse and segregation of resources, it greatly hampers making the most common types of change to business domains.
+2. 指导变更: Testing in general is difficult within ESB-driven SOA.
+3. 适当耦合: From a potential enterprise reuse standpoint, extravagant taxonomy makes sense.
+
+
 
 #### Microservices
 
 * Microservices architectures partition across domain lines, embedding the technical architecture
 
-1. 增量更改: 
-2. 指导变更:
-3. 适当耦合: 
+1. 增量更改: Both aspects of incremental change are easy in microservices architectures. 
+2. 指导变更: Developers can easily build both atomic and holistic fitness functions for microservices architectures.
+3. 适当耦合: Microservices architectures typically have two kinds of coupling: integration and service template.
 
-#### Service-based architectures
-
-* Service-based architectures A more commonly used architectural style for migration is a service-based architecture, which is similar to but differs from microservices in three important ways: service granularity, database scope, and integration middleware.
-
-1. 增量更改: 
-2. 指导变更:
-3. 适当耦合: 
 
 #### Serverless
 
 * “Serverless” Architectures: “Serverless” architectures are a recent shift in the software development equilibrium, with two broad meanings, both applicable to evolutionary architecture.
 
-1. 增量更改: 
-2. 指导变更:
-3. 适当耦合: 
+![evolutionary-baas](http://oo6gt25nl.bkt.clouddn.com/evolutionary-baas.jpg){:height="100%" width="100%"}
+
+
+1. 增量更改: Incremental change in serverless architectures should consist of redeploying code — all the infrastructure concerns exist behind the abstraction of “serverless.” 
+2. 指导变更: Fitness functions are critical in this type of architecture to ensure integration points stay consistent.
+3. 适当耦合: From an evolutionary architecture standpoint, FaaS is attractive because it eliminates several different dimensions from consideration: technical architecture, operational concerns, and security issues, among others.
 
 
 ## Chapter 5. Evolutionary Data
@@ -166,90 +190,106 @@ When we refer to the DBA, we mean anyone who designs the data structures, writes
 
 Option 1: No integration points, no legacy data
 
-ALTER TABLE customer ADD firstname VARCHAR2( 60); ALTER TABLE customer ADD lastname VARCHAR2( 60); ALTER TABLE customer DROP COLUMN name;
+
+```
+ALTER TABLE customer ADD firstname VARCHAR2( 60); 
+ALTER TABLE customer ADD lastname VARCHAR2( 60); 
+ALTER TABLE customer DROP COLUMN name;
+```
+
 
 Option 2: Legacy data, but no integration points
 
-ALTER TABLE Customer ADD firstname VARCHAR2( 60); ALTER TABLE Customer ADD lastname VARCHAR2( 60); UPDATE Customer set firstname = extractfirstname (name); UPDATE Customer set lastname = extractlastname (name); ALTER TABLE customer DROP COLUMN name;
+```
+ALTER TABLE Customer ADD firstname VARCHAR2( 60); 
+ALTER TABLE Customer ADD lastname VARCHAR2( 60); 
+UPDATE Customer set firstname = extractfirstname (name); UPDATE Customer set lastname = extractlastname (name); 
+ALTER TABLE customer DROP COLUMN name;
+```
 
 Option 3: Existing data and integration points
 
-ALTER TABLE Customer ADD firstname VARCHAR2( 60); ALTER TABLE Customer ADD lastname VARCHAR2( 60); UPDATE Customer set firstname = extractfirstname (name); UPDATE Customer set lastname = extractlastname (name); CREATE OR REPLACE TRIGGER SynchronizeName
+```
+ALTER TABLE Customer ADD firstname VARCHAR2( 60); 
+ALTER TABLE Customer ADD lastname VARCHAR2( 60); 
 
-BEFORE INSERT OR UPDATE ON Customer REFERENCING OLD AS OLD NEW AS NEW FOR EACH ROW BEGIN IF :NEW.Name IS NULL THEN :NEW.Name := :NEW.firstname | |' '| |: NEW.lastname; END IF; IF :NEW.name IS NOT NULL THEN :NEW.firstname := extractfirstname(: NEW.name); :NEW.lastname := extractlastname(: NEW.name); END IF; END;
+UPDATE Customer set firstname = extractfirstname (name); UPDATE Customer set lastname = extractlastname (name); 
 
+CREATE OR REPLACE TRIGGER SynchronizeName
+BEFORE INSERT OR UPDATE 
+ON Customer 
+REFERENCING OLD AS OLD NEW AS NEW 
+FOR EACH ROW 
+BEGIN 
+    IF :NEW.Name IS NULL THEN :NEW.Name := :NEW.firstname | |' '| |: NEW.lastname; 
+    END IF; IF :NEW.name IS NOT NULL THEN 
+        :NEW.firstname := extractfirstname(: NEW.name); 
+firstnam:NEW.lastname := extractlastname(: NEW.name); 
+  END IF; 
+END;
+
+```
 
 
 ## Chapter 6. Building Evolvable Architectures
 -------
 
-Mechanics Architects can operationalize these techniques for building an evolutionary architecture in three steps:
+### Mechanics 
 
-1. Identify Dimensions Affected by Evolution
+Architects can operationalize these techniques for building an evolutionary architecture in three steps:
 
-First, architects must identify which dimensions of the architecture they want to protect as it evolves.
+1. Identify Dimensions Affected by Evolution：First, architects must identify which dimensions of the architecture they want to protect as it evolves.
+2. Define Fitness Function(s) for Each Dimension：A single dimension often contains numerous fitness functions. Then, for each dimension, they decide what parts may exhibit undesirable behavior when evolving, eventually defining fitness functions.
+3. Use Deployment Pipelines to Automate Fitness Functions：Lastly, architects must encourage incremental change on the project, defining stages in a deployment pipeline to apply fitness functions and managing deployment practices like machine provisioning, testing, and other DevOps concerns.
 
-2. Define Fitness Function( s) for Each Dimension
+### Retrofitting Existing Architectures 
 
-A single dimension often contains numerous fitness functions.
-
-Then, for each dimension, they decide what parts may exhibit undesirable behavior when evolving, eventually defining fitness functions.
-
-3. Use Deployment Pipelines to Automate Fitness Functions
-
-Lastly, architects must encourage incremental change on the project, defining stages in a deployment pipeline to apply fitness functions and managing deployment practices like machine provisioning, testing, and other DevOps concerns.
-
-Retrofitting Existing Architectures Adding evolvability to existing architectures depends on three factors: component coupling, engineering practice maturity, and developer ease in crafting fitness functions.
+Adding evolvability to existing architectures depends on three factors: component coupling, engineering practice maturity, and developer ease in crafting fitness functions.
 
 For the first step in migrating architecture, developers identify new service boundaries. Teams may decide to break monoliths into services via a variety of partitioning as follows:
 
-Business functionality groups
+* Business functionality groups：A business may have clear partitions that mirror IT capabilities directly.
 
-A business may have clear partitions that mirror IT capabilities directly. Building
+* Transactional boundaries：Many businesses have extensive transaction boundaries they must adhere to.
 
-Transactional boundaries
-
-Many businesses have extensive transaction boundaries they must adhere to.
-
-Deployment goals
-
-Incremental change allows developers to selectively release code on different schedules.
+* Deployment goals：Incremental change allows developers to selectively release code on different schedules.
 
 
 
 ## Chapter 7. Evolutionary Architecture Pitfalls and Antipatterns
 -------
 
-Antipattern: Vendor King
+* Antipattern: Vendor King：Rather than fall victim to the vendor king antipattern, treat vendor products as just another integration point. Developers can insulate vendor tool changes from impacting their architecture by building anticorruption layers between integration points.
 
-Rather than fall victim to the vendor king antipattern, treat vendor products as just another integration point. Developers can insulate vendor tool changes from impacting their architecture by building anticorruption layers between integration points.
+* A typical software stack in 2016, with lots of moving parts
 
-A typical software stack in 2016, with lots of moving parts
+![evolutionary-2016](http://oo6gt25nl.bkt.clouddn.com/evolutionary-2016.jpg){:height="100%" width="100%"}
 
-Microservices eschew code reuse, adopting the philosophy of prefer duplication to coupling: reuse implies coupling, and microservices architectures are extremely decoupled.
 
-We’re not suggesting teams avoid building reusable assets, but rather evaluate them continually to ensure they still deliver value.
+* Microservices eschew code reuse, adopting the philosophy of prefer duplication to coupling: reuse implies coupling, and microservices architectures are extremely decoupled.
+
+* We’re not suggesting teams avoid building reusable assets, but rather evaluate them continually to ensure they still deliver value.
 
 
 ## Chapter 8. Putting Evolutionary Architecture into Practice
 -------
 
-This includes both technical and business concerns, including organization and team impacts.
+**This includes both technical and business concerns, including organization and team impacts.**
 
-Organizational Factors The impact of software architecture has a surprisingly wide breadth on a variety of factors not normally associated with software, including team impacts, budgeting, and a host of others.
+### Organizational Factors 
 
-Cross-Functional Teams
+The impact of software architecture has a surprisingly wide breadth on a variety of factors not normally associated with software, including team impacts, budgeting, and a host of others.
+
+**Cross-Functional Teams**
 
 these roles must change to accommodate this new structure, which includes the following roles:
 
-Business Analysts Must coordinate the goals of this service with other services, including other service teams. Architecture Design architecture to eliminate inappropriate coupling that complicates incremental change.
+1. Business Analysts：Must coordinate the goals of this service with other services, including other service teams. 
+2. Architecture: Design architecture to eliminate inappropriate coupling that complicates incremental change.
+3. Testing: Testers must become accustomed to the challenges of integration testing across domains,
+4. Operations: Slicing up services and deploying them separately (often alongside existing services and deployed continuously) is a daunting challenge for many organizations with traditional IT structures.
+5. Data: Database administrators must deal with new granularity, transaction, and system of record issues.
 
-Testing Testers must become accustomed to the challenges of integration testing across domains,
 
-Operations Slicing up services and deploying them separately (often alongside existing services and deployed continuously) is a daunting challenge for many organizations with traditional
-
-IT structures.
-
-Data Database administrators must deal with new granularity, transaction, and system of record issues.
 
 
