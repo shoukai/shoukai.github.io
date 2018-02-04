@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "《企业IT架构转型之道》读书笔记"
+title:  "《企业IT架构转型之道》笔记"
 subtitle: "阿里巴巴中台战略思想与架构实战"
 date:   2018-01-26 8:00:00
 background: 'http:/\/oo6gt25nl.bkt.clouddn.com/04.jpg'

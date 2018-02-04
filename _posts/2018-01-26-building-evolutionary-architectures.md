@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "《Building Evolutionary Architectures》读书笔记"
-subtitle: "构建进化软件架构 读书笔记"
+title:  "Building Evolutionary Architectures"
+subtitle: "构建进化软件架构笔记"
 date:   2018-01-30 18:00:00
 background: 'http:/\/oo6gt25nl.bkt.clouddn.com/04.jpg'
 ---
