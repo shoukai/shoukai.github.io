@@ -59,6 +59,10 @@
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
+table {
+    width: 100%;
+}
+
 /* Table Head */
 table thead th {
     background-color: rgb(81, 130, 187);
