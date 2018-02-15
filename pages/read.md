@@ -10,6 +10,7 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/bg-about.jpg'
 ----
 
 | --- | --- |
+| 名称：[Spark MLlib机器学习实践](https://book.douban.com/subject/26814101/)<br>阅读：2018-02-14 21:54:55<br>出版：2015-12-1<br>评价：0.0/10<br>Tags：【考虑】；spark | ![](https://img3.doubanio.com/mpic/s28798672.jpg) |
 | 名称：[高性能服务系统构建与实战](https://book.douban.com/subject/27093709/)<br>阅读：2018-02-12 18:56:58<br>出版：2017-7<br>评价：0.0/10<br>Tags：高性能；软件开发；服务器 | ![](https://img3.doubanio.com/mpic/s29499765.jpg) |
 | 名称：[Tomcat架构解析](https://book.douban.com/subject/27034717/)<br>阅读：2018-02-07 23:38:45<br>出版：2017-5<br>评价：0.0/10<br>Tags：Tomcat；Java；工具书 | ![](https://img3.doubanio.com/mpic/s29440406.jpg) |
 | 名称：[深入浅出MyBatis技术原理与实战](https://book.douban.com/subject/26858114/)<br>阅读：2018-02-04 22:05:03<br>出版：2016-8-1<br>评价：5.4/10<br>Tags：mybatis；Java；计算机 | ![](https://img3.doubanio.com/mpic/s28986126.jpg) |
