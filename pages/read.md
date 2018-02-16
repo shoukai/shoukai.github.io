@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reading
-description: 我的阅读清单
+description: 我的阅读
 background: 'http:/\/oo6gt25nl.bkt.clouddn.com/bg-about.jpg'
 ---
 
@@ -10,6 +10,8 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/bg-about.jpg'
 ----
 
 | --- | --- |
+| 名称：[Tensorflow：实战Google深度学习框架](https://book.douban.com/subject/26976457/)<br>阅读：2018-02-16 20:31:49<br>出版：2017-2-10<br>评价：8.1/10<br>Tags：深度学习；tensorflow；机器学习 | ![](https://img3.doubanio.com/mpic/s29349250.jpg) |
+| 名称：[Apache Tomcat 6高级编程](https://book.douban.com/subject/3565840/)<br>阅读：2018-02-16 17:03:50<br>出版：2009-3<br>评价：7.4/10<br>Tags：tomcat；apache；Tomcat | ![](https://img1.doubanio.com/mpic/s5992597.jpg) |
 | 名称：[Spark MLlib机器学习实践](https://book.douban.com/subject/26814101/)<br>阅读：2018-02-14 21:54:55<br>出版：2015-12-1<br>评价：0.0/10<br>Tags：【考虑】；spark | ![](https://img3.doubanio.com/mpic/s28798672.jpg) |
 | 名称：[高性能服务系统构建与实战](https://book.douban.com/subject/27093709/)<br>阅读：2018-02-12 18:56:58<br>出版：2017-7<br>评价：0.0/10<br>Tags：高性能；软件开发；服务器 | ![](https://img3.doubanio.com/mpic/s29499765.jpg) |
 | 名称：[Tomcat架构解析](https://book.douban.com/subject/27034717/)<br>阅读：2018-02-07 23:38:45<br>出版：2017-5<br>评价：0.0/10<br>Tags：Tomcat；Java；工具书 | ![](https://img3.doubanio.com/mpic/s29440406.jpg) |
