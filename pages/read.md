@@ -10,6 +10,7 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/bg-about.jpg'
 ----
 
 | --- | --- |
+| 名称：[看透Spring MVC](https://book.douban.com/subject/26696099/)<br>阅读：2018-02-17 21:29:45<br>出版：2016-1-1<br>评价：7.4/10<br>Tags：spring；Java；源码 | ![](https://img1.doubanio.com/mpic/s28824099.jpg) |
 | 名称：[架构即未来：现代企业可扩展的Web架构、流程和组织(原书第2版)](https://book.douban.com/subject/26765979/)<br>阅读：2018-02-16 22:37:13<br>出版：2016-4-15<br>评价：8.5/10<br>Tags：架构；计算机；管理 | ![](https://img3.doubanio.com/mpic/s28603091.jpg) |
 | 名称：[原则](https://book.douban.com/subject/27608239/)<br>阅读：2018-02-16 21:25:17<br>出版：2018-1<br>评价：8.6/10<br>Tags：思维；个人管理；投资 | ![](https://img3.doubanio.com/mpic/s29643861.jpg) |
 | 名称：[Tensorflow：实战Google深度学习框架](https://book.douban.com/subject/26976457/)<br>阅读：2018-02-16 20:31:49<br>出版：2017-2-10<br>评价：8.1/10<br>Tags：深度学习；tensorflow；机器学习 | ![](https://img3.doubanio.com/mpic/s29349250.jpg) |
