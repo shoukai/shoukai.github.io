@@ -10,6 +10,8 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/bg-about.jpg'
 ----
 
 | --- | --- |
+| 名称：[图数据库](https://book.douban.com/subject/26334785/)<br>时间：2018-02-19<br>出版：2015-2-1<br>豆瓣：7.3/10<br>个人：4/5<br>点评：精简、入门<br>Tags：数据库；图数据库；软件开发 | ![](https://img1.doubanio.com/mpic/s28017088.jpg) |
+| 名称：[大话互联网模式](https://book.douban.com/subject/26918470/)<br>时间：2018-02-19<br>出版：2016-11<br>豆瓣：0.0/10<br>个人：3/5<br>点评：范围很广，有一定收获<br>Tags：赚钱模式；盈利模式；商业模式 | ![](https://img3.doubanio.com/mpic/s29163905.jpg) |
 | 名称：[看透Spring MVC](https://book.douban.com/subject/26696099/)<br>时间：2018-02-17<br>出版：2016-1-1<br>豆瓣：7.4/10<br>个人：3/5<br>点评：部分错误……<br>Tags：spring；Java；源码 | ![](https://img1.doubanio.com/mpic/s28824099.jpg) |
 | 名称：[架构即未来：现代企业可扩展的Web架构、流程和组织(原书第2版)](https://book.douban.com/subject/26765979/)<br>时间：2018-02-16<br>出版：2016-4-15<br>豆瓣：8.5/10<br>个人：5/5<br>点评：拓展思维局限，推荐<br>Tags：架构；计算机；管理 | ![](https://img3.doubanio.com/mpic/s28603091.jpg) |
 | 名称：[原则](https://book.douban.com/subject/27608239/)<br>时间：2018-02-16<br>出版：2018-1<br>豆瓣：8.6/10<br>个人：3/5<br>点评：目标导向，关注人文<br>Tags：思维；个人管理；管理 | ![](https://img3.doubanio.com/mpic/s29643861.jpg) |
