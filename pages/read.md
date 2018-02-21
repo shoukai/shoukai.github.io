@@ -10,6 +10,7 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/bg-about.jpg'
 ----
 
 | --- | --- |
+| 名称：[Netty权威指南（第2版）](https://book.douban.com/subject/26373138/)<br>时间：2018-02-21<br>出版：2015-4-20<br>豆瓣：6.7/10<br>个人：4/5<br>点评：未评价<br>Tags：netty；Java；nio | ![](https://img3.doubanio.com/mpic/s28055322.jpg) |
 | 名称：[SOA与REST](https://book.douban.com/subject/25798270/)<br>时间：2018-02-20<br>出版：2013-12-12<br>豆瓣：0.0/10<br>个人：4/5<br>点评：理论性很强，个人SOA理论基础还不够，和微服务思想对应有点困难，还需要继续理解<br>Tags：REST；SOA；软件开发 | ![](https://img3.doubanio.com/mpic/s27256042.jpg) |
 | 名称：[图数据库](https://book.douban.com/subject/26334785/)<br>时间：2018-02-19<br>出版：2015-2-1<br>豆瓣：7.3/10<br>个人：4/5<br>点评：精简、入门<br>Tags：数据库；图数据库；软件开发 | ![](https://img1.doubanio.com/mpic/s28017088.jpg) |
 | 名称：[大话互联网模式](https://book.douban.com/subject/26918470/)<br>时间：2018-02-19<br>出版：2016-11<br>豆瓣：0.0/10<br>个人：3/5<br>点评：范围很广，有一定收获<br>Tags：赚钱模式；盈利模式；商业模式 | ![](https://img3.doubanio.com/mpic/s29163905.jpg) |
