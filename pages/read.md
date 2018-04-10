@@ -10,6 +10,7 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/bg-about.jpg'
 ----
 
 | --- | --- |
+| 名称：[10人以下小团队管理手册](https://book.douban.com/subject/27019726/)<br>时间：2018-04-10<br>出版：2017-5<br>豆瓣：7.7/10<br>个人：4/5<br>点评：将心比心<br>Tags：管理；团队管理；管理学 | ![](https://img3.doubanio.com/view/subject/m/public/s29425665.jpg) |
 | 名称：[哲学家们都干了些什么](https://book.douban.com/subject/26390842/)<br>时间：2018-03-11<br>出版：2015-7-1<br>豆瓣：8.7/10<br>个人：4/5<br>点评：未评价<br>Tags：哲学；哲学史；科普 | ![](https://img3.doubanio.com/mpic/s28073424.jpg) |
 | 名称：[Kafka权威指南](https://book.douban.com/subject/27665114/)<br>时间：2018-03-11<br>出版：2017-12-26<br>豆瓣：0.0/10<br>个人：4/5<br>点评：未评价<br>Tags：Kafka；架构；大数据流 | ![](https://img3.doubanio.com/mpic/s29665582.jpg) |
 | 名称：[Netty权威指南（第2版）](https://book.douban.com/subject/26373138/)<br>时间：2018-02-21<br>出版：2015-4-20<br>豆瓣：6.7/10<br>个人：4/5<br>点评：未评价<br>Tags：netty；Java；nio | ![](https://img3.doubanio.com/mpic/s28055322.jpg) |
@@ -177,8 +178,7 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/bg-about.jpg'
 | 名称：[图解Spark：核心技术与案例实战](https://book.douban.com/subject/26937422/)<br>时间：2017-02-02<br>出版：2017-1<br>豆瓣：0.0/10<br>个人：5/5<br>点评：核心篇较为丰富，组件篇内容略泛泛<br>Tags：spark；大数据；数据平台 | ![](https://img3.doubanio.com/mpic/s29227404.jpg) |
 | 名称：[富爸爸穷爸爸](https://book.douban.com/subject/3291111/)<br>时间：2017-02-02<br>出版：2008-10<br>豆瓣：8.5/10<br>个人：5/5<br>点评：我们需要不止一项技能<br>Tags：理财；投资理财；富爸爸穷爸爸 | ![](https://img3.doubanio.com/mpic/s3354143.jpg) |
 | 名称：[人性的弱点](https://book.douban.com/subject/20386249/)<br>时间：2017-01-30<br>出版：2012-12<br>豆瓣：8.2/10<br>个人：5/5<br>点评：路长远…<br>Tags：人性的弱点；心理学；卡耐基 | ![](https://img3.doubanio.com/mpic/s24561321.jpg) |
-| 名称：[软技能](https://book.douban.com/subject/26835090/)<br>时间：2017-01-30<br>出版：2016-7<br>豆瓣：8.0/10<br>个人：5/5<br>点评：启发我重新思考当前工作及目前所处状况
-的一本书<br>Tags：软技能；程序员；个人管理 | ![](https://img3.doubanio.com/mpic/s28889106.jpg) |
+| 名称：[软技能](https://book.douban.com/subject/26835090/)<br>时间：2017-01-30<br>出版：2016-7<br>豆瓣：8.0/10<br>个人：5/5<br>点评：启发我重新思考当前工作及目前所处状况的一本书<br>Tags：软技能；程序员；个人管理 | ![](https://img3.doubanio.com/mpic/s28889106.jpg) |
 | 名称：[Java微服务](https://book.douban.com/subject/26937350/)<br>时间：2017-01-29<br>出版：2017-1<br>豆瓣：5.4/10<br>个人：4/5<br>点评：保持领域模型的完整性有各种可以遵守的原则，原则如：有界上下文；持续集成；上下文映射（共享内核、客户供应商、顺从者、反复层、开发主机服务、精馏）<br>Tags：微服务；Java；架构 | ![](https://img1.doubanio.com/mpic/s29227249.jpg) |
 | 名称：[你从未真正拼过](https://book.douban.com/subject/26882462/)<br>时间：2017-01-11<br>出版：2016-10-10<br>豆瓣：6.7/10<br>个人：5/5<br>点评：感触最深的一句话：千万不要用战术上的勤奋，来掩盖你战略上的懒惰<br>Tags：职场；自我成长；励志 | ![](https://img3.doubanio.com/mpic/s29068026.jpg) |
 
