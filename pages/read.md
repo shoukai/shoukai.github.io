@@ -10,7 +10,11 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/bg-about.jpg'
 ----
 
 | --- | --- |
-| 名称：[10人以下小团队管理手册](https://book.douban.com/subject/27019726/)<br>时间：2018-04-10<br>出版：2017-5<br>豆瓣：7.7/10<br>个人：4/5<br>点评：将心比心<br>Tags：管理；团队管理；管理学 | ![](https://img3.doubanio.com/view/subject/m/public/s29425665.jpg) |
+| 名称：[Java并发编程的艺术](https://book.douban.com/subject/26591326/)<br>时间：2018-06-18<br>出版：2015-7-1<br>豆瓣：7.2/10<br>个人：4/5<br>点评：经常翻翻<br>Tags：Java；并发；并发编程 | ![](https://img1.doubanio.com/mpic/s28275418.jpg) |
+| 名称：[持续交付](https://book.douban.com/subject/6862062/)<br>时间：2018-06-18<br>出版：2011-10<br>豆瓣：8.6/10<br>个人：5/5<br>点评：思维已经融入开发过程之中<br>Tags：软件工程；持续交付；敏捷开发 | ![](https://img3.doubanio.com/mpic/s27996261.jpg) |
+| 名称：[清单革命](https://book.douban.com/subject/10788371/)<br>时间：2018-06-18<br>出版：2012-7-1<br>豆瓣：7.0/10<br>个人：5/5<br>点评：GTD新理解，不同类型的清单，<br>Tags：管理；自我管理；思维 | ![](https://img1.doubanio.com/mpic/s10324198.jpg) |
+| 名称：[佛学概论](https://book.douban.com/subject/5984387/)<br>时间：2018-05-07<br>出版：2011-1<br>豆瓣：8.2/10<br>个人：5/5<br>点评：概况性介绍<br>Tags：佛教；宗教；牛津通识读本 | ![](https://img3.doubanio.com/mpic/s4644804.jpg) |
+| 名称：[10人以下小团队管理手册](https://book.douban.com/subject/27019726/)<br>时间：2018-04-10<br>出版：2017-5<br>豆瓣：7.7/10<br>个人：4/5<br>点评：将心比心<br>Tags：管理；团队管理；管理学 | ![](https://img3.doubanio.com/mpic//s29425665.jpg) |
 | 名称：[哲学家们都干了些什么](https://book.douban.com/subject/26390842/)<br>时间：2018-03-11<br>出版：2015-7-1<br>豆瓣：8.7/10<br>个人：4/5<br>点评：未评价<br>Tags：哲学；哲学史；科普 | ![](https://img3.doubanio.com/mpic/s28073424.jpg) |
 | 名称：[Kafka权威指南](https://book.douban.com/subject/27665114/)<br>时间：2018-03-11<br>出版：2017-12-26<br>豆瓣：0.0/10<br>个人：4/5<br>点评：未评价<br>Tags：Kafka；架构；大数据流 | ![](https://img3.doubanio.com/mpic/s29665582.jpg) |
 | 名称：[Netty权威指南（第2版）](https://book.douban.com/subject/26373138/)<br>时间：2018-02-21<br>出版：2015-4-20<br>豆瓣：6.7/10<br>个人：4/5<br>点评：未评价<br>Tags：netty；Java；nio | ![](https://img3.doubanio.com/mpic/s28055322.jpg) |
