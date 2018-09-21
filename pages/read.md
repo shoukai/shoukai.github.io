@@ -10,6 +10,29 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/bg-about.jpg'
 ----
 
 | --- | --- |
+| 名称：[Git团队协作](https://book.douban.com/subject/27046286/)<br>时间：2018-09-21<br>出版：2017-6<br>豆瓣：7.0/10<br>个人：3/5<br>点评：入门书籍<br>Tags：git；团队协作；软件工程 | ![](https://img3.doubanio.com/mpic/s29452262.jpg) |
+| 名称：[奇点临近](https://book.douban.com/subject/6855803/)<br>时间：2018-09-21<br>出版：2011-10<br>豆瓣：7.7/10<br>个人：5/5<br>点评：值得一读，扩展下思维，同时感慨于作者引用文献之多。<br>Tags：人工智能；未来学；计算机 | ![](https://img3.doubanio.com/mpic/s7645423.jpg) |
+| 名称：[微服务那些事儿](https://book.douban.com/subject/27048246/)<br>时间：2018-09-17<br>出版：2017-4<br>豆瓣：5.9/10<br>个人：2/5<br>点评：浮光掠影<br>Tags：微服务；入门；Spring | ![](https://img3.doubanio.com/mpic/s29454153.jpg) |
+| 名称：[只过必要生活](https://book.douban.com/subject/27148348/)<br>时间：2018-09-09<br>出版：2017-10-1<br>豆瓣：6.6/10<br>个人：3/5<br>点评：虽然基本不赞同作者观点，个人倾向预留备用物品，以备不时之需。但是很佩服他的生活态度，不知道是否现在仍然如此<br>Tags：生活方式；断舍离；日本 | ![](https://img1.doubanio.com/mpic/s29553038.jpg) |
+| 名称：[知日!知日！这次彻底了解日本 01](https://book.douban.com/subject/25794334/)<br>时间：2018-09-09<br>出版：2014-4<br>豆瓣：7.5/10<br>个人：3/5<br>点评：以为是休闲读物，发现内容很杂：历史、人文、经济，内容编排符合知日的一贯风格<br>Tags：日本；知日；日本文化 | ![](https://img1.doubanio.com/mpic/s27245019.jpg) |
+| 名称：[10秒沟通](https://book.douban.com/subject/30224271/)<br>时间：2018-09-05<br>出版：2018-6<br>豆瓣：7.1/10<br>个人：3/5<br>点评：勉强自己只会增添障碍，不加准备难免遭遇失败，临场发挥往往漏洞百出<br>Tags：沟通；口才；10秒成为沟通高手！ | ![](https://img3.doubanio.com/mpic/s29770030.jpg) |
+| 名称：[逆流而上](https://book.douban.com/subject/27204591/)<br>时间：2018-09-05<br>出版：2017-11<br>豆瓣：7.2/10<br>个人：5/5<br>点评：中了一个案例：分布式锁+重试<br>Tags：阿里巴巴；技术；互联网 | ![](https://img1.doubanio.com/mpic/s29615837.jpg) |
+| 名称：[好好说话](https://book.douban.com/subject/26948148/)<br>时间：2018-09-05<br>出版：2017-1-10<br>豆瓣：7.1/10<br>个人：4/5<br>点评：说话同样需要刻意练习<br>Tags：说话技巧；沟通；好好说话 | ![](https://img1.doubanio.com/mpic/s29278678.jpg) |
+| 名称：[Effective DevOps](https://book.douban.com/subject/26631259/)<br>时间：2018-09-02<br>出版：2016-6-19<br>豆瓣：0.0/10<br>个人：3/5<br>点评：协作、亲密性、工具、规模化<br>Tags：DevOps；计算机；软件工程 | ![](https://img3.doubanio.com/mpic/s28774221.jpg) |
+| 名称：[未来世界的幸存者](https://book.douban.com/subject/30259509/)<br>时间：2018-09-02<br>出版：2018-6-1<br>豆瓣：8.1/10<br>个人：4/5<br>点评：读过早期的电子版，又翻了一遍发行版，值得思考，但是有贩卖恐慌的嫌疑。享受生活，努力工作的同时，不忘思考未来的路<br>Tags：阮一峰；未来；计算机 | ![](https://img3.doubanio.com/mpic/s29804420.jpg) |
+| 名称：[你的知识需要管理](https://book.douban.com/subject/4630664/)<br>时间：2018-09-02<br>出版：2010-3<br>豆瓣：7.2/10<br>个人：3/5<br>点评：虽然不是很推荐，翻翻还是有收获的。整理个人知识体系很重要，时间久了，真的会遗忘，包括曾经非常熟悉的内容。<br>Tags：知识管理；个人管理；个人知识管理 | ![](https://img1.doubanio.com/mpic/s6381608.jpg) |
+| 名称：[敏捷软件开发](https://book.douban.com/subject/1140457/)<br>时间：2018-09-02<br>出版：2003-09-01<br>豆瓣：9.1/10<br>个人：5/5<br>点评：推荐阅读，作者把敏捷软件开发、设计模式、设计原则，结合案例详细叙述了一遍，如果早些阅读，会少走些弯路<br>Tags：敏捷开发；软件工程；设计模式 | ![](https://img3.doubanio.com/mpic/s1671095.jpg) |
+| 名称：[码农翻身](https://book.douban.com/subject/30231515/)<br>时间：2018-09-02<br>出版：2018-6-1<br>豆瓣：9.0/10<br>个人：4/5<br>点评：组里新人看的书，翻了一遍还深不错<br>Tags：计算机；编程；技术科普 | ![](https://img3.doubanio.com/mpic/s29776941.jpg) |
+| 名称：[高效团队开发](https://book.douban.com/subject/26432720/)<br>时间：2018-09-02<br>出版：2015-7<br>豆瓣：7.6/10<br>个人：3/5<br>点评：介绍内容已经日常化<br>Tags：项目管理；软件工程；管理 | ![](https://img3.doubanio.com/mpic/s28117176.jpg) |
+| 名称：[超效率手册](https://book.douban.com/subject/26703731/)<br>时间：2018-09-02<br>出版：2016-1<br>豆瓣：7.2/10<br>个人：3/5<br>点评：1.工作有激情；2.做有意思的事；3.不断进步<br>Tags：时间管理；效率；个人管理 | ![](https://img1.doubanio.com/mpic/s29667407.jpg) |
+| 名称：[Akka应用模式：分布式应用程序设计实践指南](https://book.douban.com/subject/27157126/)<br>时间：2018-07-29<br>出版：2017-10-1<br>豆瓣：0.0/10<br>个人：5/5<br>点评：概念还是很不错的，DDDD……内容略少，很多地方没展开<br>Tags：Akka；架构；Actor | ![](https://img3.doubanio.com/mpic/s29562611.jpg) |
+| 名称：[可伸缩架构](https://book.douban.com/subject/27071892/)<br>时间：2018-07-29<br>出版：2017-7<br>豆瓣：7.6/10<br>个人：3/5<br>点评：内容不多<br>Tags：计算机；架构；高可用，可伸缩 | ![](https://img3.doubanio.com/mpic/s29477965.jpg) |
+| 名称：[Domain-Driven Design Distilled](https://book.douban.com/subject/26904949/)<br>时间：2018-07-28<br>出版：2016-6-2<br>豆瓣：0.0/10<br>个人：5/5<br>点评：推荐阅读，聚合部分讲解的很清晰，结合图示容易理解<br>Tags：领域驱动设计；软件开发；架构 | ![](https://img3.doubanio.com/mpic/s29127333.jpg) |
+| 名称：[赋能：打造应对不确定性的敏捷团队](https://book.douban.com/subject/27204181/)<br>时间：2018-07-22<br>出版：2017-11-11<br>豆瓣：7.5/10<br>个人：4/5<br>点评：环境日趋复杂化，赋能得确是解决办法，距离现实环境落地，本书有点远<br>Tags：管理；团队；领导力 | ![](https://img3.doubanio.com/mpic/s29615316.jpg) |
+| 名称：[Nginx高性能Web服务器实战教程(国家信息技术紧缺人才培养工程指定教材)](https://book.douban.com/subject/27129298/)<br>时间：2018-06-21<br>出版：<br>豆瓣：0.0/10<br>个人：2/5<br>点评：……<br>Tags：Web服务器 | ![](https://img3.doubanio.com/mpic/s29781426.jpg) |
+| 名称：[Java并发编程的艺术](https://book.douban.com/subject/26591326/)<br>时间：2018-06-18<br>出版：2015-7-1<br>豆瓣：7.2/10<br>个人：4/5<br>点评：经常翻翻<br>Tags：Java；并发；并发编程 | ![](https://img1.doubanio.com/mpic/s28275418.jpg) |
+| 名称：[持续交付](https://book.douban.com/subject/6862062/)<br>时间：2018-06-18<br>出版：2011-10<br>豆瓣：8.6/10<br>个人：5/5<br>点评：思维已经融入开发过程之中<br>Tags：软件工程；持续交付；敏捷开发 | ![](https://img3.doubanio.com/mpic/s27996261.jpg) |
+| 名称：[清单革命](https://book.douban.com/subject/10788371/)<br>时间：2018-06-18<br>出版：2012-7-1<br>豆瓣：7.0/10<br>个人：5/5<br>点评：GTD新理解，不同类型的清单，<br>Tags：管理；自我管理；思维 | ![](https://img1.doubanio.com/mpic/s10324198.jpg) |
 | 名称：[Java并发编程的艺术](https://book.douban.com/subject/26591326/)<br>时间：2018-06-18<br>出版：2015-7-1<br>豆瓣：7.2/10<br>个人：4/5<br>点评：经常翻翻<br>Tags：Java；并发；并发编程 | ![](https://img1.doubanio.com/mpic/s28275418.jpg) |
 | 名称：[持续交付](https://book.douban.com/subject/6862062/)<br>时间：2018-06-18<br>出版：2011-10<br>豆瓣：8.6/10<br>个人：5/5<br>点评：思维已经融入开发过程之中<br>Tags：软件工程；持续交付；敏捷开发 | ![](https://img3.doubanio.com/mpic/s27996261.jpg) |
 | 名称：[清单革命](https://book.douban.com/subject/10788371/)<br>时间：2018-06-18<br>出版：2012-7-1<br>豆瓣：7.0/10<br>个人：5/5<br>点评：GTD新理解，不同类型的清单，<br>Tags：管理；自我管理；思维 | ![](https://img1.doubanio.com/mpic/s10324198.jpg) |
