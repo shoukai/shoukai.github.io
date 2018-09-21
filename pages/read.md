@@ -10,6 +10,7 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/bg-about.jpg'
 ----
 
 | --- | --- |
+| 名称：[决战618：探秘京东技术取胜之道](https://book.douban.com/subject/27169748/)<br>时间：2018-09-21<br>出版：2017-11<br>豆瓣：7.4/10<br>个人：5/5<br>点评：问题域存在交集，值得多读读，架构图的配色可以简单参考下<br>Tags：电商；计算机科学；互联网 | ![](https://img1.doubanio.com/mpic/s29577389.jpg) |
 | 名称：[Git团队协作](https://book.douban.com/subject/27046286/)<br>时间：2018-09-21<br>出版：2017-6<br>豆瓣：7.0/10<br>个人：3/5<br>点评：入门书籍<br>Tags：git；团队协作；软件工程 | ![](https://img3.doubanio.com/mpic/s29452262.jpg) |
 | 名称：[奇点临近](https://book.douban.com/subject/6855803/)<br>时间：2018-09-21<br>出版：2011-10<br>豆瓣：7.7/10<br>个人：5/5<br>点评：值得一读，扩展下思维，同时感慨于作者引用文献之多。<br>Tags：人工智能；未来学；计算机 | ![](https://img3.doubanio.com/mpic/s7645423.jpg) |
 | 名称：[微服务那些事儿](https://book.douban.com/subject/27048246/)<br>时间：2018-09-17<br>出版：2017-4<br>豆瓣：5.9/10<br>个人：2/5<br>点评：浮光掠影<br>Tags：微服务；入门；Spring | ![](https://img3.doubanio.com/mpic/s29454153.jpg) |
