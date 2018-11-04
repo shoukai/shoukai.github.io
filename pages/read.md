@@ -10,6 +10,21 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/bg-about.jpg'
 ----
 
 | --- | --- |
+| 名称：[Spring Cloud与Docker微服务架构实战](https://book.douban.com/subject/27028228/)<br>时间：2018-11-04<br>出版：2017-5<br>豆瓣：5.9/10<br>个人：3/5<br>点评：基础教程<br>Tags：微服务；spring-cloud；docker | ![](https://img3.doubanio.com/mpic/s29434185.jpg) |
+| 名称：[管理学](https://book.douban.com/subject/1084471/)<br>时间：2018-11-04<br>出版：2004-1<br>豆瓣：8.4/10<br>个人：4/5<br>点评：有一定的启发<br>Tags：管理学；管理；罗宾斯 | ![](https://img1.doubanio.com/mpic/s1800969.jpg) |
+| 名称：[数据科学入门](https://book.douban.com/subject/26741078/)<br>时间：2018-11-04<br>出版：2016-3<br>豆瓣：6.9/10<br>个人：3/5<br>点评：范围介绍，示例代码还是不错的<br>Tags：数据分析；机器学习；数据科学 | ![](https://img1.doubanio.com/mpic/s28491488.jpg) |
+| 名称：[深入分布式缓存：从原理到实践](https://book.douban.com/subject/27602483/)<br>时间：2018-10-09<br>出版：2017-12<br>豆瓣：7.3/10<br>个人：4/5<br>点评：前几章不错，后几章具体技术推荐看具体书目，总体还是不错的<br>Tags：分布式；缓存；Java | ![](https://img3.doubanio.com/mpic/s29636581.jpg) |
+| 名称：[蔡康永的说话之道2](https://book.douban.com/subject/25933841/)<br>时间：2018-10-09<br>出版：2014-8<br>豆瓣：7.1/10<br>个人：3/5<br>点评：未评价<br>Tags：蔡康永；沟通技巧；社交 | ![](https://img1.doubanio.com/mpic/s28043199.jpg) |
+| 名称：[见识](https://book.douban.com/subject/30144978/)<br>时间：2018-10-09<br>出版：2018-3<br>豆瓣：8.1/10<br>个人：4/5<br>点评：学会了OKR……<br>Tags：思维；吴军；认知 | ![](https://img3.doubanio.com/mpic/s29690440.jpg) |
+| 名称：[高性能Docker](https://book.douban.com/subject/26850617/)<br>时间：2018-10-09<br>出版：2016-9<br>豆瓣：7.2/10<br>个人：3/5<br>点评：全书围绕封底的几个问题展开，如果有同样问题可以看看<br>Tags：Docker；计算机；devops | ![](https://img1.doubanio.com/mpic/s28958038.jpg) |
+| 名称：[NoSQL精粹](https://book.douban.com/subject/25662138/)<br>时间：2018-10-09<br>出版：2013-8<br>豆瓣：8.3/10<br>个人：3/5<br>点评：内容略少<br>Tags：NoSQL；数据库；计算机 | ![](https://img3.doubanio.com/mpic/s27174573.jpg) |
+| 名称：[Python神经网络编程](https://book.douban.com/subject/30192800/)<br>时间：2018-10-09<br>出版：2018-4<br>豆瓣：9.1/10<br>个人：5/5<br>点评：文笔不错，用心的书籍<br>Tags：神经网络；机器学习；人工智能 | ![](https://img3.doubanio.com/mpic/s29738046.jpg) |
+| 名称：[RocketMQ实战与原理解析](https://book.douban.com/subject/30246992/)<br>时间：2018-09-25<br>出版：2018-6-30<br>豆瓣：7.1/10<br>个人：4/5<br>点评：页数不多，内容还成<br>Tags：消息队列；java；分布式 | ![](https://img3.doubanio.com/mpic/s29792034.jpg) |
+| 名称：[具身认知](https://book.douban.com/subject/26838508/)<br>时间：2018-09-25<br>出版：2016-7<br>豆瓣：7.3/10<br>个人：3/5<br>点评：未评价<br>Tags：心理学；认知科学；认知 | ![](https://img3.doubanio.com/mpic/s28904910.jpg) |
+| 名称：[深入理解JVM ＆ G1 GC](https://book.douban.com/subject/27062586/)<br>时间：2018-09-25<br>出版：2017-6<br>豆瓣：5.7/10<br>个人：3/5<br>点评：复习<br>Tags：Java；JVM；计算机 | ![](https://img1.doubanio.com/mpic/s29468609.jpg) |
+| 名称：[新零售的未来](https://book.douban.com/subject/27622011/)<br>时间：2018-09-25<br>出版：2018-1<br>豆瓣：7.5/10<br>个人：4/5<br>点评：新零售则实现了从客户、物流到支付等环节的全链条数字化，帮助品牌围绕产品策划和研发，实现柔性化产品设计和生产。这是一个全新的零售世界<br>Tags：商业；新零售；零售 | ![](https://img1.doubanio.com/mpic/s29657627.jpg) |
+| 名称：[AI·未来](https://book.douban.com/subject/30305583/)<br>时间：2018-09-23<br>出版：2018-9-1<br>豆瓣：7.2/10<br>个人：4/5<br>点评：“如果我们相信生命的意义远不止物质上的盲目追逐，那么人工智能就有可能帮助我们揭开更深层次的意义”，乐观向前看<br>Tags：人工智能；未来；李开复 | ![](https://img3.doubanio.com/mpic/s29872945.jpg) |
+| 名称：[Linux系统命令及Shell脚本实践指南](https://book.douban.com/subject/25803528/)<br>时间：2018-09-22<br>出版：2014-1-1<br>豆瓣：7.5/10<br>个人：3/5<br>点评：不错的入门书，有马上去刷一本高级shell的冲动<br>Tags：Linux；计算机；shell | ![](https://img3.doubanio.com/mpic/s27193072.jpg) |
 | 名称：[决战618：探秘京东技术取胜之道](https://book.douban.com/subject/27169748/)<br>时间：2018-09-21<br>出版：2017-11<br>豆瓣：7.4/10<br>个人：5/5<br>点评：问题域存在交集，值得多读读，架构图的配色可以简单参考下<br>Tags：电商；计算机科学；互联网 | ![](https://img1.doubanio.com/mpic/s29577389.jpg) |
 | 名称：[Git团队协作](https://book.douban.com/subject/27046286/)<br>时间：2018-09-21<br>出版：2017-6<br>豆瓣：7.0/10<br>个人：3/5<br>点评：入门书籍<br>Tags：git；团队协作；软件工程 | ![](https://img3.doubanio.com/mpic/s29452262.jpg) |
 | 名称：[奇点临近](https://book.douban.com/subject/6855803/)<br>时间：2018-09-21<br>出版：2011-10<br>豆瓣：7.7/10<br>个人：5/5<br>点评：值得一读，扩展下思维，同时感慨于作者引用文献之多。<br>Tags：人工智能；未来学；计算机 | ![](https://img3.doubanio.com/mpic/s7645423.jpg) |
