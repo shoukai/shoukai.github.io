@@ -16,8 +16,9 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/02.jpg'
 有限状态机体现了两点：首先是离散的，然后是有限的。
 
 * State：状态这个词有些难以定义，状态存储关于过去的信息，就是说它反映从系统开始到现在时刻的输入变化。
-* Actions & Transitions：转换指示状态变更，并且用必须满足来确使转移发生的条件来描述它。动作是在给定时刻要进行的活动的描述。
-* Guards:检测器出现的原因是为了检测是否满足从一个状态切换到另外一个状态的条件。
+* Transitions：转换指示状态变更，并且用必须满足来确使转移发生的条件来描述它。
+* Actions：动作是在给定时刻要进行的活动的描述。
+* Guards：检测器出现的原因是为了检测是否满足从一个状态切换到另外一个状态的条件。
 * Event：事件，又见事件，笼统说来，对系统重要的某件事情被称为事件。
 
 ### 1.2 状态机示例
@@ -292,7 +293,7 @@ public class StatemachineMonitor {
 
 其他Context的事件监听，后续文章进行描述，[官网链接](https://docs.spring.io/spring-statemachine/docs/2.0.2.RELEASE/reference/htmlsingle/#sm-context)
 
-### 3.2.2 状态机工程
+### 3.2.2 状态机工厂
 
 实际业务环境中，往往是多线程处理不同的业务ID对应的状态，状态机中利用事件的context传递数据，会出现多线程问题，需要利用状态机工程，利用UUID创建不同状态机。
 
@@ -341,8 +342,28 @@ public class StatemachineService {
 
 完整示例参见：[链接](https://github.com/shoukai/tools-journey/tree/master/spring-statemachine-sample)
 
+# 4 术语表
 
-# 4 参考示例
+* **State Machine**：Main entity driving a collection of states together with regions, transitions and events.
+* **State**:A state models a situation during which some invariant condition holds. State is the main entity of a state machine where state changes are driven by an events.（状态模拟一些不变条件成立的情况。State是状态机的主要实体，其中状态更改由事件驱动。）
+* **Extended State**:An extended state is a special set of variables kept in a state machine to reduce number of needed states.（扩展状态是状态机中保存的一组特殊变量，用于减少所需状态的数量。）
+* **Transition**:A transition is a relationship between a source state and a target state. It may be part of a compound transition, which takes the state machine from one state configuration to another, representing the complete response of the state machine to an occurrence of an event of a particular type.（transition是源状态和目标状态之间的关系。它可能是复合转换的一部分，它将状态机从一个状态配置转移到另一个状态配置，表示状态机对特定类型事件发生的完整响应。）
+* **Event**:An entity which is send to a state machine which then drives a various state changes.(发送到状态机的实体，然后驱动各种状态更改。)
+* **Initial State**:A special state in which the state machine starts. Initial state is always bound to a particular state machine or a region. A state machine with a multiple regions may have a multiple initial states.（状态机启动的特殊状态。初始状态始终绑定到特定的状态机或区域。具有多个区域的状态机可以具有多个初始状态。）
+* **End State**:Also called as a final state is a special kind of state signifying that the enclosing region is completed. If the enclosing region is directly contained in a state machine and all other regions in the state machine also are completed, then it means that the entire state machine is completed.（也被称为最终状态是一种特殊的状态，表示封闭区域已完成。如果封闭区域直接包含在状态机中并且状态机中的所有其他区域也完成，则意味着整个状态机完成。）
+* **History State**:A pseudo state which allows a state machine to remember its last active state. Two types of history state exists, shallow which only remember top level state and deep which remembers active states in a sub-machines.（一种伪状态，允许状态机记住其最后一个活动状态。存在两种类型的历史状态，浅层仅记住顶级状态，深度其记住子机器中的活动状态。）
+* **Choice State**:A pseudo state which allows to make a transition choice based of i.e. event headers or extended state variables.（一种伪状态，它允许根据事件标题或扩展状态变量进行转换选择。）
+* **Junction State**:A pseudo state which is relatively similar to choice state but allows multiple incoming transitions while choice only allows one incoming transition.（一种伪状态，它与选择状态相对类似但允许多个输入转换，而选择仅允许一个输入转换。）
+* **Fork State**:A pseudo state which gives a controlled entry into a regions.（一种伪状态，可以控制进入某个区域。）
+* **Join State**:A pseudo state which gives a controlled exit from a regions.（
+一种伪状态，它可以控制区域的出口。）
+* **Entry Point**:A pseudo state which allows a controlled entry into a submachine.（允许受控进入子机的伪状态。）
+* **Exit Point**:A pseudo state which allows a controlled exit from a submachine.（允许受控退出子机的伪状态。）
+* **Region**:A region is an orthogonal part of either a composite state or a state machine. It contains states and transitions.（区域是复合状态或状态机的正交部分。它包含状态和转换。）
+* **Guard**:Is a boolean expression evaluated dynamically based on the value of extended state variables and event parameters. Guard conditions affect the behavior of a state machine by enabling actions or transitions only when they evaluate to TRUE and disabling them when they evaluate to FALSE.（是基于扩展状态变量和事件参数的值动态评估的布尔表达式。保护条件通过仅在评估为TRUE时启用操作或转换并在评估为FALSE时禁用它们来影响状态机的行为。）
+* **Action**:A action is a behaviour executed during the triggering of the transition.（动作是在触发转换期间执行的行为。）
+
+# 5 参考示例
 
 * [Spring Statemachine Github](https://github.com/spring-projects)
 * [Finite-state machine维基百科](https://en.wikipedia.org/wiki/Finite-state_machine)
