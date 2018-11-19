@@ -16,8 +16,7 @@ background: 'http:/\/skblog.duiduiche.com/02.jpg'
 ```
 @Configuration
 @EnableStateMachine
-public class Config2
-        extends EnumStateMachineConfigurerAdapter<States, Events> {
+public class Config2 extends EnumStateMachineConfigurerAdapter<States, Events> {
 
     @Override
     public void configure(StateMachineStateConfigurer<States, Events> states)
