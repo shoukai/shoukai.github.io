@@ -3,7 +3,7 @@ layout: post
 title:  "Spring Statemachine Part Two"
 subtitle: "更多功能"
 date:   2018-09-29 8:00:00
-background: 'http:/\/oo6gt25nl.bkt.clouddn.com/02.jpg'
+background: 'http:/\/skblog.duiduiche.com/02.jpg'
 ---
 # Spring Statemachine 更多功能
 
@@ -37,11 +37,11 @@ public class Config2
 ```
 
 为了进一步分析层次状态的功能特性，引用了[参考手册Showcase的例子](https://docs.spring.io/spring-statemachine/docs/2.0.2.RELEASE/reference/htmlsingle/#statemachine-examples-showcase)，状态图定义如下
-![statechart2](http://oo6gt25nl.bkt.clouddn.com/statechart2.png){:height="100%" width="100%" }
+![statechart2](http://skblog.duiduiche.com/statechart2.png){:height="100%" width="100%" }
 
 运行官网示例，得到结果如下
 
-![1539185678943](http://oo6gt25nl.bkt.clouddn.com/1539185678943.jpg){:height="100%" width="100%" }
+![1539185678943](http://skblog.duiduiche.com/1539185678943.jpg){:height="100%" width="100%" }
 
 根据测试结果得到初步的理解如下：
 

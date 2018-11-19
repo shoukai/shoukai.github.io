@@ -3,7 +3,7 @@ layout: post
 title:  "《新零售的未来》书摘"
 subtitle: "零售连锁巨头的进化之道"
 date:   2018-09-23 8:00:00
-background: 'http:/\/oo6gt25nl.bkt.clouddn.com/04.jpg'
+background: 'http:/\/skblog.duiduiche.com/04.jpg'
 ---
 
 **书摘**：新零售则实现了从客户、物流到支付等环节的全链条数字化，帮助品牌围绕产品策划和研发，实现柔性化产品设计和生产。这是一个全新的零售世界。

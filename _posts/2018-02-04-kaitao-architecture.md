@@ -3,7 +3,7 @@ layout: post
 title:  "《亿级流量网站架构核心技术》笔记"
 subtitle: "高可用、高并发的架构设计"
 date:   2018-02-01 8:00:00
-background: 'http:/\/oo6gt25nl.bkt.clouddn.com/01.jpg'
+background: 'http:/\/skblog.duiduiche.com/01.jpg'
 ---
 
 # 《亿级流量网站架构核心技术》笔记
@@ -56,9 +56,9 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/01.jpg'
 
 **高可用**
 
-![架构-高可用](http://oo6gt25nl.bkt.clouddn.com/架构-高可用.png){:height="100%" width="100%"}
+![架构-高可用](http://skblog.duiduiche.com/架构-高可用.png){:height="100%" width="100%"}
 
 **高并发**
 
-![架构-高并发](http://oo6gt25nl.bkt.clouddn.com/架构-高并发.png){:height="100%" width="100%"}
+![架构-高并发](http://skblog.duiduiche.com/架构-高并发.png){:height="100%" width="100%"}
 

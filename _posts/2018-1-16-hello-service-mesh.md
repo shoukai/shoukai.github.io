@@ -3,7 +3,7 @@ layout: post
 title:  "初识 Service Mesh"
 subtitle: "Service Mesh 介绍及资料整理"
 date:   2018-01-15 10:45:13
-background: 'http:/\/oo6gt25nl.bkt.clouddn.com/05.jpg'
+background: 'http:/\/skblog.duiduiche.com/05.jpg'
 ---
 
 # 初识 Service Mesh
@@ -46,7 +46,7 @@ Phil Calçado 在他的这篇博客 Pattern: Service Mesh 中详细解释了 Ser
 
 Service Mesh 的架构如下图所示
 
-![serivce-mesh-control-plane](http://oo6gt25nl.bkt.clouddn.com/serivce-mesh-control-plane.png){:height="100%" width="100%"}
+![serivce-mesh-control-plane](http://skblog.duiduiche.com/serivce-mesh-control-plane.png){:height="100%" width="100%"}
 
 
 ### 3. 方案
@@ -58,7 +58,7 @@ Service Mesh 的架构如下图所示
 Istio是由Google、IBM和Lyft开源的微服务管理、保护和监控框架。Istio为希腊语，意思是”起航“。官方中文文档地址：https://istio.doczh.cn 
 
 **Istio架构图**：
-![istio-arch](http://oo6gt25nl.bkt.clouddn.com/istio-arch.jpg){:height="100%" width="100%"}
+![istio-arch](http://skblog.duiduiche.com/istio-arch.jpg){:height="100%" width="100%"}
 
 
 Istio架构分为控制层和数据层。
@@ -80,7 +80,7 @@ Linkerd 是开源网络代理，设计为以服务网格部署：用于管理，
 
 **Linkerd 架构图**
 
-![what_it_does](http://oo6gt25nl.bkt.clouddn.com/what_it_does.jpg){:height="50%" width="50%"}![why_is_it_necessary](http://oo6gt25nl.bkt.clouddn.com/why_is_it_necessary.jpg){:height="50%" width="50%"}
+![what_it_does](http://skblog.duiduiche.com/what_it_does.jpg){:height="50%" width="50%"}![why_is_it_necessary](http://skblog.duiduiche.com/why_is_it_necessary.jpg){:height="50%" width="50%"}
 
 **Linkerd 基本功能** [原文链接](https://linkerd.io/features/)
 

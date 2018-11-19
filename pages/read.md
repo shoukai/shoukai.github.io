@@ -2,7 +2,7 @@
 layout: page
 title: Reading
 description: 我的阅读
-background: 'http:/\/oo6gt25nl.bkt.clouddn.com/bg-about.jpg'
+background: 'http:/\/skblog.duiduiche.com/bg-about.jpg'
 ---
 
 

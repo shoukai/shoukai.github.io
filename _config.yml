@@ -16,7 +16,7 @@ lsi:         false
 excerpt_separator: "\n\n"
 incremental: false
 
-paginate:          5
+paginate:          20
 paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed

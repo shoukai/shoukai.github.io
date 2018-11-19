@@ -3,7 +3,7 @@ layout: post
 title:  "《企业IT架构转型之道》笔记"
 subtitle: "阿里巴巴中台战略思想与架构实战"
 date:   2018-01-26 8:00:00
-background: 'http:/\/oo6gt25nl.bkt.clouddn.com/04.jpg'
+background: 'http:/\/skblog.duiduiche.com/04.jpg'
 ---
 
 # 《企业IT架构转型之道》读书笔记
@@ -91,7 +91,7 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/04.jpg'
         * Atom层：实现数据库连接等信息的动态推送，持有原子的数据源。
 
 {:.center}
-![IT-TDDL](http://oo6gt25nl.bkt.clouddn.com/IT-TDDL.jpg){:height="70%" width="70%" }
+![IT-TDDL](http://skblog.duiduiche.com/IT-TDDL.jpg){:height="70%" width="70%" }
 
 **数据设计原则和最佳实践：** 
 
@@ -138,14 +138,14 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/04.jpg'
     * 缺点是发起方要实现事务消息的发送，本地事务的执行，同时还要实现本地事务状态检查以及异常时的业务回滚机制。对开发人员提出了更高的要求。
 
     {:.center}
-    ![mq_trans](http://oo6gt25nl.bkt.clouddn.com/mq_trans.png){:height="100%" width="100%"}
+    ![mq_trans](http://skblog.duiduiche.com/mq_trans.png){:height="100%" width="100%"}
 
 * 支付宝XTS框架。基于BASE思想，类似两阶段提交的分布式事务方案。用来保障在分布式环境下高可用性，高可靠性的同时兼顾数据一致性的要求。
     * XTS可同时支持正向和反向补偿。
     * XTS是TCC(Try/Commit/Cancel)型事务，属于典型的补偿型事务。
 
 {:.center}
-![IT-XTS](http://oo6gt25nl.bkt.clouddn.com/IT-XTS.jpg){:height="70%" width="70%"}
+![IT-XTS](http://skblog.duiduiche.com/IT-XTS.jpg){:height="70%" width="70%"}
 
 * AliWare TXC事务服务。
     * 标准模式下不需开发人员自行实现事务回滚或补偿，平台支持自动按事务中事务操作的顺序依次回滚和补偿。
@@ -155,7 +155,7 @@ background: 'http:/\/oo6gt25nl.bkt.clouddn.com/04.jpg'
     * TXC数据源，在原有的数据源上做了一层较薄的封装，因为TXC需要拦截到所有数据修改行为，从而为事务回滚提供数据的原始值。
 
 {:.center}
-![IT-TXC](http://oo6gt25nl.bkt.clouddn.com/IT-TXC.jpg){:height="70%" width="70%"}
+![IT-TXC](http://skblog.duiduiche.com/IT-TXC.jpg){:height="70%" width="70%"}
 
 
 ### 第7章 打造数字化运营能力
