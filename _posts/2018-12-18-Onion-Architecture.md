@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Onion Architecture"
+date:   2018-11-01 8:00:00
+background: 'http:/\/skblog.duiduiche.com/04.jpg'
+---
+
 # Onion Architecture
 
 ## 架构介绍
