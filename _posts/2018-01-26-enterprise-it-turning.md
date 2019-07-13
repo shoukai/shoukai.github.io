@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "《企业IT架构转型之道》笔记"
+title:  "读书笔记：企业IT架构转型之道"
 subtitle: "阿里巴巴中台战略思想与架构实战"
 date:   2018-01-26 8:00:00
-background: 'http:/\/skblog.duiduiche.com/04.jpg'
+author: "Shoukai Huang"
+header-img: 'skblog.duiduiche.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
+header-mask: 0.4
+tags: 读书笔记
 ---
 
 # 《企业IT架构转型之道》读书笔记

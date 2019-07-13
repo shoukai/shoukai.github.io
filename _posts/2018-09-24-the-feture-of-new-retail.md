@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "《新零售的未来》书摘"
-subtitle: "零售连锁巨头的进化之道"
+title:  "读书笔记：新零售的未来"
 date:   2018-09-23 8:00:00
-background: 'http:/\/skblog.duiduiche.com/04.jpg'
+author: "Shoukai Huang"
+header-img: 'skblog.duiduiche.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
+header-mask: 0.4
+tags: 读书笔记
 ---
 
 **书摘**：新零售则实现了从客户、物流到支付等环节的全链条数字化，帮助品牌围绕产品策划和研发，实现柔性化产品设计和生产。这是一个全新的零售世界。

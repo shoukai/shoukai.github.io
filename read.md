@@ -10,6 +10,37 @@ header-img: "img/coffee.jpg"
 ----
 
 | --- | --- |
+| 名称：[Java虚拟机精讲](https://book.douban.com/subject/26353219/)<br>时间：2019-07-12<br>出版：2015-5<br>豆瓣：8.0/10<br>个人：4/5<br>Tags：JVM；Java虚拟机；Java | ![](https://img1.doubanio.com/mpic/s28035477.jpg) |
+| 名称：[MySQL 8 Cookbook（中文版）](https://book.douban.com/subject/30376056/)<br>时间：2019-07-12<br>出版：2018-11<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：数据库；计算机 | ![](https://img3.doubanio.com/mpic/s29920395.jpg) |
+| 名称：[数据科学实战指南](https://book.douban.com/subject/33390601/)<br>时间：2019-07-07<br>出版：2019-4<br>豆瓣：0.0/10<br>个人：4/5<br>Tags： | ![](https://img3.doubanio.com/mpic/s32276021.jpg) |
+| 名称：[平台生态系统](https://book.douban.com/subject/30417819/)<br>时间：2019-06-30<br>出版：2018-12-1<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：平台；商业模式；新经济 | ![](https://img1.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-lpic.gif) |
+| 名称：[微服务架构设计模式](https://book.douban.com/subject/33425123/)<br>时间：2019-06-30<br>出版：2019-5<br>豆瓣：9.1/10<br>个人：5/5<br>Tags：微服务；架构设计；计算机 | ![](https://img1.doubanio.com/mpic/s32303297.jpg) |
+| 名称：[高可用可伸缩微服务架构](https://book.douban.com/subject/33417842/)<br>时间：2019-06-30<br>出版：2019-5-1<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：架构；微服务；java | ![](https://img3.doubanio.com/mpic/s32296926.jpg) |
+| 名称：[Netty实战](https://book.douban.com/subject/27038538/)<br>时间：2019-06-30<br>出版：2017-5-1<br>豆瓣：7.7/10<br>个人：4/5<br>Tags：Netty；Java；网络编程 | ![](https://img3.doubanio.com/mpic/s29444565.jpg) |
+| 名称：[RxJava响应式编程](https://book.douban.com/subject/30258643/)<br>时间：2019-06-26<br>出版：2018-4<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：计算机；编程；Java | ![](https://img3.doubanio.com/mpic/s29803412.jpg) |
+| 名称：[Java并发编程之美](https://book.douban.com/subject/30351286/)<br>时间：2019-06-19<br>出版：2018-10<br>豆瓣：8.5/10<br>个人：5/5<br>Tags：Java；并发；计算机 | ![](https://img1.doubanio.com/mpic/s29895207.jpg) |
+| 名称：[架构修炼之道](https://book.douban.com/subject/33389549/)<br>时间：2019-06-19<br>出版：2019-3<br>豆瓣：7.3/10<br>个人：3/5<br>Tags：架构；软件架构；计算机 | ![](https://img3.doubanio.com/mpic/s32274984.jpg) |
+| 名称：[深度学习](https://book.douban.com/subject/30425822/)<br>时间：2019-06-12<br>出版：2019-2<br>豆瓣：7.6/10<br>个人：4/5<br>Tags：人工智能；深度学习；AI | ![](https://img3.doubanio.com/mpic/s29971614.jpg) |
+| 名称：[穷查理宝典](https://book.douban.com/subject/5346110/)<br>时间：2019-05-29<br>出版：2010-10-01<br>豆瓣：8.9/10<br>个人：5/5<br>Tags：投资；查理·芒格；思维 | ![](https://img1.doubanio.com/mpic/s4532008.jpg) |
+| 名称：[你不是记性差，只是没找对方法](https://book.douban.com/subject/30459591/)<br>时间：2019-05-27<br>出版：2019-2<br>豆瓣：5.9/10<br>个人：3/5<br>Tags：记忆法；记忆；自我提升 | ![](https://img3.doubanio.com/mpic/s30004440.jpg) |
+| 名称：[逆商](https://book.douban.com/subject/30458408/)<br>时间：2019-05-27<br>出版：2019-3<br>豆瓣：7.0/10<br>个人：3/5<br>Tags：逆商；个人成长；情绪控制 | ![](https://img3.doubanio.com/mpic/s30008366.jpg) |
+| 名称：[阿里铁军销售课](https://book.douban.com/subject/30419982/)<br>时间：2019-05-27<br>出版：2019-2<br>豆瓣：7.8/10<br>个人：4/5<br>Tags：销售；管理；商业 | ![](https://img3.doubanio.com/mpic/s30007160.jpg) |
+| 名称：[夜脑](https://book.douban.com/subject/30231506/)<br>时间：2019-05-27<br>出版：2018-6<br>豆瓣：6.0/10<br>个人：3/5<br>Tags：脑科学；心理学；睡眠 | ![](https://img1.doubanio.com/mpic/s29825358.jpg) |
+| 名称：[这就是OKR](https://book.douban.com/subject/30396635/)<br>时间：2019-05-27<br>出版：2018-12<br>豆瓣：7.6/10<br>个人：4/5<br>Tags：管理；OKR；商业 | ![](https://img3.doubanio.com/mpic/s29941832.jpg) |
+| 名称：[OKR工作法](https://book.douban.com/subject/27132072/)<br>时间：2019-05-27<br>出版：2017-9-1<br>豆瓣：7.5/10<br>个人：4/5<br>Tags：OKR；管理；工作法 | ![](https://img3.doubanio.com/mpic/s29808796.jpg) |
+| 名称：[美丽新世界](https://book.douban.com/subject/1321789/)<br>时间：2019-05-01<br>出版：2005-6<br>豆瓣：8.6/10<br>个人：4/5<br>Tags：反乌托邦；赫胥黎；小说 | ![](https://img1.doubanio.com/mpic/s1344337.jpg) |
+| 名称：[数据产品经理修炼手册——从零基础到大数据产品实践](https://book.douban.com/subject/30490196/)<br>时间：2019-04-21<br>出版：2019-3<br>豆瓣：7.2/10<br>个人：4/5<br>Tags：产品经理；数据产品经理；数据分析 | ![](https://img1.doubanio.com/mpic/s30026488.jpg) |
+| 名称：[未来架构：从服务化到云原生](https://book.douban.com/subject/30477839/)<br>时间：2019-04-21<br>出版：2019-3<br>豆瓣：6.8/10<br>个人：4/5<br>Tags：云原生；架构设计；计算机 | ![](https://img1.doubanio.com/mpic/s32264667.jpg) |
+| 名称：[Effective Java中文版（第3版）](https://book.douban.com/subject/30412517/)<br>时间：2019-04-21<br>出版：2018-12-11<br>豆瓣：9.4/10<br>个人：5/5<br>Tags：Java；计算机；编程 | ![](https://img3.doubanio.com/mpic/s32282160.jpg) |
+| 名称：[Netty进阶之路：跟着案例学Netty](https://book.douban.com/subject/30381214/)<br>时间：2019-04-21<br>出版：2018-11-1<br>豆瓣：8.7/10<br>个人：4/5<br>Tags：netty；Java；Netty | ![](https://img1.doubanio.com/mpic/s29925598.jpg) |
+| 名称：[机器人叛乱](https://book.douban.com/subject/26412113/)<br>时间：2019-04-13<br>出版：2015-5<br>豆瓣：8.4/10<br>个人：5/5<br>Tags：心理学；认知科学；人工智能 | ![](https://img1.doubanio.com/mpic/s28119179.jpg) |
+| 名称：[厚黑学](https://book.douban.com/subject/1911687/)<br>时间：2019-03-24<br>出版：2006-9<br>豆瓣：7.4/10<br>个人：未评分<br>Tags：厚黑学；李宗吾；处世 | ![](https://img3.doubanio.com/mpic/s2180473.jpg) |
+| 名称：[新零售：低价高效的数据赋能之路](https://book.douban.com/subject/30300335/)<br>时间：2019-03-24<br>出版：2018-9<br>豆瓣：8.0/10<br>个人：4/5<br>Tags：新零售；商业；零售 | ![](https://img1.doubanio.com/mpic/s29866378.jpg) |
+| 名称：[横向领导力](https://book.douban.com/subject/26641761/)<br>时间：2019-03-24<br>出版：2015-11<br>豆瓣：8.0/10<br>个人：4/5<br>Tags：职场；领导力；管理 | ![](https://img3.doubanio.com/mpic/s28316820.jpg) |
+| 名称：[实战Java高并发程序设计](https://book.douban.com/subject/26663605/)<br>时间：2019-02-24<br>出版：2015-10-1<br>豆瓣：8.3/10<br>个人：4/5<br>Tags：Java；并发编程；并发 | ![](https://img1.doubanio.com/mpic/s29405037.jpg) |
+| 名称：[Linux口袋书](https://book.douban.com/subject/24736505/)<br>时间：2019-02-24<br>出版：2013-6<br>豆瓣：8.9/10<br>个人：4/5<br>Tags：Linux；shell；计算机 | ![](https://img3.doubanio.com/mpic/s26656323.jpg) |
+| 名称：[持续交付2.0](https://book.douban.com/subject/30419555/)<br>时间：2019-02-24<br>出版：2018-12-25<br>豆瓣：9.4/10<br>个人：4/5<br>Tags：敏捷开发；软件开发；持续交付 | ![](https://img3.doubanio.com/mpic/s32311162.jpg) |
+| 名称：[Hadoop技术内幕](https://book.douban.com/subject/25774649/)<br>时间：2019-02-24<br>出版：2013-11-30<br>豆瓣：8.0/10<br>个人：4/5<br>Tags：Hadoop；YARN；大数据 | ![](https://img1.doubanio.com/mpic/s27145238.jpg) |
 | 名称：[刻意练习](https://book.douban.com/subject/26895993/)<br>时间：2019-02-03<br>出版：2016-11-6<br>豆瓣：7.9/10<br>个人：4/5<br>Tags：学习方法；方法论；刻意练习 | ![](https://img3.doubanio.com/mpic/s29105145.jpg) |
 | 名称：[中层领导力](https://book.douban.com/subject/26381898/)<br>时间：2019-02-02<br>出版：2015-5-15<br>豆瓣：7.4/10<br>个人：4/5<br>Tags：领导力；管理；管理学 | ![](https://img3.doubanio.com/mpic/s28354174.jpg) |
 | 名称：[领导力](https://book.douban.com/subject/27193406/)<br>时间：2019-02-02<br>出版：2018-3-1<br>豆瓣：8.0/10<br>个人：5/5<br>Tags：牛津通识读本；管理学；英文读物 | ![](https://img3.doubanio.com/mpic/s29715986.jpg) |

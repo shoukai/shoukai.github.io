@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "开源项目源码学习过程"
-subtitle: "知识点整理与实践"
+title:  "开源：开源项目源码学习过程"
 date:   2018-11-01 8:00:00
-background: 'http:/\/skblog.duiduiche.com/04.jpg'
+author: "Shoukai Huang"
+header-img: 'skblog.duiduiche.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
+header-mask: 0.4
+tags: 开源
 ---
 
 # 开源项目源码学习过程
@@ -11,6 +13,7 @@ background: 'http:/\/skblog.duiduiche.com/04.jpg'
 ## 1 准备工作
 
 ### 1.1 相关文档：
+
 阅读代码时, 应该尽可能地利用任何能够得到的文档，如果已经有相关书籍，将会得到更大的帮助。
 
 * 使用文档：清楚目标项目的使用方法、功能列表；

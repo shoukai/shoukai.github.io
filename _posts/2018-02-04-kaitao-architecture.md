@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "《亿级流量网站架构核心技术》笔记"
-subtitle: "高可用、高并发的架构设计"
+title:  "读书笔记：亿级流量网站架构核心技术"
+subtitle: "高可用、高并发系统设计"
 date:   2018-02-01 8:00:00
-background: 'http:/\/skblog.duiduiche.com/01.jpg'
+author: "Shoukai Huang"
+header-img: 'skblog.duiduiche.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
+header-mask: 0.4
+tags: 读书笔记
 ---
 
 # 《亿级流量网站架构核心技术》笔记

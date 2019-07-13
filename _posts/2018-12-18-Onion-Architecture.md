@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Onion Architecture"
+title:  "架构模式：Onion Architecture"
 date:   2018-11-01 8:00:00
-background: 'http:/\/skblog.duiduiche.com/04.jpg'
+author: "Shoukai Huang"
+header-img: 'skblog.duiduiche.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
+header-mask: 0.4
+tags: 软件架构
 ---
 
 # Onion Architecture

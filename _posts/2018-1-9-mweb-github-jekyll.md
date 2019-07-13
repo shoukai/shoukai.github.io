@@ -2,8 +2,11 @@
 layout: post
 title:  "GitHub Pages 搭建笔记"
 subtitle: "Jekyll、Github.io、七牛云 构建个人博客"
-date:   2018-01-08 10:45:13
-background: 'http:/\/skblog.duiduiche.com/01.jpg'
+date:   "2018-01-08 10:45:13"
+author: "Shoukai Huang"
+header-img: 'skblog.duiduiche.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
+header-mask: 0.4
+tags: 基础环境
 ---
 
 # Github Pages 搭建笔记

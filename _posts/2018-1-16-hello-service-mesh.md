@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "初识 Service Mesh"
+title:  初识 Service Mesh"
 subtitle: "Service Mesh 介绍及资料整理"
 date:   2018-01-15 10:45:13
-background: 'http:/\/skblog.duiduiche.com/05.jpg'
+author: "Shoukai Huang"
+header-img: 'skblog.duiduiche.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
+header-mask: 0.4
+tags: ServiceMesh
 ---
 
 # 初识 Service Mesh

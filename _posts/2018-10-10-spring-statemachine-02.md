@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Spring Statemachine Part Two"
-subtitle: "更多功能"
+title:  "Spring Statemachine 02：更多功能"
+subtitle: "Spring Statemachine is a framework for application developers to use state machine concepts with Spring applications."
 date:   2018-09-29 8:00:00
-background: 'http:/\/skblog.duiduiche.com/02.jpg'
+author: "Shoukai Huang"
+header-img: 'skblog.duiduiche.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
+header-mask: 0.4
+tags: 状态机
 ---
 # Spring Statemachine 更多功能
 
