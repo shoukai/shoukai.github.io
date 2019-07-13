@@ -58,7 +58,7 @@ kramdown:
 
 # Analytics settings
 # Baidu Analytics
-# TODO ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+ba_track_id: 70280fa191231708a092ffd9ecad59ec
 # Google Analytics
 # TODO ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 # TODO ga_domain: shoukai.github.io
