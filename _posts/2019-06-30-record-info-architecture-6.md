@@ -41,7 +41,7 @@ ssize_t read(int fildes, void *buf, size_t nbyte);
 * Be aware of the risks in full replace 警惕全体替换更新模式的风险
 * Don't create your own error codes or error mechanism 不要试图创建自己的错误码和返回错误机制
 
-来源：[深度 | API 设计最佳实践的思考](https://yq.aliyun.com/articles/701810?utm_content=g_1000056442)
+来源：[深度-API 设计最佳实践的思考](https://yq.aliyun.com/articles/701810?utm_content=g_1000056442)
 
 
 ### RESTful API and GraphQL
