@@ -1,30 +1,47 @@
-/* to make lines scroll instead of wrap */
-/* from http://stackoverflow.com/a/23393920 */
-
-.highlight pre code * {
-  white-space: nowrap;    // this sets all children inside to nowrap
-}
-
-.highlight pre {
-  overflow-x: auto;       // this sets the scrolling in x
-}
-
-.highlight pre code {
-  white-space: pre;       // forces <code> to respect <pre> formatting
-}
-
-
-/*
- * GitHub style for Pygments syntax highlighter, for use with Jekyll
- * Courtesy of GitHub.com
- */
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
+.highlight .cm {
+  color: #999988;
+  font-style: italic;
+}
+.highlight .cp {
+  color: #999999;
+  font-weight: bold;
+}
+.highlight .c1 {
+  color: #999988;
+  font-style: italic;
+}
+.highlight .cs {
+  color: #999999;
+  font-weight: bold;
+  font-style: italic;
+}
+.highlight .c, .highlight .ch, .highlight .cd, .highlight .cpf {
+  color: #999988;
+  font-style: italic;
+}
+.highlight .err {
+  color: #a61717;
+  background-color: #e3d2d2;
+}
+.highlight .gd {
+  color: #000000;
+  background-color: #ffdddd;
+}
+.highlight .ge {
+  color: #000000;
+  font-style: italic;
+}
+.highlight .gr {
+  color: #aa0000;
+}
 .highlight .gh {
   color: #999999;
 }
-.highlight .sr {
-  color: #f6aa11;
+.highlight .gi {
+  color: #000000;
+  background-color: #ddffdd;
 }
 .highlight .go {
   color: #888888;
@@ -33,181 +50,160 @@
   color: #555555;
 }
 .highlight .gs {
+  font-weight: bold;
 }
 .highlight .gu {
   color: #aaaaaa;
 }
-.highlight .nb {
-  color: #f6aa11;
-}
-.highlight .cm {
-  color: #75715e;
-}
-.highlight .cp {
-  color: #75715e;
-}
-.highlight .c1 {
-  color: #75715e;
-}
-.highlight .cs {
-  color: #75715e;
-}
-.highlight .c, .highlight .cd {
-  color: #75715e;
-}
-.highlight .err {
-  color: #960050;
-}
-.highlight .gr {
-  color: #960050;
-}
 .highlight .gt {
-  color: #960050;
-}
-.highlight .gd {
-  color: #bbbbbb;
-  background: #473832;
-  display: block;
-}
-.highlight .gi {
-  color: #bbbbbb;
-  background: #343b24;
-  display: block;
-}
-.highlight .ge {
-  color: #bbbbbb;
-  background: #3d3e39;
-  display: block;
+  color: #aa0000;
 }
 .highlight .kc {
-  color: #66d9ef;
+  color: #000000;
+  font-weight: bold;
 }
 .highlight .kd {
-  color: #66d9ef;
+  color: #000000;
+  font-weight: bold;
+}
+.highlight .kn {
+  color: #000000;
+  font-weight: bold;
+}
+.highlight .kp {
+  color: #000000;
+  font-weight: bold;
 }
 .highlight .kr {
-  color: #66d9ef;
-}
-.highlight .no {
-  color: #66d9ef;
+  color: #000000;
+  font-weight: bold;
 }
 .highlight .kt {
-  color: #66d9ef;
+  color: #445588;
+  font-weight: bold;
+}
+.highlight .k, .highlight .kv {
+  color: #000000;
+  font-weight: bold;
 }
 .highlight .mf {
-  color: #ae81ff;
+  color: #009999;
 }
 .highlight .mh {
-  color: #ae81ff;
+  color: #009999;
 }
 .highlight .il {
-  color: #ae81ff;
+  color: #009999;
 }
 .highlight .mi {
-  color: #ae81ff;
+  color: #009999;
 }
 .highlight .mo {
-  color: #ae81ff;
+  color: #009999;
 }
 .highlight .m, .highlight .mb, .highlight .mx {
-  color: #ae81ff;
-}
-.highlight .sc {
-  color: #ae81ff;
-}
-.highlight .se {
-  color: #ae81ff;
-}
-.highlight .ss {
-  color: #ae81ff;
-}
-.highlight .sd {
-  color: #e6db74;
-}
-.highlight .s2 {
-  color: #e6db74;
+  color: #009999;
 }
 .highlight .sb {
-  color: #e6db74;
+  color: #d14;
+}
+.highlight .sc {
+  color: #d14;
+}
+.highlight .sd {
+  color: #d14;
+}
+.highlight .s2 {
+  color: #d14;
+}
+.highlight .se {
+  color: #d14;
 }
 .highlight .sh {
-  color: #e6db74;
+  color: #d14;
 }
 .highlight .si {
-  color: #e6db74;
+  color: #d14;
 }
 .highlight .sx {
-  color: #e6db74;
+  color: #d14;
+}
+.highlight .sr {
+  color: #009926;
 }
 .highlight .s1 {
-  color: #e6db74;
+  color: #d14;
 }
-.highlight .s {
-  color: #e6db74;
+.highlight .ss {
+  color: #990073;
+}
+.highlight .s, .highlight .sa, .highlight .dl {
+  color: #d14;
 }
 .highlight .na {
-  color: #a6e22e;
-}
-.highlight .nc {
-  color: #a6e22e;
-}
-.highlight .nd {
-  color: #a6e22e;
-}
-.highlight .ne {
-  color: #a6e22e;
-}
-.highlight .nf {
-  color: #a6e22e;
-}
-.highlight .vc {
-  color: #bbbbbb;
-}
-.highlight .nn {
-  color: #bbbbbb;
-}
-.highlight .nl {
-  color: #bbbbbb;
-}
-.highlight .ni {
-  color: #bbbbbb;
+  color: #008080;
 }
 .highlight .bp {
-  color: #bbbbbb;
+  color: #999999;
+}
+.highlight .nb {
+  color: #0086B3;
+}
+.highlight .nc {
+  color: #445588;
+  font-weight: bold;
+}
+.highlight .no {
+  color: #008080;
+}
+.highlight .nd {
+  color: #3c5d5d;
+  font-weight: bold;
+}
+.highlight .ni {
+  color: #800080;
+}
+.highlight .ne {
+  color: #990000;
+  font-weight: bold;
+}
+.highlight .nf, .highlight .fm {
+  color: #990000;
+  font-weight: bold;
+}
+.highlight .nl {
+  color: #990000;
+  font-weight: bold;
+}
+.highlight .nn {
+  color: #555555;
+}
+.highlight .nt {
+  color: #000080;
+}
+.highlight .vc {
+  color: #008080;
 }
 .highlight .vg {
-  color: #bbbbbb;
+  color: #008080;
 }
 .highlight .vi {
-  color: #bbbbbb;
+  color: #008080;
 }
-.highlight .nv {
-  color: #bbbbbb;
+.highlight .nv, .highlight .vm {
+  color: #008080;
+}
+.highlight .ow {
+  color: #000000;
+  font-weight: bold;
+}
+.highlight .o {
+  color: #000000;
+  font-weight: bold;
 }
 .highlight .w {
   color: #bbbbbb;
 }
 .highlight {
-  color: #bbbbbb;
-}
-.highlight .n, .highlight .py, .highlight .nx {
-  color: #bbbbbb;
-}
-.highlight .ow {
-  color: #f92672;
-}
-.highlight .nt {
-  color: #f92672;
-}
-.highlight .k, .highlight .kv {
-  color: #f92672;
-}
-.highlight .kn {
-  color: #f92672;
-}
-.highlight .kp {
-  color: #f92672;
-}
-.highlight .o {
-  color: #f92672;
+  background-color: #f8f8f8;
 }

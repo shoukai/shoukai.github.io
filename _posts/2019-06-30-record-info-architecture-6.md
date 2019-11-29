@@ -22,7 +22,7 @@ tags: 分布式事务
 **最佳实践:**
 
 File API 的主要接口（以C为例，很多是 Posix API，选用比较简单的I/O接口为例）
-```
+```C
 int open(const char *path, int oflag, .../*,mode_t mode */);
 int close (int filedes);
 int remove( const char *fname );
@@ -48,7 +48,7 @@ ssize_t read(int fildes, void *buf, size_t nbyte);
 
 RESTful API 规定了通过 GET、 POST、 PUT、 PATCH、 DELETE 等方式对服务端的资源进行操作
 
-```
+```T
 【GET】          /users                 # 查询用户信息列表
 【GET】          /users/1001            # 查看某个用户信息
 【POST】         /users                 # 新建用户信息
@@ -112,7 +112,7 @@ GraphQL 让你的整个应用共享一套 API，而不用被限制于特定存�
 
 什么是 N+1 问题？首先我们来举个简单的例子：
 
-```
+```Groovy
 def get:
     users = User.objects.all()
     for user in users:
