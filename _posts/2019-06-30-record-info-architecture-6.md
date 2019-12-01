@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Architecture 06 摘录&搜索"
+title:  "Architecture 201906 摘录&搜索"
 subtitle: "一些博客摘记"
 date:   2019-06-30 10:45:13
 author: "Shoukai Huang"
