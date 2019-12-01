@@ -197,10 +197,6 @@ tags: 读书笔记
         * Product as Service
         * Solution as Service
 
-## 第三部分：阿里巴巴能力输出与案例
--------
-略
-
 ### 参考
 -------
 * [事务消息](https://help.aliyun.com/document_detail/43348.html)

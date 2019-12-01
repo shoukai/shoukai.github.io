@@ -6,7 +6,7 @@ date:   2019-06-30 10:45:13
 author: "Shoukai Huang"
 header-img: 'skblog.duiduiche.com/fb254f580a30e6d69831cf2b023f87e6.jpg'
 header-mask: 0.4
-tags: 分布式事务
+tags: 读书笔记
 ---
 
 本摘要为阅读 Architecture 过程中的摘录及相关搜索，书籍链接：[架构师（2019年6月）](https://www.infoq.cn/article/6zDrZd2WL0f7ENQ_Ldiz)
