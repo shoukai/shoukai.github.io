@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "EventStorming（事件风暴）"
+subtitle: "领取驱动设计系列"
+date:   2019-12-03 00:59:00
+author: "Shoukai Huang"
+header-img: 'skblog.duiduiche.com/79d1078424185571629077a1d6d7e051.jpg'
+header-mask: 0.4
+tags: 读书笔记
+---
+
+# 事件风暴
 
 ### 事件风暴定义
 
