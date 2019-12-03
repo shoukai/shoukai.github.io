@@ -5,6 +5,8 @@ EventStorming是一种灵活的研讨会格式，用于协作探索复杂的业�
 
 >EventStorming is a flexible workshop format for collaborative exploration of complex business domains.
 
+![](http://skblog.duiduiche.com/a74556e26d65eee2638a0d65e7973072.jpg)
+
 ### 事件风暴场景
 
 It comes in different flavours, that can be used in different scenarios:
@@ -22,38 +24,24 @@ The adaptive nature of EventStorming allows sophisticated cross-discipline conve
 
 在事件风暴开始之前，需要准备以下物料：
 
-* 便利贴：一大堆，最少要四五种不同的颜色；
+* 便利贴：一大堆，最少要四五种不同的颜色（建议使用能够反复粘贴的便利贴）；
 * 记号笔：人手一支，用于在便利贴上写写写；
 * 白板：最好足够长，用来贴便利贴；
 * 开放空间：用于小组成员之间的充分讨论。
 
 ![](http://skblog.duiduiche.com/732a0cbdea4d3f26461b0cb13138b401.jpg)
 
-
-
-
-
 #### 最终示例
 
-故事背景：
-
->场景源于一个打劫案件，当劫匪拿出他的枪，来自未来的超能摄像头发现危险马上自动报警。同时，各位正义英雄暗地里开始出动！
-哪知道这班劫匪也不是盖的，某正义英雄（请自动脑补蝙蝠侠）虽然第一个到场，和劫匪激战一轮居然也还没拿下，无奈中只能触发身上的升级预警装置通知总部增援。
-总部系统收到通知马上召集了其他英雄线上会议商讨对策，作战计划一出，第二批英雄马上抵达现场，几经周折终于把劫匪抓获。
-
-最终产生的事件风暴图示
+先有一个直观明确的目标感，最终产生的事件风暴类似如下形式
 
 ![](http://skblog.duiduiche.com/d4865faaa1ab8204d1baac6ae439b0a3.jpg)
-
-
-![](http://skblog.duiduiche.com/aaad1f493353b8b404a17b2f7207bea2.jpg)
-
 
 #### 参与人员
 
 * 组织者：组织者应当熟悉事件风暴的整个流程，能够组织大家顺利完成事件风暴；
 * 领域专家：领域专家应该是精通业务的人，在事件风暴过程中，要负责澄清一些业务上的概念，思考业务上有没有遗漏的事件；
-* 项目成员：负责开发这个项目的成员，所有角色都可参加，比如BA、QA、UX、DEV。因为事件风暴可以快速让整个团队了解整个项目的业务流程。
+* 项目成员：负责开发这个项目的成员，所有角色都可参加，比如BA（业务架构师）、QA（质量保证）、UX（User experience design）、DEV。因为事件风暴可以快速让整个团队了解整个项目的业务流程。
 
 #### 寻找领域事件
 
@@ -68,6 +56,8 @@ The adaptive nature of EventStorming allows sophisticated cross-discipline conve
 随着我们对业务认识的不断加深，可以随时回顾和总结之前添加的内容，对于有问题的描述进行更正，对于表述不清楚的内容可以进行重写。
 
 事件是有相对顺序的。可以把一系列有相对顺序关系的事件放在一行上，从左到右排好。这样有助于梳理领域事件，查看是否有遗漏。
+
+![](http://skblog.duiduiche.com/85cc89157b39bfd114b8411174c46428.jpg)
 
 #### 寻找命令和角色
 
@@ -101,6 +91,14 @@ The adaptive nature of EventStorming allows sophisticated cross-discipline conve
 
 ![](http://skblog.duiduiche.com/26183e7546504348246d846a7f16885f.jpg)
 
+利用白板达到类似的效果
+
+![](http://skblog.duiduiche.com/882e088f2d1543cac642c4ceef33a4cd.jpg)
+
+更大规模的示例如下：
+
+![](http://skblog.duiduiche.com/91eb5deaa10cc5cc9a5660dfc7cfeb93.jpg)
+
 
 
 #### 划分子域和限界上下文
@@ -124,9 +122,13 @@ The adaptive nature of EventStorming allows sophisticated cross-discipline conve
 通过时间线，我们可以更好的与众多的业务人员和领域专家进行协同，发掘领域事件。但当我们寻找聚合时，由于聚合是对业务规则的封装，保证数据的一致性，它会跨越领域事件的时间线。
 
 参考
+* 《Introducing EventStorming》
 * [通过事件风暴发现业务流程 - Sarah Denayer](https://www.jdon.com/53221)
 * [DDD第3篇 - 事件风暴](https://blog.csdn.net/yasinshaw/article/details/103307125)
 * [事件风暴建模101](https://www.jianshu.com/p/8a7814f3e9ac)
 * [事件风暴——送给奋战在前线的产品人和技术人](https://zhuanlan.zhihu.com/p/63326029)
+* [Awesome EventStorming](https://github.com/mariuszgil/awesome-eventstorming)
+* [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
+* [【领域驱动设计】事件风暴小体验](https://zhuanlan.zhihu.com/p/95001438)
 
 
