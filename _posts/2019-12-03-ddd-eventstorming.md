@@ -28,7 +28,7 @@ It comes in different flavours, that can be used in different scenarios:
 * to envision new services, that maximise positive outcomes to every party involved;（设想新的服务，最大限度地提高每个参与方的积极成果）
 * to design clean and maintainable Event-Driven software, to support rapidly evolving businesses.（帮助设计整洁可维护的事件驱动软件来支撑迅速发展的业务）
 
-The adaptive nature of EventStorming allows sophisticated cross-discipline conversation between stakeholders with different backgrounds, delivering a new type of collaboration beyond silo and specialisation boundaries.
+The adaptive nature of EventStorming allows sophisticated cross-discipline conversation between stakeholders with different backgrounds, delivering a new type of collaboration beyond silo and specialisation boundaries.（EventStorming的适应性允许在具有不同背景的利益相关者之间进行复杂的跨学科对话，从而提供超越silo和专业化界限的新型协作方式。）
 
 ### 事件风暴流程
 
@@ -45,7 +45,7 @@ The adaptive nature of EventStorming allows sophisticated cross-discipline conve
 
 #### 最终示例
 
-先有一个直观明确的目标感，最终产生的事件风暴类似如下形式
+先有一个直观明确的目标感，最终产生的事件风暴类似如下形式，具体如何创造，后面会进行详细阐述。
 
 ![](http://skblog.duiduiche.com/d4865faaa1ab8204d1baac6ae439b0a3.jpg)
 
@@ -53,7 +53,7 @@ The adaptive nature of EventStorming allows sophisticated cross-discipline conve
 
 * 组织者：组织者应当熟悉事件风暴的整个流程，能够组织大家顺利完成事件风暴；
 * 领域专家：领域专家应该是精通业务的人，在事件风暴过程中，要负责澄清一些业务上的概念，思考业务上有没有遗漏的事件；
-* 项目成员：负责开发这个项目的成员，所有角色都可参加，比如BA（业务架构师）、QA（质量保证）、UX（User experience design）、DEV。因为事件风暴可以快速让整个团队了解整个项目的业务流程。
+* 项目成员：负责开发这个项目的成员，所有角色都可参加，比如BA（业务架构师）、QA（质量保证）、UX（User experience design）、DEV（开发人员）。因为事件风暴可以快速让整个团队了解整个项目的业务流程。
 
 #### 寻找领域事件
 
@@ -130,10 +130,10 @@ The adaptive nature of EventStorming allows sophisticated cross-discipline conve
 
 ![](http://skblog.duiduiche.com/7150a90bdeb538f10b3e9ac106026494.jpg)
 
-
 通过时间线，我们可以更好的与众多的业务人员和领域专家进行协同，发掘领域事件。但当我们寻找聚合时，由于聚合是对业务规则的封装，保证数据的一致性，它会跨越领域事件的时间线。
 
-参考
+### 参考资料
+
 * 《Introducing EventStorming》
 * [通过事件风暴发现业务流程 - Sarah Denayer](https://www.jdon.com/53221)
 * [DDD第3篇 - 事件风暴](https://blog.csdn.net/yasinshaw/article/details/103307125)
