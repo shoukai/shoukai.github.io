@@ -36,10 +36,17 @@ The adaptive nature of EventStorming allows sophisticated cross-discipline conve
 
 在事件风暴开始之前，需要准备以下物料：
 
+* 大型会议室（开放空间）：用于小组成员之间的充分讨论。
 * 便利贴：一大堆，最少要四五种不同的颜色（建议使用能够反复粘贴的便利贴）；
+    * 橙色（500平方76x76）
+    * 蓝色（200）
+    * 紫色（200）
+    * 粉红（100矩形）
+    * 黄色（200个小矩形）
+    * 绿色（100平方76x76）
+    * 浅黄色（100矩形）
 * 记号笔：人手一支，用于在便利贴上写写写；
 * 白板：最好足够长，用来贴便利贴；
-* 开放空间：用于小组成员之间的充分讨论。
 
 ![](http://skblog.duiduiche.com/732a0cbdea4d3f26461b0cb13138b401.jpg)
 
@@ -61,6 +68,10 @@ The adaptive nature of EventStorming allows sophisticated cross-discipline conve
 
 最开始可能很多成员都不知道该怎么写，或者不知道该怎么寻找领域事件。可以由组织者写下领域中发生的第一个事件。其它参与者会迅速的开始模仿，这时我们可以让大家快速的进入状态。
 
+事件的定义：
+* 它需要用过去时来表达，例如添加到购物车或票中的项目购买；
+* 必须与领域专家相关；
+
 在遇到有疑惑的事件时，不必长时间阻塞在那里讨论，把它作为标记记下来即可，后续再进行重点优化。可以贴一个比较醒目的便签纸（比如紫色）在事件旁边。
 
 ![](http://skblog.duiduiche.com/0c408957aee4aa8cb6feef35fc0ede32.jpg)
@@ -70,6 +81,11 @@ The adaptive nature of EventStorming allows sophisticated cross-discipline conve
 事件是有相对顺序的。可以把一系列有相对顺序关系的事件放在一行上，从左到右排好。这样有助于梳理领域事件，查看是否有遗漏。
 
 ![](http://skblog.duiduiche.com/85cc89157b39bfd114b8411174c46428.jpg)
+
+一些即时贴与“域事件”定义不符，在过去时，有某种阶段而不是动词。但是阶段可以隐藏了我们调查的复杂性，将粘滞便笺旋转45度逆时针旋转，以表示有问题，而不会中断讨论流程。
+
+![](http://skblog.duiduiche.com/ecc15deaefc48a4c6d6f4285e45c410c.jpg)
+
 
 #### 寻找命令和角色
 
@@ -103,13 +119,13 @@ The adaptive nature of EventStorming allows sophisticated cross-discipline conve
 
 ![](http://skblog.duiduiche.com/26183e7546504348246d846a7f16885f.jpg)
 
-利用白板达到类似的效果
+利用白板达到类似的效果，但是如下白板只能聚焦某一核心业务，大规模复杂场景仍然缺少文字和细化，但是整体脉络已经通过如上步骤变得清晰。
 
 ![](http://skblog.duiduiche.com/882e088f2d1543cac642c4ceef33a4cd.jpg)
 
-更大规模的示例如下：
+更深入地了解我们的业务机制流程：每个域事件都应是某件事的结果。素描类似于下图可见的图例。
 
-![](http://skblog.duiduiche.com/91eb5deaa10cc5cc9a5660dfc7cfeb93.jpg)
+![](http://skblog.duiduiche.com/302b8402919631e56cd8f079ce11b5c5.jpg)
 
 
 
