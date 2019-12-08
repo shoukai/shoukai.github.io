@@ -10,6 +10,30 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[企业级业务架构设计：方法论与实践](https://book.douban.com/subject/34801161/)<br>时间：2019-12-08<br>出版：2019-8-20<br>豆瓣：7.6/10<br>个人：4/5<br>Tags：架构；业务架构；架构设计 | ![](https://img3.doubanio.com/mpic/s33467230.jpg) |
+| 名称：[Hive实战](https://book.douban.com/subject/30367739/)<br>时间：2019-11-10<br>出版：2018-11<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：自我提升；图灵；2019 | ![](https://img1.doubanio.com/mpic/s29911657.jpg) |
+| 名称：[掌控生活，从掌控时间开始](https://book.douban.com/subject/27596994/)<br>时间：2019-11-10<br>出版：<br>豆瓣：7.8/10<br>个人：3/5<br>Tags：时间管理；自我管理；效率法 | ![](https://img3.doubanio.com/mpic/s29628525.jpg) |
+| 名称：[睡眠革命](https://book.douban.com/subject/27023900/)<br>时间：2019-11-10<br>出版：2017-6<br>豆瓣：7.4/10<br>个人：3/5<br>Tags：睡眠；健康；生活方式 | ![](https://img9.doubanio.com/mpic/s29429664.jpg) |
+| 名称：[创业在路上](https://book.douban.com/subject/30177472/)<br>时间：2019-11-10<br>出版：2018-9<br>豆瓣：7.1/10<br>个人：3/5<br>Tags：罗永浩；创业；商业 | ![](https://img3.doubanio.com/mpic/s29852952.jpg) |
+| 名称：[人的宗教](https://book.douban.com/subject/27080582/)<br>时间：2019-10-09<br>出版：2017-7-1<br>豆瓣：8.7/10<br>个人：4/5<br>Tags：哲学；泰戈尔；宗教 | ![](https://img3.doubanio.com/mpic/s29488605.jpg) |
+| 名称：[硅谷增长黑客实战笔记](https://book.douban.com/subject/30186119/)<br>时间：2019-10-09<br>出版：2018-4-10<br>豆瓣：9.0/10<br>个人：4/5<br>Tags：增长黑客；互联网；用户增长 | ![](https://img9.doubanio.com/mpic/s29731164.jpg) |
+| 名称：[谷歌和亚马逊如何做产品](https://book.douban.com/subject/25879027/)<br>时间：2019-10-09<br>出版：2014-6-1<br>豆瓣：7.8/10<br>个人：4/5<br>Tags：产品；互联网；产品经理 | ![](https://img3.doubanio.com/mpic/s27273771.jpg) |
+| 名称：[MySQL技术内幕](https://book.douban.com/subject/24708143/)<br>时间：2019-09-02<br>出版：2013-5<br>豆瓣：8.6/10<br>个人：5/5<br>Tags：MySQL；数据库；InnoDB | ![](https://img1.doubanio.com/mpic/s29731159.jpg) |
+| 名称：[漫画算法：小灰的算法之旅](https://book.douban.com/subject/33420587/)<br>时间：2019-09-01<br>出版：2019-5<br>豆瓣：8.9/10<br>个人：5/5<br>Tags：算法；编程；漫画 | ![](https://img3.doubanio.com/mpic/s32299271.jpg) |
+| 名称：[精进2](https://book.douban.com/subject/33439323/)<br>时间：2019-07-31<br>出版：2019-6<br>豆瓣：6.7/10<br>个人：3/5<br>Tags：思维；自我成长；采铜 | ![](https://img3.doubanio.com/mpic/s32331455.jpg) |
+| 名称：[软件架构设计](https://book.douban.com/subject/30443578/)<br>时间：2019-07-29<br>出版：2019-2<br>豆瓣：9.1/10<br>个人：5/5<br>Tags：架构；软件设计；计算机 | ![](https://img3.doubanio.com/mpic/s29988380.jpg) |
+| 名称：[函数响应式领域建模](https://book.douban.com/subject/27605361/)<br>时间：2019-07-29<br>出版：2018-1<br>豆瓣：8.5/10<br>个人：4/5<br>Tags：函数式编程；领域驱动设计；响应式编程 | ![](https://img1.doubanio.com/mpic/s29640339.jpg) |
+| 名称：[美团机器学习实践](https://book.douban.com/subject/30243136/)<br>时间：2019-07-29<br>出版：2018-8-1<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：机器学习；AI；计算机 | ![](https://img1.doubanio.com/mpic/s29841559.jpg) |
+| 名称：[麦肯锡精英高效阅读法](https://book.douban.com/subject/33444642/)<br>时间：2019-07-28<br>出版：2019-5<br>豆瓣：7.3/10<br>个人：4/5<br>Tags：阅读方法；读书技巧；方法论 | ![](https://img1.doubanio.com/mpic/s32318249.jpg) |
+| 名称：[西藏不止旅行--行走修心和最好的那个自己相遇](https://book.douban.com/subject/27112034/)<br>时间：2019-07-28<br>出版：2017-8<br>豆瓣：7.7/10<br>个人：4/5<br>Tags：西藏；旅行；文艺 | ![](https://img1.doubanio.com/mpic/s29528868.jpg) |
+| 名称：[东京风格](https://book.douban.com/subject/33301294/)<br>时间：2019-07-26<br>出版：2019-5<br>豆瓣：7.9/10<br>个人：4/5<br>Tags：日本；摄影；生活方式 | ![](https://img1.doubanio.com/mpic/s32300907.jpg) |
+| 名称：[阳明学述要](https://book.douban.com/subject/4269888/)<br>时间：2019-07-19<br>出版：2010-1-1<br>豆瓣：8.8/10<br>个人：5/5<br>Tags：王阳明；钱穆；心学 | ![](https://img1.doubanio.com/mpic/s4220137.jpg) |
+| 名称：[RabbitMQ实战](https://book.douban.com/subject/26649178/)<br>时间：2019-07-19<br>出版：2015-10<br>豆瓣：7.1/10<br>个人：4/5<br>Tags：消息队列；rabbitmq；分布式 | ![](https://img9.doubanio.com/mpic/s28324884.jpg) |
+| 名称：[Akka in Action](https://book.douban.com/subject/24528141/)<br>时间：2019-07-15<br>出版：2014-3-28<br>豆瓣：8.3/10<br>个人：4/5<br>Tags：Actor；Scala；akka | ![](https://img1.doubanio.com/mpic/s26672057.jpg) |
+| 名称：[知行](https://book.douban.com/subject/33463986/)<br>时间：2019-07-14<br>出版：2019-5-1<br>豆瓣：9.6/10<br>个人：4/5<br>Tags：技术管理；管理；技术领导 | ![](https://img3.doubanio.com/mpic/s33457985.jpg) |
+| 名称：[高可用架构（第1卷）](https://book.douban.com/subject/27167798/)<br>时间：2019-07-13<br>出版：2017-11-1<br>豆瓣：6.6/10<br>个人：3/5<br>Tags：架构；高可用；计算机 | ![](https://img1.doubanio.com/mpic/s29585088.jpg) |
+| 名称：[中国历代政治得失](https://book.douban.com/subject/1003479/)<br>时间：2019-07-13<br>出版：2001<br>豆瓣：9.2/10<br>个人：5/5<br>Tags：历史；钱穆；政治 | ![](https://img3.doubanio.com/mpic/s1319205.jpg) |
+| 名称：[Java 9模块化开发](https://book.douban.com/subject/30297395/)<br>时间：2019-07-13<br>出版：2018-6<br>豆瓣：6.0/10<br>个人：5/5<br>Tags：Java；java；模块化 | ![](https://img9.doubanio.com/mpic/s29858106.jpg) |
 | 名称：[Java虚拟机精讲](https://book.douban.com/subject/26353219/)<br>时间：2019-07-12<br>出版：2015-5<br>豆瓣：8.0/10<br>个人：4/5<br>Tags：JVM；Java虚拟机；Java | ![](https://img1.doubanio.com/mpic/s28035477.jpg) |
 | 名称：[MySQL 8 Cookbook（中文版）](https://book.douban.com/subject/30376056/)<br>时间：2019-07-12<br>出版：2018-11<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：数据库；计算机 | ![](https://img3.doubanio.com/mpic/s29920395.jpg) |
 | 名称：[数据科学实战指南](https://book.douban.com/subject/33390601/)<br>时间：2019-07-07<br>出版：2019-4<br>豆瓣：0.0/10<br>个人：4/5<br>Tags： | ![](https://img3.doubanio.com/mpic/s32276021.jpg) |
