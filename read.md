@@ -10,6 +10,12 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[数据湖架构](https://book.douban.com/subject/27122265/)<br>时间：2019-12-08<br>出版：2017-5-1<br>豆瓣：7.4/10<br>个人：4/5<br>Tags：数据仓库；数据湖；数据集成 | ![](https://img1.doubanio.com/mpic/s29525047.jpg) |
+| 名称：[理财就是理生活](https://book.douban.com/subject/30344774/)<br>时间：2019-12-09<br>出版：2018-8<br>豆瓣：7.9/10<br>个人：5/5<br>Tags：理财；金融理财；财务自由 | ![](https://img3.doubanio.com/mpic/s29888232.jpg) |
+| 名称：[Python核心编程（第3版）](https://book.douban.com/subject/26801374/)<br>时间：2019-12-09<br>出版：2016-5<br>豆瓣：8.0/10<br>个人：4/5<br>Tags：Python；python；编程 | ![](https://img3.doubanio.com/mpic/s28754071.jpg) |
+| 名称：[Kubernetes权威指南](https://book.douban.com/subject/27112874/)<br>时间：2019-12-09<br>出版：2017-9<br>豆瓣：7.3/10<br>个人：3/5<br>Tags：kubernetes；容器；Kubernetes | ![](https://img1.doubanio.com/mpic/s29515827.jpg) |
+| 名称：[三国史话](https://book.douban.com/subject/26724026/)<br>时间：2019-12-09<br>出版：2016-1-1<br>豆瓣：8.6/10<br>个人：4/5<br>Tags：历史；三国；吕思勉 | ![](https://img1.doubanio.com/mpic/s29385239.jpg) |
+| 名称：[深入浅出Prometheus：原理、应用、源码与拓展详解](https://book.douban.com/subject/33391107/)<br>时间：2019-12-08<br>出版：2019-4<br>豆瓣：5.7/10<br>个人：3/5<br>Tags：计算机；Prometheus；2019-读书 | ![](https://img3.doubanio.com/mpic/s32276493.jpg) |
 | 名称：[企业级业务架构设计：方法论与实践](https://book.douban.com/subject/34801161/)<br>时间：2019-12-08<br>出版：2019-8-20<br>豆瓣：7.6/10<br>个人：4/5<br>Tags：架构；业务架构；架构设计 | ![](https://img3.doubanio.com/mpic/s33467230.jpg) |
 | 名称：[Hive实战](https://book.douban.com/subject/30367739/)<br>时间：2019-11-10<br>出版：2018-11<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：自我提升；图灵；2019 | ![](https://img1.doubanio.com/mpic/s29911657.jpg) |
 | 名称：[掌控生活，从掌控时间开始](https://book.douban.com/subject/27596994/)<br>时间：2019-11-10<br>出版：<br>豆瓣：7.8/10<br>个人：3/5<br>Tags：时间管理；自我管理；效率法 | ![](https://img3.doubanio.com/mpic/s29628525.jpg) |
