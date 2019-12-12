@@ -10,6 +10,8 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[HTTP/2基础教程](https://book.douban.com/subject/27665112/)<br>时间：2019-12-10<br>出版：2018-1<br>豆瓣：7.1/10<br>个人：3/5<br>Tags：HTTP/2；HTTP；计算机网络 | ![](https://img3.doubanio.com/mpic/s29665581.jpg) |
+| 名称：[佛教的见地与修道](https://book.douban.com/subject/5332932/)<br>时间：2019-12-09<br>出版：2010-10<br>豆瓣：9.2/10<br>个人：4/5<br>Tags：佛学；宗萨蒋杨钦哲仁波切；佛教 | ![](https://img1.doubanio.com/mpic/s4510347.jpg) |
 | 名称：[数据湖架构](https://book.douban.com/subject/27122265/)<br>时间：2019-12-08<br>出版：2017-5-1<br>豆瓣：7.4/10<br>个人：4/5<br>Tags：数据仓库；数据湖；数据集成 | ![](https://img1.doubanio.com/mpic/s29525047.jpg) |
 | 名称：[理财就是理生活](https://book.douban.com/subject/30344774/)<br>时间：2019-12-09<br>出版：2018-8<br>豆瓣：7.9/10<br>个人：5/5<br>Tags：理财；金融理财；财务自由 | ![](https://img3.doubanio.com/mpic/s29888232.jpg) |
 | 名称：[Python核心编程（第3版）](https://book.douban.com/subject/26801374/)<br>时间：2019-12-09<br>出版：2016-5<br>豆瓣：8.0/10<br>个人：4/5<br>Tags：Python；python；编程 | ![](https://img3.doubanio.com/mpic/s28754071.jpg) |
