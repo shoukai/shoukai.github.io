@@ -10,6 +10,12 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[第五项修炼 实践篇（上）](https://book.douban.com/subject/5408874/)<br>时间：2019-12-15<br>出版：2011-1<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：管理；学习型组织；第五项修炼 | ![](https://img3.doubanio.com/mpic/s6268950.jpg) |
+| 名称：[每天5分钟玩转Kubernetes](https://book.douban.com/subject/30186113/)<br>时间：2019-12-15<br>出版：2018-3-1<br>豆瓣：8.3/10<br>个人：3/5<br>Tags：Kubernetes；容器架构；docker | ![](https://img1.doubanio.com/mpic/s29731157.jpg) |
+| 名称：[高效休息法](https://book.douban.com/subject/33440045/)<br>时间：2019-12-15<br>出版：2019-6<br>豆瓣：7.4/10<br>个人：3/5<br>Tags：休息方法；自我管理；正念 | ![](https://img3.doubanio.com/mpic/s32314620.jpg) |
+| 名称：[第二曲线创新](https://book.douban.com/subject/34779940/)<br>时间：2019-12-15<br>出版：2019-9-1<br>豆瓣：7.5/10<br>个人：3/5<br>Tags：创新；创业；思维方式 | ![](https://img9.doubanio.com/mpic/s33446564.jpg) |
+| 名称：[网络是怎样连接的](https://book.douban.com/subject/26941639/)<br>时间：2019-12-15<br>出版：2017-1-1<br>豆瓣：9.1/10<br>个人：5/5<br>Tags：计算机网络；计算机；网络 | ![](https://img1.doubanio.com/mpic/s29370067.jpg) |
+| 名称：[读懂一本书：樊登读书法](https://book.douban.com/subject/34858308/)<br>时间：2019-12-15<br>出版：2019-10<br>豆瓣：7.1/10<br>个人：3/5<br>Tags：读书；阅读；樊登读书会 | ![](https://img3.doubanio.com/mpic/s33501161.jpg) |
 | 名称：[HTTP/2基础教程](https://book.douban.com/subject/27665112/)<br>时间：2019-12-10<br>出版：2018-1<br>豆瓣：7.1/10<br>个人：3/5<br>Tags：HTTP/2；HTTP；计算机网络 | ![](https://img3.doubanio.com/mpic/s29665581.jpg) |
 | 名称：[佛教的见地与修道](https://book.douban.com/subject/5332932/)<br>时间：2019-12-09<br>出版：2010-10<br>豆瓣：9.2/10<br>个人：4/5<br>Tags：佛学；宗萨蒋杨钦哲仁波切；佛教 | ![](https://img1.doubanio.com/mpic/s4510347.jpg) |
 | 名称：[数据湖架构](https://book.douban.com/subject/27122265/)<br>时间：2019-12-08<br>出版：2017-5-1<br>豆瓣：7.4/10<br>个人：4/5<br>Tags：数据仓库；数据湖；数据集成 | ![](https://img1.doubanio.com/mpic/s29525047.jpg) |
