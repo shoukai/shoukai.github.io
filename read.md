@@ -10,6 +10,8 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[流程的永恒之道](https://book.douban.com/subject/25883177/)<br>时间：2019-12-16<br>出版：2014-6<br>豆瓣：7.8/10<br>个人：4/5<br>Tags：工作流；流程管理；BPM | ![](https://img1.doubanio.com/mpic/s27278547.jpg) |
+| 名称：[第五项修炼·实践篇（下）](https://book.douban.com/subject/5408879/)<br>时间：2019-12-16<br>出版：2011-1<br>豆瓣：8.5/10<br>个人：4/5<br>Tags：管理；管理学；学习型组织 | ![](https://img3.doubanio.com/mpic/s6268952.jpg) |
 | 名称：[第五项修炼 实践篇（上）](https://book.douban.com/subject/5408874/)<br>时间：2019-12-15<br>出版：2011-1<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：管理；学习型组织；第五项修炼 | ![](https://img3.doubanio.com/mpic/s6268950.jpg) |
 | 名称：[每天5分钟玩转Kubernetes](https://book.douban.com/subject/30186113/)<br>时间：2019-12-15<br>出版：2018-3-1<br>豆瓣：8.3/10<br>个人：3/5<br>Tags：Kubernetes；容器架构；docker | ![](https://img1.doubanio.com/mpic/s29731157.jpg) |
 | 名称：[高效休息法](https://book.douban.com/subject/33440045/)<br>时间：2019-12-15<br>出版：2019-6<br>豆瓣：7.4/10<br>个人：3/5<br>Tags：休息方法；自我管理；正念 | ![](https://img3.doubanio.com/mpic/s32314620.jpg) |
