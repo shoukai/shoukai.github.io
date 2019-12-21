@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[领域专用语言实战](https://book.douban.com/subject/25741352/)<br>时间：2019-12-21<br>出版：2013-11<br>豆瓣：8.1/10<br>个人：4/5<br>Tags：DSL；编程语言；领域驱动设计 | ![](https://img1.doubanio.com/mpic/s27080718.jpg) |
 | 名称：[反应式设计模式](https://book.douban.com/subject/30417742/)<br>时间：2019-12-21<br>出版：2019-1-1<br>豆瓣：8.2/10<br>个人：4/5<br>Tags：反应式编程；设计模式；分布式 | ![](https://img9.doubanio.com/mpic/s29963974.jpg) |
 | 名称：[高效程序员的45个习惯](https://book.douban.com/subject/4164024/)<br>时间：2019-12-21<br>出版：2010-01<br>豆瓣：8.1/10<br>个人：3/5<br>Tags：敏捷开发；编程；程序员 | ![](https://img1.doubanio.com/mpic/s4073509.jpg) |
 | 名称：[流程的永恒之道](https://book.douban.com/subject/25883177/)<br>时间：2019-12-16<br>出版：2014-6<br>豆瓣：7.8/10<br>个人：4/5<br>Tags：工作流；流程管理；BPM | ![](https://img1.doubanio.com/mpic/s27278547.jpg) |
