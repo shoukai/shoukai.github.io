@@ -6,6 +6,26 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ---
 
 ----
+### 2020
+----
+
+| --- | --- |
+| 名称：[推荐系统](https://book.douban.com/subject/34872145/)<br>时间：2020-02-23<br>出版：2019-10<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：推荐系统；计算机；数据挖掘 | ![](https://img9.doubanio.com/mpic/s33509204.jpg) |
+| 名称：[推荐系统算法实践](https://book.douban.com/subject/34809692/)<br>时间：2020-02-23<br>出版：2019-9<br>豆瓣：7.2/10<br>个人：4/5<br>Tags：推荐系统；算法；计算机 | ![](https://img9.doubanio.com/mpic/s33471236.jpg) |
+| 名称：[推荐系统与深度学习](https://book.douban.com/subject/30419577/)<br>时间：2020-02-23<br>出版：2019-1-1<br>豆瓣：6.0/10<br>个人：3/5<br>Tags：推荐系统；深度学习；机器学习 | ![](https://img9.doubanio.com/mpic/s29965784.jpg) |
+| 名称：[早起魔法](https://book.douban.com/subject/30289874/)<br>时间：2020-02-02<br>出版：2018-8<br>豆瓣：6.5/10<br>个人：3/5<br>Tags：自我管理；时间管理；早起 | ![](https://img3.doubanio.com/mpic/s29835091.jpg) |
+| 名称：[图解苏菲的世界:人人都能读懂的西方哲学史](https://book.douban.com/subject/26577897/)<br>时间：2020-02-02<br>出版：2015-6-7<br>豆瓣：7.3/10<br>个人：3/5<br>Tags：哲学；哲学入门；入门 | ![](https://img3.doubanio.com/mpic/s28261880.jpg) |
+| 名称：[深入理解Apache Dubbo与实战](https://book.douban.com/subject/34455777/)<br>时间：2020-02-02<br>出版：2019-7<br>豆瓣：7.9/10<br>个人：4/5<br>Tags：dubbo；Java；中间件 | ![](https://img3.doubanio.com/mpic/s33315941.jpg) |
+| 名称：[浮生六记](https://book.douban.com/subject/1088581/)<br>时间：2020-01-28<br>出版：1999-1<br>豆瓣：8.8/10<br>个人：4/5<br>Tags：浮生六记；古典文学；沈复 | ![](https://img9.doubanio.com/mpic/s2280094.jpg) |
+| 名称：[人间值得](https://book.douban.com/subject/34797578/)<br>时间：2020-01-28<br>出版：2019-8<br>豆瓣：8.2/10<br>个人：4/5<br>Tags：治愈；温暖；心理学 | ![](https://img1.doubanio.com/mpic/s33477937.jpg) |
+| 名称：[精准努力：刘媛媛的逆袭课](https://book.douban.com/subject/34845754/)<br>时间：2020-01-28<br>出版：2019-10<br>豆瓣：7.9/10<br>个人：3/5<br>Tags：自我成长；学习；自我管理 | ![](https://img3.doubanio.com/mpic/s33492041.jpg) |
+| 名称：[这里是中国](https://book.douban.com/subject/34835320/)<br>时间：2020-01-20<br>出版：2019-9-1<br>豆瓣：8.2/10<br>个人：4/5<br>Tags：地理；中国；摄影 | ![](https://img9.doubanio.com/mpic/s33501396.jpg) |
+| 名称：[人间词话](https://book.douban.com/subject/27074836/)<br>时间：2020-01-18<br>出版：2017-7<br>豆瓣：9.0/10<br>个人：4/5<br>Tags：王国维；诗词；中国文学 | ![](https://img3.doubanio.com/mpic/s29827193.jpg) |
+| 名称：[决胜B端——产品经理升级之路](https://book.douban.com/subject/33454250/)<br>时间：2020-01-17<br>出版：2019-6<br>豆瓣：8.3/10<br>个人：4/5<br>Tags：产品经理；B端；b端产品 | ![](https://img1.doubanio.com/mpic/s32325687.jpg) |
+| 名称：[Hive编程指南](https://book.douban.com/subject/25791255/)<br>时间：2020-01-01<br>出版：2013-12-1<br>豆瓣：7.4/10<br>个人：4/5<br>Tags：Hive；大数据；hadoop | ![](https://img1.doubanio.com/mpic/s28019858.jpg) |
+| 名称：[新知•学习的革命（精华版）](https://book.douban.com/subject/26424383/)<br>时间：2020-01-01<br>出版：2013-7-15<br>豆瓣：8.1/10<br>个人：3/5<br>Tags：杂志；生活·读书·新知三联书店有限公司；教育 | ![](https://img3.doubanio.com/mpic/s28109321.jpg) |
+
+----
 ### 2019
 ----
 
