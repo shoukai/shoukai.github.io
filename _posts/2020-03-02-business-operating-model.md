@@ -6,7 +6,7 @@ date:   2020-02-03 08:00:00
 author: "Shoukai Huang"
 header-img: 'skblog.duiduiche.com/aefd421cdbaef80e8bf47fe8dc87d0e2.jpg'
 header-mask: 0.4
-tags: 读书笔记
+tags: 领域驱动 中台
 ---
 
 ## Operating Model 相关概念

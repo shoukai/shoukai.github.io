@@ -6,7 +6,7 @@ date:   2019-07-30 22:00:00
 author: "Shoukai Huang"
 header-img: 'skblog.duiduiche.com/9da64338b2b8d3594483658c65b398cf.jpg'
 header-mask: 0.4
-tags: 读书笔记
+tags: InfoQ
 ---
 
 本摘要为阅读 Architecture 过程中的摘录及相关搜索，书籍链接：[架构师（2019年7月）](https://www.infoq.cn/article/MV34S6hCWTT7logZt_px)

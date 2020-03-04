@@ -6,7 +6,7 @@ date:   2020-02-02 07:00:00
 author: "Shoukai Huang"
 header-img: 'skblog.duiduiche.com/9994d024eb2eb585f1e4a974e0613bb5.jpg'
 header-mask: 0.4
-tags: 领域驱动
+tags: 领域驱动 中台
 ---
 
 ## Pace-layered 概念
