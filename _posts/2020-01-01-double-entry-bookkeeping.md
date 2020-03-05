@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "复式记账法及示例"
+title:  "复式记账法"
 subtitle: "基本概念及理解"
-date:   2020-03-04 08:00:00
+date:   2020-01-01 08:00:00
 author: "Shoukai Huang"
 header-img: 'skblog.duiduiche.com/82bdd9e80219faeb1a08bf6c50b803ec.jpg'
 header-mask: 0.4
 tags: 财务
 ---
 
-*（仅用于个人理解，组织结构及文章内容以权威内容为主）*
+*（仅用于个人理解及记录）*
 
 ## 第1部分 复式记账
 

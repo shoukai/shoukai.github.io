@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "读书笔记：说透中台"
-date:   2020-02-02 08:00:00
+date:   2020-03-03 08:00:00
 author: "Shoukai Huang"
 header-img: 'skblog.duiduiche.com/d87ea63d3a1dc780f8c77136536fb932.jpg'
 header-mask: 0.4
