@@ -2,9 +2,9 @@
 layout: post
 title:  "精益价值树（Lean Value Tree）"
 subtitle: "领域驱动设计系列"
-date:   2020-02-03 08:00:00
+date:   2020-03-03 08:00:00
 author: "Shoukai Huang"
-header-img: ''
+header-img: 'skblog.duiduiche.com/080ffcb5981d81c1315a54f3007ffd34.jpg'
 header-mask: 0.4
 tags: 领域驱动 中台
 ---
