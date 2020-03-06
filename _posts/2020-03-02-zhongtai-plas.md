@@ -2,7 +2,7 @@
 layout: post
 title:  "Pace-Layered Application Strategy"
 subtitle: "领域驱动设计系列"
-date:   2020-02-02 07:00:00
+date:   2020-03-02 07:00:00
 author: "Shoukai Huang"
 header-img: 'skblog.duiduiche.com/9994d024eb2eb585f1e4a974e0613bb5.jpg'
 header-mask: 0.4
