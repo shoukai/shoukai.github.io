@@ -10,6 +10,16 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[Scrum敏捷软件开发](https://book.douban.com/subject/5334585/)<br>时间：2020-03-08<br>出版：2010-11<br>豆瓣：8.0/10<br>个人：3/5<br>Tags：敏捷开发；Scrum；项目管理 | ![](https://img3.doubanio.com/mpic/s6246942.jpg) |
+| 名称：[程序员健康指南](https://book.douban.com/subject/25981248/)<br>时间：2020-03-08<br>出版：2014-9-20<br>豆瓣：7.5/10<br>个人：3/5<br>Tags：健康；IT；从业人员健康 | ![](https://img3.doubanio.com/mpic/s28066372.jpg) |
+| 名称：[CTO说](https://book.douban.com/subject/27040502/)<br>时间：2020-03-08<br>出版：2017-5-1<br>豆瓣：7.1/10<br>个人：3/5<br>Tags：技术管理；互联网；计算机 | ![](https://img3.doubanio.com/mpic/s29462213.jpg) |
+| 名称：[Hadoop应用架构](https://book.douban.com/subject/26971353/)<br>时间：2020-03-08<br>出版：2017-1<br>豆瓣：7.9/10<br>个人：3/5<br>Tags：大数据；Hadoop；计算机 | ![](https://img3.doubanio.com/mpic/s29335153.jpg) |
+| 名称：[Hadoop构建数据仓库实践](https://book.douban.com/subject/27075781/)<br>时间：2020-03-07<br>出版：2017-7<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：数据仓库；大数据；hadoop | ![](https://img3.doubanio.com/mpic/s29481723.jpg) |
+| 名称：[单核工作法图解](https://book.douban.com/subject/27177909/)<br>时间：2020-03-07<br>出版：2017-10-1<br>豆瓣：8.0/10<br>个人：3/5<br>Tags：时间管理；自我管理；效率 | ![](https://img9.doubanio.com/mpic/s29602754.jpg) |
+| 名称：[瑞幸闪电战](https://book.douban.com/subject/34941742/)<br>时间：2020-03-07<br>出版：2020-1<br>豆瓣：7.4/10<br>个人：4/5<br>Tags：商业；非常不错的一本书，值得推荐！；互联网 | ![](https://img9.doubanio.com/mpic/s33557664.jpg) |
+| 名称：[接口自动化测试持续集成](https://book.douban.com/subject/30769170/)<br>时间：2020-03-07<br>出版：2019-2-1<br>豆瓣：4.7/10<br>个人：5/5<br>Tags：自动化测试，jenkins；计算机科学；计算机 | ![](https://img9.doubanio.com/mpic/s32291424.jpg) |
+| 名称：[无伤跑法](https://book.douban.com/subject/30394949/)<br>时间：2020-03-07<br>出版：2018-12-1<br>豆瓣：8.8/10<br>个人：4/5<br>Tags：跑步；运动；健康 | ![](https://img3.doubanio.com/mpic/s33461603.jpg) |
+| 名称：[构建之法（第三版）](https://book.douban.com/subject/27069503/)<br>时间：2020-03-07<br>出版：2017-6<br>豆瓣：8.6/10<br>个人：4/5<br>Tags：软件工程；计算机；项目管理 | ![](https://img1.doubanio.com/mpic/s29652747.jpg) |
 | 名称：[推荐系统](https://book.douban.com/subject/34872145/)<br>时间：2020-02-23<br>出版：2019-10<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：推荐系统；计算机；数据挖掘 | ![](https://img9.doubanio.com/mpic/s33509204.jpg) |
 | 名称：[推荐系统算法实践](https://book.douban.com/subject/34809692/)<br>时间：2020-02-23<br>出版：2019-9<br>豆瓣：7.2/10<br>个人：4/5<br>Tags：推荐系统；算法；计算机 | ![](https://img9.doubanio.com/mpic/s33471236.jpg) |
 | 名称：[推荐系统与深度学习](https://book.douban.com/subject/30419577/)<br>时间：2020-02-23<br>出版：2019-1-1<br>豆瓣：6.0/10<br>个人：3/5<br>Tags：推荐系统；深度学习；机器学习 | ![](https://img9.doubanio.com/mpic/s29965784.jpg) |
