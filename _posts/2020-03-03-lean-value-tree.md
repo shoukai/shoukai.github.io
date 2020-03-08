@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "精益价值树（Lean Value Tree）"
+title:  "Lean Value Tree（精益价值树）"
 subtitle: "领域驱动设计系列"
 date:   2020-03-03 08:00:00
 author: "Shoukai Huang"
