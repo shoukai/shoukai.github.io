@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "读书笔记：构建进化软件架构笔记"
+title:  "读书笔记：演进式架构"
 subtitle: "Building Evolutionary Architectures"
 date:   2018-01-30 18:00:00
 author: "Shoukai Huang"
