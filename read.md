@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[演进式架构](https://book.douban.com/subject/34793521/)<br>时间：2020-03-13<br>出版：2019-8<br>豆瓣：7.3/10<br>个人：4/5<br>Tags：架构；软件工程；软件开发 | ![](https://img3.doubanio.com/mpic/s33457073.jpg) |
 | 名称：[Scrum敏捷软件开发](https://book.douban.com/subject/5334585/)<br>时间：2020-03-08<br>出版：2010-11<br>豆瓣：8.0/10<br>个人：3/5<br>Tags：敏捷开发；Scrum；项目管理 | ![](https://img3.doubanio.com/mpic/s6246942.jpg) |
 | 名称：[程序员健康指南](https://book.douban.com/subject/25981248/)<br>时间：2020-03-08<br>出版：2014-9-20<br>豆瓣：7.5/10<br>个人：3/5<br>Tags：健康；IT；从业人员健康 | ![](https://img3.doubanio.com/mpic/s28066372.jpg) |
 | 名称：[CTO说](https://book.douban.com/subject/27040502/)<br>时间：2020-03-08<br>出版：2017-5-1<br>豆瓣：7.1/10<br>个人：3/5<br>Tags：技术管理；互联网；计算机 | ![](https://img3.doubanio.com/mpic/s29462213.jpg) |
