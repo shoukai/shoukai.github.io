@@ -10,6 +10,10 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[代码之外的功夫](https://book.douban.com/subject/30147274/)<br>时间：2020-03-15<br>出版：2018-3-1<br>豆瓣：6.8/10<br>个人：3/5<br>Tags：编程；计算机；软件开发 | ![](https://img3.doubanio.com/mpic/s29694321.jpg) |
+| 名称：[鲜活的数据](https://book.douban.com/subject/19952397/)<br>时间：2020-03-15<br>出版：2012-10-1<br>豆瓣：7.4/10<br>个人：3/5<br>Tags：数据可视化；数据分析；数据 | ![](https://img1.doubanio.com/mpic/s27254568.jpg) |
+| 名称：[推荐系统实践](https://book.douban.com/subject/10769749/)<br>时间：2020-03-15<br>出版：2012-6-1<br>豆瓣：8.1/10<br>个人：4/5<br>Tags：推荐系统；数据挖掘；算法 | ![](https://img1.doubanio.com/mpic/s10213357.jpg) |
+| 名称：[自己动手写Java虚拟机](https://book.douban.com/subject/26802084/)<br>时间：2020-03-15<br>出版：2016-6-1<br>豆瓣：8.2/10<br>个人：4/5<br>Tags：JVM；Java；虚拟机 | ![](https://img9.doubanio.com/mpic/s28926306.jpg) |
 | 名称：[演进式架构](https://book.douban.com/subject/34793521/)<br>时间：2020-03-13<br>出版：2019-8<br>豆瓣：7.3/10<br>个人：4/5<br>Tags：架构；软件工程；软件开发 | ![](https://img3.doubanio.com/mpic/s33457073.jpg) |
 | 名称：[Scrum敏捷软件开发](https://book.douban.com/subject/5334585/)<br>时间：2020-03-08<br>出版：2010-11<br>豆瓣：8.0/10<br>个人：3/5<br>Tags：敏捷开发；Scrum；项目管理 | ![](https://img3.doubanio.com/mpic/s6246942.jpg) |
 | 名称：[程序员健康指南](https://book.douban.com/subject/25981248/)<br>时间：2020-03-08<br>出版：2014-9-20<br>豆瓣：7.5/10<br>个人：3/5<br>Tags：健康；IT；从业人员健康 | ![](https://img3.doubanio.com/mpic/s28066372.jpg) |
