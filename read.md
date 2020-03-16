@@ -10,6 +10,8 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[Hadoop数据分析](https://book.douban.com/subject/30180515/)<br>时间：2020-03-16<br>出版：2018-4<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：计算机；计算科学；美国 | ![](https://img9.doubanio.com/mpic/s29725694.jpg) |
+| 名称：[睡个好觉](https://book.douban.com/subject/34852503/)<br>时间：2020-03-15<br>出版：2019-10-30<br>豆瓣：7.8/10<br>个人：3/5<br>Tags：睡眠；科普；生活 | ![](https://img1.doubanio.com/mpic/s33497037.jpg) |
 | 名称：[代码之外的功夫](https://book.douban.com/subject/30147274/)<br>时间：2020-03-15<br>出版：2018-3-1<br>豆瓣：6.8/10<br>个人：3/5<br>Tags：编程；计算机；软件开发 | ![](https://img3.doubanio.com/mpic/s29694321.jpg) |
 | 名称：[鲜活的数据](https://book.douban.com/subject/19952397/)<br>时间：2020-03-15<br>出版：2012-10-1<br>豆瓣：7.4/10<br>个人：3/5<br>Tags：数据可视化；数据分析；数据 | ![](https://img1.doubanio.com/mpic/s27254568.jpg) |
 | 名称：[推荐系统实践](https://book.douban.com/subject/10769749/)<br>时间：2020-03-15<br>出版：2012-6-1<br>豆瓣：8.1/10<br>个人：4/5<br>Tags：推荐系统；数据挖掘；算法 | ![](https://img1.doubanio.com/mpic/s10213357.jpg) |
