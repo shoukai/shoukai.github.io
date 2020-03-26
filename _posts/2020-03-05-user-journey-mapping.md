@@ -6,7 +6,7 @@ date:   2020-03-06 08:00:00
 author: "Shoukai Huang"
 header-img: 'skblog.duiduiche.com/1688ee9a1e3e8e20c42b8562ccb1d89d.jpg'
 header-mask: 0.4
-tags: 读书笔记 中台 领域驱动
+tags: 中台 领域驱动
 ---
 
 ## 1 相关概念
