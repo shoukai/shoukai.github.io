@@ -10,6 +10,10 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[产品运营新物种](https://book.douban.com/subject/34930397/)<br>时间：2020-04-06<br>出版：2020-1<br>豆瓣：6.6/10<br>个人：3/5<br>Tags：运营；产品经理；产品 | ![](https://img3.doubanio.com/mpic/s33547271.jpg) |
+| 名称：[你也是产品：产品思维纵谈](https://book.douban.com/subject/34942916/)<br>时间：2020-04-06<br>出版：2020-1<br>豆瓣：10.0/10<br>个人：3/5<br>Tags：产品必读；产品经理；产品思维 | ![](https://img3.doubanio.com/mpic/s33556341.jpg) |
+| 名称：[产品经理从入门到精通](https://book.douban.com/subject/34909181/)<br>时间：2020-04-06<br>出版：2019-10-1<br>豆瓣：6.2/10<br>个人：3/5<br>Tags：产品经理；职场；电子书 | ![](https://img3.doubanio.com/mpic/s33534671.jpg) |
+| 名称：[中台战略：中台建设与数字商业](https://book.douban.com/subject/34812013/)<br>时间：2020-04-06<br>出版：2019-9-1<br>豆瓣：7.3/10<br>个人：4/5<br>Tags：中台；数据中台；互联网 | ![](https://img9.doubanio.com/mpic/s33469184.jpg) |
 | 名称：[奔跑吧，程序员](https://book.douban.com/subject/30271075/)<br>时间：2020-04-05<br>出版：2018-7<br>豆瓣：7.5/10<br>个人：4/5<br>Tags：创业；计算机；软件开发 | ![](https://img9.doubanio.com/mpic/s29816092.jpg) |
 | 名称：[计算机是怎样跑起来的](https://book.douban.com/subject/26397183/)<br>时间：2020-04-05<br>出版：2015-5<br>豆瓣：7.5/10<br>个人：3/5<br>Tags：计算机；计算机科学；科普 | ![](https://img9.doubanio.com/mpic/s28079818.jpg) |
 | 名称：[图解HTTP](https://book.douban.com/subject/25863515/)<br>时间：2020-03-22<br>出版：2014-4-15<br>豆瓣：8.1/10<br>个人：5/5<br>Tags：HTTP；网络；计算机 | ![](https://img3.doubanio.com/mpic/s27283822.jpg) |
