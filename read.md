@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[俞军产品方法论](https://book.douban.com/subject/34907971/)<br>时间：2020-04-07<br>出版：2019-12-1<br>豆瓣：7.8/10<br>个人：5/5<br>Tags：产品经理；产品；互联网 | ![](https://img1.doubanio.com/mpic/s33543538.jpg) |
 | 名称：[产品运营新物种](https://book.douban.com/subject/34930397/)<br>时间：2020-04-06<br>出版：2020-1<br>豆瓣：6.6/10<br>个人：3/5<br>Tags：运营；产品经理；产品 | ![](https://img3.doubanio.com/mpic/s33547271.jpg) |
 | 名称：[你也是产品：产品思维纵谈](https://book.douban.com/subject/34942916/)<br>时间：2020-04-06<br>出版：2020-1<br>豆瓣：10.0/10<br>个人：3/5<br>Tags：产品必读；产品经理；产品思维 | ![](https://img3.doubanio.com/mpic/s33556341.jpg) |
 | 名称：[产品经理从入门到精通](https://book.douban.com/subject/34909181/)<br>时间：2020-04-06<br>出版：2019-10-1<br>豆瓣：6.2/10<br>个人：3/5<br>Tags：产品经理；职场；电子书 | ![](https://img3.doubanio.com/mpic/s33534671.jpg) |
