@@ -68,8 +68,8 @@ ba_track_id: 70280fa191231708a092ffd9ecad59ec
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "读书，旅行，总有一个在路上"
-sidebar-avatar: http://skblog.duiduiche.com/ab560058fbcb36657b56eee62f7fd79a.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
+# sidebar-avatar: http://skblog.duiduiche.com/ab560058fbcb36657b56eee62f7fd79a.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: http://skblog.duiduiche.com/4e76fac5dc250c49611918e73ebf7bff.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
