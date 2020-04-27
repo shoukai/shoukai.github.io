@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[Togaf Version 9 - A Pocket Guide](https://book.douban.com/subject/3552021/)<br>时间：2020-04-27<br>出版：2009-02<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：TOGAF；EA | ![](https://img1.doubanio.com/mpic/s3713357.jpg) |
 | 名称：[绩效使能：超越OKR](https://book.douban.com/subject/30488568/)<br>时间：2020-04-19<br>出版：2019-3<br>豆瓣：8.0/10<br>个人：4/5<br>Tags：OKR；管理；绩效管理 | ![](https://img1.doubanio.com/mpic/s32289968.jpg) |
 | 名称：[产品逻辑之美：打造复杂的产品系统](https://book.douban.com/subject/34762042/)<br>时间：2020-04-11<br>出版：2019-8<br>豆瓣：8.0/10<br>个人：4/5<br>Tags：产品经理；产品；互联网 | ![](https://img1.doubanio.com/mpic/s33443878.jpg) |
 | 名称：[数据中台：让数据用起来](https://book.douban.com/subject/34907496/)<br>时间：2020-04-08<br>出版：2020-1-1<br>豆瓣：7.3/10<br>个人：4/5<br>Tags：数据中台；数据；大数据 | ![](https://img3.doubanio.com/mpic/s33531462.jpg) |
