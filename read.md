@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[重新认识学习](https://book.douban.com/subject/35050939/)<br>时间：2020-05-17<br>出版：2020-5<br>豆瓣：0.0/10<br>个人：3/5<br>Tags：学习方法；神经科学；电子书站 | ![](https://img3.doubanio.com/mpic/s33632941.jpg) |
 | 名称：[大象：Thinking in UML(第2版)](https://book.douban.com/subject/10549583/)<br>时间：2020-05-02<br>出版：2012-3<br>豆瓣：8.2/10<br>个人：5/5<br>Tags：UML；软件工程；面向对象 | ![](https://img3.doubanio.com/mpic/s27263942.jpg) |
 | 名称：[Togaf Version 9 - A Pocket Guide](https://book.douban.com/subject/3552021/)<br>时间：2020-04-27<br>出版：2009-02<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：TOGAF；EA | ![](https://img1.doubanio.com/mpic/s3713357.jpg) |
 | 名称：[绩效使能：超越OKR](https://book.douban.com/subject/30488568/)<br>时间：2020-04-19<br>出版：2019-3<br>豆瓣：8.0/10<br>个人：4/5<br>Tags：OKR；管理；绩效管理 | ![](https://img1.doubanio.com/mpic/s32289968.jpg) |
