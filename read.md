@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[商业产品经理——腾讯教我的产品工作思维](https://book.douban.com/subject/33444701/)<br>时间：2020-05-24<br>出版：2019-6<br>豆瓣：5.0/10<br>个人：3/5<br>Tags：产品经理；商业；互联网 | ![](https://img1.doubanio.com/mpic/s32318257.jpg) |
 | 名称：[企业架构的数字化转型](https://book.douban.com/subject/34862002/)<br>时间：2020-05-24<br>出版：2019-10-1<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：数字化转型；架构 | ![](https://img9.doubanio.com/mpic/s33577755.jpg) |
 | 名称：[我曾走在崩溃的边缘](https://book.douban.com/subject/33414023/)<br>时间：2020-05-17<br>出版：2019-4<br>豆瓣：8.3/10<br>个人：4/5<br>Tags：创业；传记；俞敏洪 | ![](https://img1.doubanio.com/mpic/s32297488.jpg) |
 | 名称：[重新认识学习](https://book.douban.com/subject/35050939/)<br>时间：2020-05-17<br>出版：2020-5<br>豆瓣：0.0/10<br>个人：3/5<br>Tags：学习方法；神经科学；电子书站 | ![](https://img3.doubanio.com/mpic/s33632941.jpg) |
