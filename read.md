@@ -10,6 +10,8 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[程序员修炼之道（第2版）](https://book.douban.com/subject/35006892/)<br>时间：2020-06-02<br>出版：2020-4-1<br>豆瓣：9.5/10<br>个人：4/5<br>Tags：程序员；计算机；软件工程 | ![](https://img3.doubanio.com/mpic/s33607450.jpg) |
+| 名称：[高效工作记忆法](https://book.douban.com/subject/30309326/)<br>时间：2020-06-02<br>出版：2018-9<br>豆瓣：6.9/10<br>个人：3/5<br>Tags：记忆管理；自我管理；方法论 | ![](https://img3.doubanio.com/mpic/s29852972.jpg) |
 | 名称：[超大流量分布式系统架构解决方案：人人都是架构师2.0](https://book.douban.com/subject/35013223/)<br>时间：2020-05-31<br>出版：2020-4<br>豆瓣：8.2/10<br>个人：4/5<br>Tags：分布式系统、解决方案、架构师；系统架构；架构 | ![](https://img1.doubanio.com/mpic/s33607178.jpg) |
 | 名称：[商业产品经理——腾讯教我的产品工作思维](https://book.douban.com/subject/33444701/)<br>时间：2020-05-24<br>出版：2019-6<br>豆瓣：5.0/10<br>个人：3/5<br>Tags：产品经理；商业；互联网 | ![](https://img1.doubanio.com/mpic/s32318257.jpg) |
 | 名称：[企业架构的数字化转型](https://book.douban.com/subject/34862002/)<br>时间：2020-05-24<br>出版：2019-10-1<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：数字化转型；架构 | ![](https://img9.doubanio.com/mpic/s33577755.jpg) |
