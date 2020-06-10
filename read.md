@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[阿里三板斧](https://book.douban.com/subject/30435260/)<br>时间：2020-06-10<br>出版：2019-1<br>豆瓣：7.0/10<br>个人：4/5<br>Tags：管理；阿里巴巴；人才培养 | ![](https://img3.doubanio.com/mpic/s29980441.jpg) |
 | 名称：[DISCOVER自我探索（全彩）](https://book.douban.com/subject/25932239/)<br>时间：2020-06-05<br>出版：2014-7<br>豆瓣：7.6/10<br>个人：5/5<br>Tags：培训；DISC；自我探索 | ![](https://img9.doubanio.com/mpic/s27338454.jpg) |
 | 名称：[程序员修炼之道（第2版）](https://book.douban.com/subject/35006892/)<br>时间：2020-06-02<br>出版：2020-4-1<br>豆瓣：9.5/10<br>个人：4/5<br>Tags：程序员；计算机；软件工程 | ![](https://img3.doubanio.com/mpic/s33607450.jpg) |
 | 名称：[高效工作记忆法](https://book.douban.com/subject/30309326/)<br>时间：2020-06-02<br>出版：2018-9<br>豆瓣：6.9/10<br>个人：3/5<br>Tags：记忆管理；自我管理；方法论 | ![](https://img3.doubanio.com/mpic/s29852972.jpg) |
