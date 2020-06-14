@@ -10,6 +10,9 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[面向模式的软件架构 卷5](https://book.douban.com/subject/6819532/)<br>时间：2020-06-14<br>出版：2011-9<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：软件架构；架构；计算机 | ![](https://img9.doubanio.com/mpic/s8846734.jpg) |
+| 名称：[面向模式的软件架构 卷4：分布式计算的模式语言](https://book.douban.com/subject/4848563/)<br>时间：2020-06-14<br>出版：2010-6<br>豆瓣：8.6/10<br>个人：4/5<br>Tags：软件架构；架构；分布式 | ![](https://img9.doubanio.com/mpic/s4372785.jpg) |
+| 名称：[面向模式的软件体系结构卷3](https://book.douban.com/subject/1444890/)<br>时间：2020-06-14<br>出版：2005-9<br>豆瓣：7.7/10<br>个人：3/5<br>Tags：架构；软件设计；设计模式 | ![](https://img1.doubanio.com/mpic/s24471777.jpg) |
 | 名称：[面向模式的软件体系结构(卷1) (平装)](https://book.douban.com/subject/1232017/)<br>时间：2020-06-13<br>出版：2003-1<br>豆瓣：7.7/10<br>个人：4/5<br>Tags：架构；设计模式；软件体系结构 | ![](https://img9.doubanio.com/mpic/s1959726.jpg) |
 | 名称：[阿里巴巴人力资源管理](https://book.douban.com/subject/27140798/)<br>时间：2020-06-11<br>出版：2017-8-1<br>豆瓣：6.1/10<br>个人：3/5<br>Tags：人力资源；企业管理；人力资源管理 | ![](https://img1.doubanio.com/mpic/s29544477.jpg) |
 | 名称：[阿里三板斧](https://book.douban.com/subject/30435260/)<br>时间：2020-06-10<br>出版：2019-1<br>豆瓣：7.0/10<br>个人：4/5<br>Tags：管理；阿里巴巴；人才培养 | ![](https://img3.doubanio.com/mpic/s29980441.jpg) |
