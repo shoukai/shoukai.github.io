@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[携程架构实践](https://book.douban.com/subject/35030121/)<br>时间：2020-06-16<br>出版：2020-3<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：架构；服务器；devops | ![](https://img9.doubanio.com/mpic/s33619986.jpg) |
 | 名称：[华为工作法](https://book.douban.com/subject/26932497/)<br>时间：2020-06-15<br>出版：2016-5-1<br>豆瓣：5.7/10<br>个人：3/5<br>Tags：管理；工作；管理学 | ![](https://img3.doubanio.com/mpic/s29209720.jpg) |
 | 名称：[面向模式的软件架构 卷5](https://book.douban.com/subject/6819532/)<br>时间：2020-06-14<br>出版：2011-9<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：软件架构；架构；计算机 | ![](https://img9.doubanio.com/mpic/s8846734.jpg) |
 | 名称：[面向模式的软件架构 卷4：分布式计算的模式语言](https://book.douban.com/subject/4848563/)<br>时间：2020-06-14<br>出版：2010-6<br>豆瓣：8.6/10<br>个人：4/5<br>Tags：软件架构；架构；分布式 | ![](https://img9.doubanio.com/mpic/s4372785.jpg) |
