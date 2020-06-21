@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[基础会计](https://book.douban.com/subject/30546158/)<br>时间：2020-06-22<br>出版：<br>豆瓣：0.0/10<br>个人：3/5<br>Tags： | ![](https://img1.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-lpic.gif) |
 | 名称：[阿里巴巴管理法](https://book.douban.com/subject/34913898/)<br>时间：2020-06-21<br>出版：<br>豆瓣：0.0/10<br>个人：3/5<br>Tags： | ![](https://img3.doubanio.com/mpic/s33536230.jpg) |
 | 名称：[携程架构实践](https://book.douban.com/subject/35030121/)<br>时间：2020-06-16<br>出版：2020-3<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：架构；服务器；devops | ![](https://img9.doubanio.com/mpic/s33619986.jpg) |
 | 名称：[华为工作法](https://book.douban.com/subject/26932497/)<br>时间：2020-06-15<br>出版：2016-5-1<br>豆瓣：5.7/10<br>个人：3/5<br>Tags：管理；工作；管理学 | ![](https://img3.doubanio.com/mpic/s29209720.jpg) |
