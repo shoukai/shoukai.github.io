@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[世界上最简单的会计书](https://book.douban.com/subject/25747852/)<br>时间：2020-06-30<br>出版：2013-10<br>豆瓣：8.9/10<br>个人：5/5<br>Tags：会计；入门；会计入门 | ![](https://img1.doubanio.com/mpic/s28040378.jpg) |
 | 名称：[零基础会计核算实务（完全图解版）](https://book.douban.com/subject/30685943/)<br>时间：2020-06-29<br>出版：<br>豆瓣：0.0/10<br>个人：4/5<br>Tags： | ![](http://skblog.duiduiche.com/b24a4a1e5253a42b257e7e838ee91f43.jpg) |
 | 名称：[OAuth 2实战](https://book.douban.com/subject/30487753/)<br>时间：2020-06-27<br>出版：2019-4<br>豆瓣：7.7/10<br>个人：4/5<br>Tags：oauth2；计算机；互联网 | ![](https://img1.doubanio.com/mpic/s30024208.jpg) |
 | 名称：[编程大师访谈录](https://book.douban.com/subject/7007204/)<br>时间：2020-06-27<br>出版：2012-1<br>豆瓣：7.4/10<br>个人：3/5<br>Tags：编程；计算机；程序人生 | ![](https://img1.doubanio.com/mpic/s24509127.jpg) |
