@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[深入浅出大型网站架构设计](https://book.douban.com/subject/35093372/)<br>时间：2020-07-24<br>出版：2020-5<br>豆瓣：0.0/10<br>个人：3/5<br>Tags： | ![](https://img3.doubanio.com/mpic/s33662223.jpg) |
 | 名称：[腾讯产品法](https://book.douban.com/subject/27205096/)<br>时间：2020-07-12<br>出版：2018-1<br>豆瓣：7.4/10<br>个人：3/5<br>Tags：产品经理；产品；互联网 | ![](https://img9.doubanio.com/mpic/s29616635.jpg) |
 | 名称：[世界上最简单的会计书](https://book.douban.com/subject/25747852/)<br>时间：2020-06-30<br>出版：2013-10<br>豆瓣：8.9/10<br>个人：5/5<br>Tags：会计；入门；会计入门 | ![](https://img1.doubanio.com/mpic/s28040378.jpg) |
 | 名称：[零基础会计核算实务（完全图解版）](https://book.douban.com/subject/30685943/)<br>时间：2020-06-29<br>出版：<br>豆瓣：0.0/10<br>个人：4/5<br>Tags： | ![](http://skblog.duiduiche.com/b24a4a1e5253a42b257e7e838ee91f43.jpg) |
