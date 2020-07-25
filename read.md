@@ -10,6 +10,8 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[没有一条道路是重复的](https://book.douban.com/subject/20397289/)<br>时间：2020-07-26<br>出版：2012-11<br>豆瓣：7.8/10<br>个人：4/5<br>Tags：余华；随笔；散文 | ![](https://img3.doubanio.com/mpic/s24558523.jpg) |
+| 名称：[毛泽东选集 第一卷](https://book.douban.com/subject/1139360/)<br>时间：2020-07-26<br>出版：1991-6<br>豆瓣：9.3/10<br>个人：5/5<br>Tags：毛泽东；毛泽东选集；哲学 | ![](https://img3.doubanio.com/mpic/s5804333.jpg) |
 | 名称：[深入浅出大型网站架构设计](https://book.douban.com/subject/35093372/)<br>时间：2020-07-24<br>出版：2020-5<br>豆瓣：0.0/10<br>个人：3/5<br>Tags： | ![](https://img3.doubanio.com/mpic/s33662223.jpg) |
 | 名称：[腾讯产品法](https://book.douban.com/subject/27205096/)<br>时间：2020-07-12<br>出版：2018-1<br>豆瓣：7.4/10<br>个人：3/5<br>Tags：产品经理；产品；互联网 | ![](https://img9.doubanio.com/mpic/s29616635.jpg) |
 | 名称：[世界上最简单的会计书](https://book.douban.com/subject/25747852/)<br>时间：2020-06-30<br>出版：2013-10<br>豆瓣：8.9/10<br>个人：5/5<br>Tags：会计；入门；会计入门 | ![](https://img1.doubanio.com/mpic/s28040378.jpg) |
