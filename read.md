@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[Kubernetes源码剖析](https://book.douban.com/subject/35100082/)<br>时间：2020-07-26<br>出版：2020-6<br>豆瓣：0.0/10<br>个人：5/5<br>Tags：计算机与信息；程序设计；kubernetes | ![](https://img3.doubanio.com/mpic/s33667773.jpg) |
 | 名称：[没有一条道路是重复的](https://book.douban.com/subject/20397289/)<br>时间：2020-07-26<br>出版：2012-11<br>豆瓣：7.8/10<br>个人：4/5<br>Tags：余华；随笔；散文 | ![](https://img3.doubanio.com/mpic/s24558523.jpg) |
 | 名称：[毛泽东选集 第一卷](https://book.douban.com/subject/1139360/)<br>时间：2020-07-26<br>出版：1991-6<br>豆瓣：9.3/10<br>个人：5/5<br>Tags：毛泽东；毛泽东选集；哲学 | ![](https://img3.doubanio.com/mpic/s5804333.jpg) |
 | 名称：[深入浅出大型网站架构设计](https://book.douban.com/subject/35093372/)<br>时间：2020-07-24<br>出版：2020-5<br>豆瓣：0.0/10<br>个人：3/5<br>Tags： | ![](https://img3.doubanio.com/mpic/s33662223.jpg) |
