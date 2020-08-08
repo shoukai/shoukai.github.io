@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[清醒思考的策略](https://book.douban.com/subject/34442149/)<br>时间：2020-08-08<br>出版：2019-6-20<br>豆瓣：8.2/10<br>个人：5/5<br>Tags：思维；思考；自我成长 | ![](https://img1.doubanio.com/mpic/s33305867.jpg) |
 | 名称：[知鱼之乐](https://book.douban.com/subject/20444403/)<br>时间：2020-08-05<br>出版：2012-12<br>豆瓣：7.9/10<br>个人：4/5<br>Tags：哲学；王东岳；哲理 | ![](https://img1.doubanio.com/mpic/s24978757.jpg) |
 | 名称：[穷忙，是你不懂梳理人生](https://book.douban.com/subject/34856060/)<br>时间：2020-08-05<br>出版：2019-10-1<br>豆瓣：6.6/10<br>个人：4/5<br>Tags：职场；好书，值得一读；人生梳理 | ![](https://img9.doubanio.com/mpic/s33506746.jpg) |
 | 名称：[一年顶十年](https://book.douban.com/subject/35003590/)<br>时间：2020-08-04<br>出版：2020-4<br>豆瓣：5.8/10<br>个人：3/5<br>Tags：个人成长；践行；个人管理 | ![](https://img3.doubanio.com/mpic/s33606302.jpg) |
