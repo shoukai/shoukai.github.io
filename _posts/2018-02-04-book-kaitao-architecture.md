@@ -6,7 +6,7 @@ date:   2018-02-01 8:00:00
 author: "Shoukai Huang"
 header-img: 'skblog.duiduiche.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
 header-mask: 0.4
-tags: 读书笔记
+tags: 读书笔记 架构
 ---
 
 # 《亿级流量网站架构核心技术》笔记

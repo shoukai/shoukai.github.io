@@ -6,7 +6,7 @@ date:   2020-07-12 8:00:00
 author: "Shoukai Huang"
 header-img: 'skblog.duiduiche.com/29f1c5e047ed28ebfcd7bd1846308f1c.jpg'
 header-mask: 0.4
-tags: 产品
+tags: 产品 读书笔记
 ---
 
 ![](http://skblog.duiduiche.com/1c44ec794bb6207aabb4ba3497ab5907.jpg)

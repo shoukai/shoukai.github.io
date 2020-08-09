@@ -6,7 +6,7 @@ date:   2018-09-29 8:00:00
 author: "Shoukai Huang"
 header-img: 'skblog.duiduiche.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
 header-mask: 0.4
-tags: 状态机
+tags: 状态机 开源
 ---
 
 # Spring Statemachine 概念及应用

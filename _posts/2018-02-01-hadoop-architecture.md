@@ -6,7 +6,7 @@ date:   2018-02-01 8:00:00
 author: "Shoukai Huang"
 header-img: 'skblog.duiduiche.com/7be271ca7e7fc8a85a50a7a671c370c2.jpg'
 header-mask: 0.4
-tags: 读书笔记
+tags: 读书笔记 大数据
 ---
 
 ![](http://skblog.duiduiche.com/776b866eaa00fe715f19ef94cbd4d6d1.jpg)
