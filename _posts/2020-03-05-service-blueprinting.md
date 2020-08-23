@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Blueprint（服务蓝图）"
+title:  "DDD：Blueprint（服务蓝图）"
 subtitle: "领域驱动设计系列"
 date:   2020-03-05 08:00:00
 author: "Shoukai Huang"
 header-img: 'skblog.duiduiche.com/75779d0faab54850b9f24e58312e7a79.jpg'
 header-mask: 0.4
-tags: 中台 领域驱动
+tags: 领域驱动
 ---
 
 ## 1 相关概念

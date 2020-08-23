@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Operating Model（运营模式）"
+title:  "DDD：Operating Model（运营模式）"
 subtitle: "领域驱动设计系列"
 date:   2020-03-02 08:00:00
 author: "Shoukai Huang"
 header-img: 'skblog.duiduiche.com/aefd421cdbaef80e8bf47fe8dc87d0e2.jpg'
 header-mask: 0.4
-tags: 领域驱动 中台
+tags: 领域驱动
 ---
 
 ## Operating Model 相关概念

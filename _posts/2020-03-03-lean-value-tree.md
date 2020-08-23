@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Lean Value Tree（精益价值树）"
+title:  "DDD：Lean Value Tree（精益价值树）"
 subtitle: "领域驱动设计系列"
 date:   2020-03-03 08:00:00
 author: "Shoukai Huang"
 header-img: 'skblog.duiduiche.com/080ffcb5981d81c1315a54f3007ffd34.jpg'
 header-mask: 0.4
-tags: 领域驱动 中台
+tags: 领域驱动
 ---
 
 ## 价值树模型

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Business Architecture（业务架构）"
+title:  "DDD：Business Architecture（业务架构）"
 subtitle: "领域驱动设计系列"
 date:   2019-12-07 08:00:00
 author: "Shoukai Huang"

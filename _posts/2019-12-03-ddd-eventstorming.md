@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "EventStorming（事件风暴）"
+title:  "DDD：EventStorming（事件风暴）"
 subtitle: "领域驱动设计系列"
 date:   2019-12-03 00:59:00
 author: "Shoukai Huang"
