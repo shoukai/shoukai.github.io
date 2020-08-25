@@ -1,9 +1,8 @@
-# HuxBlog Boilerplate
+# ShouKai Blog
+
+首页：[ShouKai](shoukai.github.io)
+
+![](http://skblog.duiduiche.com/220fb97c5ae8bc036cfa72fec2b9cc7f.jpg)
+
 
 ##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
-
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
-
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
-
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
