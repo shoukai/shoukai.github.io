@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Feign 02 手册翻译"
+title:  "开源软件：Feign 02 手册翻译"
 subtitle: "Feign 源码解析系列"
 date:   2019-05-10 00:59:00
 author: "Shoukai Huang"

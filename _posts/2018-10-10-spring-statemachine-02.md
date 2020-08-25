@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spring Statemachine 02：更多功能"
+title:  "开源软件：Spring Statemachine 02：更多功能"
 subtitle: "Spring Statemachine is a framework for application developers to use state machine concepts with Spring applications."
 date:   2018-09-29 8:00:00
 author: "Shoukai Huang"

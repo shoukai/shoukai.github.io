@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Feign 05 核心类及接口"
+title:  "开源软件：Feign 05 核心类及接口"
 subtitle: "Feign 源码解析系列"
 date:   2019-05-13 00:59:00
 author: "Shoukai Huang"
