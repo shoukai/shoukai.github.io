@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "复式记账法"
+title:  "领域知识：复式记账法"
 subtitle: "基本概念及理解"
 date:   2020-01-01 08:00:00
 author: "Shoukai Huang"
