@@ -6,7 +6,7 @@ date:   2019-05-09 00:59:00
 author: "Shoukai Huang"
 header-img: 'skblog.duiduiche.com/cca353d706148a4631bf373bb3cb32c9.jpg'
 header-mask: 0.4
-tags: Feign
+tags: Feign 开源软件
 ---
 
 ## 学习过程
