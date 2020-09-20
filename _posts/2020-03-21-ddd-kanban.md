@@ -110,7 +110,7 @@ kanban-in-action 一书总结的六个实践
 * [What is a kanban board?](https://www.atlassian.com/agile/kanban/boards)
 * [看板实践——前言(笔记)](https://www.cnblogs.com/aixiaoxiaoyu/p/10280598.html)
 * [DevOps 漫谈:看板Kanban管理实践](https://riboseyim.github.io/2017/08/06/TeamWork-Kanban/)
-* [Kanban Explained for Beginners | The Complete Guide](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
+* [Kanban Explained for Beginners - The Complete Guide](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
 * [解析精益产品开发（一）—— 看板开发方法](https://www.infoq.cn/article/kanban-development-method/)
 * [kanban-in-action](http://3.droppdf.com/files/p99PT/kanban-in-action.pdf)
 
