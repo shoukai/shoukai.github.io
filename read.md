@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[韭菜的自我修养](https://book.douban.com/subject/30314653/)<br>时间：2020-09-30<br>出版：2018-09<br>豆瓣：6.6/10<br>个人：3/5<br>Tags：李笑来；投资；投资理财 | ![](https://img9.doubanio.com/mpic/s29869019.jpg) |
 | 名称：[把时间当作朋友（第3版）](https://book.douban.com/subject/25749845/)<br>时间：2020-09-19<br>出版：2013-10<br>豆瓣：8.4/10<br>个人：5/5<br>Tags：时间管理；个人成长；自我管理 | ![](https://img9.doubanio.com/mpic/s27898952.jpg) |
 | 名称：[大道至简](https://book.douban.com/subject/4210602/)<br>时间：2020-09-17<br>出版：2010-1<br>豆瓣：7.3/10<br>个人：5/5<br>Tags：软件工程；项目管理；周爱民 | ![](https://img9.doubanio.com/mpic/s4112039.jpg) |
 | 名称：[架构宝典](https://book.douban.com/subject/30490107/)<br>时间：2020-08-26<br>出版：2019-3<br>豆瓣：7.0/10<br>个人：5/5<br>Tags：架构；计算机科学；计算机 | ![](https://img9.doubanio.com/mpic/s30026444.jpg) |
