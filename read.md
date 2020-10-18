@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[小王子](https://book.douban.com/subject/1084336/)<br>时间：2020-10-18<br>出版：2003-8<br>豆瓣：9.0/10<br>个人：5/5<br>Tags：小王子；童话；经典 | ![](https://img3.doubanio.com/mpic/s1103152.jpg) |
 | 名称：[重来3：跳出疯狂的忙碌](https://book.douban.com/subject/35135787/)<br>时间：2020-10-17<br>出版：2020-7<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：商业；管理；职场 | ![](https://img2.doubanio.com/mpic/s33699293.jpg) |
 | 名称：[终身学习：10个你必须掌握的未来生存法则](https://book.douban.com/subject/30203060/)<br>时间：2020-10-13<br>出版：2018-5<br>豆瓣：6.3/10<br>个人：3/5<br>Tags：成长；学习；自我管理 | ![](https://img3.doubanio.com/mpic/s29748691.jpg) |
 | 名称：[软件架构师的12项修炼](https://book.douban.com/subject/10746257/)<br>时间：2020-10-01<br>出版：2012-05<br>豆瓣：7.3/10<br>个人：4/5<br>Tags：软件架构；架构；软件工程 | ![](https://img9.doubanio.com/mpic/s9109455.jpg) |
