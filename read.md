@@ -10,7 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
-| 名称：[走出硝烟的精益敏捷：我们如何实施Scrum和Kanban](https://book.douban.com/subject/34898497/)<br>时间：2020-10-19<br>出版：<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：敏捷开发；敏捷；Scrum | ![](https://img1.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-lpic.gif) |
+| 名称：[走出硝烟的精益敏捷：我们如何实施Scrum和Kanban](https://book.douban.com/subject/34898497/)<br>时间：2020-10-19<br>出版：2019-11<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：敏捷开发；敏捷；Scrum | ![](http://skblog.duiduiche.com/0f704cfae2096ca37b3c054a7c9b3fef.jpg) |
 | 名称：[小王子](https://book.douban.com/subject/1084336/)<br>时间：2020-10-18<br>出版：2003-8<br>豆瓣：9.0/10<br>个人：5/5<br>Tags：小王子；童话；经典 | ![](https://img3.doubanio.com/mpic/s1103152.jpg) |
 | 名称：[重来3：跳出疯狂的忙碌](https://book.douban.com/subject/35135787/)<br>时间：2020-10-17<br>出版：2020-7<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：商业；管理；职场 | ![](https://img2.doubanio.com/mpic/s33699293.jpg) |
 | 名称：[终身学习：10个你必须掌握的未来生存法则](https://book.douban.com/subject/30203060/)<br>时间：2020-10-13<br>出版：2018-5<br>豆瓣：6.3/10<br>个人：3/5<br>Tags：成长；学习；自我管理 | ![](https://img3.doubanio.com/mpic/s29748691.jpg) |
