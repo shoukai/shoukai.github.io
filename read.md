@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[步履不停](https://book.douban.com/subject/26963321/)<br>时间：2020-10-20<br>出版：2017-5<br>豆瓣：8.7/10<br>个人：5/5<br>Tags：是枝裕和；日本；日本文学 | ![](https://img3.doubanio.com/mpic/s29425921.jpg) |
 | 名称：[走出硝烟的精益敏捷：我们如何实施Scrum和Kanban](https://book.douban.com/subject/34898497/)<br>时间：2020-10-19<br>出版：2019-11<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：敏捷开发；敏捷；Scrum | ![](http://skblog.duiduiche.com/0f704cfae2096ca37b3c054a7c9b3fef.jpg) |
 | 名称：[小王子](https://book.douban.com/subject/1084336/)<br>时间：2020-10-18<br>出版：2003-8<br>豆瓣：9.0/10<br>个人：5/5<br>Tags：小王子；童话；经典 | ![](https://img3.doubanio.com/mpic/s1103152.jpg) |
 | 名称：[重来3：跳出疯狂的忙碌](https://book.douban.com/subject/35135787/)<br>时间：2020-10-17<br>出版：2020-7<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：商业；管理；职场 | ![](https://img2.doubanio.com/mpic/s33699293.jpg) |
