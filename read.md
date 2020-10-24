@@ -10,6 +10,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[微服务治理：体系、架构及实践](https://book.douban.com/subject/35092430/)<br>时间：2020-10-24<br>出版：2020-5<br>豆瓣：0.0/10<br>个人：5/5<br>Tags：微服务；架构；计算机 | ![](https://img1.doubanio.com/mpic/s33661528.jpg) |
 | 名称：[乡土中国](https://book.douban.com/subject/20395476/)<br>时间：2020-10-23<br>出版：2012-10<br>豆瓣：9.2/10<br>个人：5/5<br>Tags：社会学；费孝通；中国 | ![](https://img3.doubanio.com/mpic/s24456540.jpg) |
 | 名称：[刻意成长](https://book.douban.com/subject/35025626/)<br>时间：2020-10-22<br>出版：2020-4<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：个人成长；职业规划；职业咨询 | ![](https://img1.doubanio.com/mpic/s33615919.jpg) |
 | 名称：[深入浅出数据分析](https://book.douban.com/subject/20381154/)<br>时间：2020-10-21<br>出版：2012-12-1<br>豆瓣：7.5/10<br>个人：3/5<br>Tags：数据分析；统计学；数据挖掘 | ![](https://img1.doubanio.com/mpic/s27264518.jpg) |
