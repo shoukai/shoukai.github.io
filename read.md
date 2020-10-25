@@ -1,15 +1,18 @@
 ---
 layout: page
 title: "Read"
-description: "我的阅读"
+description: "“学”而时习之……"
 header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ---
+
+我的阅读
 
 ----
 ### 2020
 ----
 
 | --- | --- |
+| 名称：[复杂软件设计之道](https://book.douban.com/subject/35216922/)<br>时间：2020-10-25<br>出版：2020-8-1<br>豆瓣：0.0/10<br>个人：5/5<br>Tags：软件开发；软件工程；方法论 | ![](https://img9.doubanio.com/mpic/s33732016.jpg) |
 | 名称：[微服务治理：体系、架构及实践](https://book.douban.com/subject/35092430/)<br>时间：2020-10-24<br>出版：2020-5<br>豆瓣：0.0/10<br>个人：5/5<br>Tags：微服务；架构；计算机 | ![](https://img1.doubanio.com/mpic/s33661528.jpg) |
 | 名称：[乡土中国](https://book.douban.com/subject/20395476/)<br>时间：2020-10-23<br>出版：2012-10<br>豆瓣：9.2/10<br>个人：5/5<br>Tags：社会学；费孝通；中国 | ![](https://img3.doubanio.com/mpic/s24456540.jpg) |
 | 名称：[刻意成长](https://book.douban.com/subject/35025626/)<br>时间：2020-10-22<br>出版：2020-4<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：个人成长；职业规划；职业咨询 | ![](https://img1.doubanio.com/mpic/s33615919.jpg) |
