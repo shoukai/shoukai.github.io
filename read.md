@@ -12,6 +12,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[从一到无穷大](https://book.douban.com/subject/30466214/)<br>时间：2020-10-27<br>出版：2019-3<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：科普；数学；科学 | ![](https://img9.doubanio.com/mpic/s32301226.jpg) |
 | 名称：[4点起床](https://book.douban.com/subject/6828163/)<br>时间：2020-10-26<br>出版：2011-8<br>豆瓣：6.4/10<br>个人：3/5<br>Tags：时间管理；个人管理；晨间改变 | ![](https://img1.doubanio.com/mpic/s6948198.jpg) |
 | 名称：[复杂软件设计之道](https://book.douban.com/subject/35216922/)<br>时间：2020-10-25<br>出版：2020-8-1<br>豆瓣：0.0/10<br>个人：5/5<br>Tags：软件开发；软件工程；方法论 | ![](https://img9.doubanio.com/mpic/s33732016.jpg) |
 | 名称：[微服务治理：体系、架构及实践](https://book.douban.com/subject/35092430/)<br>时间：2020-10-24<br>出版：2020-5<br>豆瓣：0.0/10<br>个人：5/5<br>Tags：微服务；架构；计算机 | ![](https://img1.doubanio.com/mpic/s33661528.jpg) |
