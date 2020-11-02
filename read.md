@@ -12,6 +12,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[微服务设计：企业架构转型之道](https://book.douban.com/subject/34864534/)<br>时间：2020-11-02<br>出版：2019-10<br>豆瓣：0.0/10<br>个人：3/5<br>Tags：架构；服务化；IT技术 | ![](https://img3.doubanio.com/mpic/s33596180.jpg) |
 | 名称：[Spring Boot技术内幕：架构设计与实现原理](https://book.douban.com/subject/35118681/)<br>时间：2020-11-01<br>出版：2020-7<br>豆瓣：0.0/10<br>个人：3/5<br>Tags：Java；源码；Spring | ![](https://img9.doubanio.com/mpic/s33677636.jpg) |
 | 名称：[精力管理](https://book.douban.com/subject/26606009/)<br>时间：2020-10-29<br>出版：2015-8-1<br>豆瓣：7.7/10<br>个人：4/5<br>Tags：精力管理；自我管理；个人管理 | ![](https://img9.doubanio.com/mpic/s33492236.jpg) |
 | 名称：[好好学习](https://book.douban.com/subject/26952718/)<br>时间：2020-10-28<br>出版：2017-2-1<br>豆瓣：7.7/10<br>个人：4/5<br>Tags：学习方法；知识管理；个人管理 | ![](https://img3.doubanio.com/mpic/s29276401.jpg) |
