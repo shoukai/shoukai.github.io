@@ -12,6 +12,7 @@ header-img: "qjy1xw2zw.hn-bkt.clouddn.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[硬核生存指南](https://book.douban.com/subject/35252866/)<br>时间：2020-11-13<br>出版：2020-10<br>豆瓣：0.0/10<br>个人：3/5<br>Tags： | ![](https://img2.doubanio.com/mpic/s33757192.jpg) |
 | 名称：[一本书读透Martech智慧营销](https://book.douban.com/subject/35107913/)<br>时间：2020-11-13<br>出版：2020-6<br>豆瓣：7.8/10<br>个人：5/5<br>Tags：营销；Martech；广告 | ![](https://img3.doubanio.com/mpic/s33723461.jpg) |
 | 名称：[学会成长](https://book.douban.com/subject/35083559/)<br>时间：2020-11-13<br>出版：2020-6<br>豆瓣：7.5/10<br>个人：3/5<br>Tags：思维；成长；自我提升 | ![](https://img2.doubanio.com/mpic/s33658322.jpg) |
 | 名称：[MarTech营销技术：原理、策略与实践](https://book.douban.com/subject/35017289/)<br>时间：2020-11-12<br>出版：2020-2<br>豆瓣：7.3/10<br>个人：3/5<br>Tags：运营；互联网；martech | ![](https://img3.doubanio.com/mpic/s33642201.jpg) |
