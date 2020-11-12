@@ -4,7 +4,7 @@ title:  "读书笔记：说透中台"
 subtitle: "领域驱动设计系列"
 date:   2020-03-03 08:00:00
 author: "Shoukai Huang"
-header-img: 'skblog.duiduiche.com/d87ea63d3a1dc780f8c77136536fb932.jpg'
+header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/d87ea63d3a1dc780f8c77136536fb932.jpg'
 header-mask: 0.4
 tags: 读书笔记 中台
 ---
@@ -31,7 +31,7 @@ Pace-Layered Application Strategy 参考： [Pace-Layered Application Strategy](
 
 中台规划建设方法论：**D4 模型**
 
-![](http://skblog.duiduiche.com/c20d80bf859d9bea9da546d400f49350.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/c20d80bf859d9bea9da546d400f49350.jpg)
 
 
 ### 第一阶段 Discovery
@@ -40,7 +40,7 @@ Pace-Layered Application Strategy 参考： [Pace-Layered Application Strategy](
 
 Portfolio Discovery，简称为 PD，一个完整的 PD 工作坊路线图
 
-![](http://skblog.duiduiche.com/0c3ea398b5f21372167cef6229f9484d.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/0c3ea398b5f21372167cef6229f9484d.jpg)
 
 整体上，Discovery 又可以简单分成由外到内、自上而下和自下而上的三个不同方向的过程。
 
@@ -80,7 +80,7 @@ Portfolio Discovery，简称为 PD，一个完整的 PD 工作坊路线图
 
 方案设计帮助我们针对实施路径中的某一个产品，例如业务中台，做详细的设计，包括产品级的业务需求分析、功能及架构设计、实施计划等。
 
-![](http://skblog.duiduiche.com/a130210d5dbcf03adf45fe731a8e7e88.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/a130210d5dbcf03adf45fe731a8e7e88.jpg)
 
 ### 中台产品愿景
 
@@ -117,7 +117,7 @@ Portfolio Discovery，简称为 PD，一个完整的 PD 工作坊路线图
 
 采用精益的产品研发流程，保持小步迭代、快速建设、快速度量、快速反馈、快速调整的流程，保证中台建设是一个持续演进和被业务驱动的过程。
 
-![](http://skblog.duiduiche.com/23a8a180a196579d209ed1f6e98bdd62.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/23a8a180a196579d209ed1f6e98bdd62.jpg)
 
 > 敏捷和精益到底有什么区别？
 >
@@ -135,7 +135,7 @@ Portfolio Discovery，简称为 PD，一个完整的 PD 工作坊路线图
 
 对于前台用户基于需要的能力和 NFR/SLA 做用户划分。而最常见的就是三层用户划分机制（3 tiers customer segmentation）
 
-![](http://skblog.duiduiche.com/9e50e226922af70bc490a1620d35dd8f.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/9e50e226922af70bc490a1620d35dd8f.jpg)
 
 
 ## 参考

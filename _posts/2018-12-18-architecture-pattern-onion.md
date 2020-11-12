@@ -3,7 +3,7 @@ layout: post
 title:  "架构模式：Onion Architecture"
 date:   2018-11-01 8:00:00
 author: "Shoukai Huang"
-header-img: 'skblog.duiduiche.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
+header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
 header-mask: 0.4
 tags: 软件架构
 ---
@@ -33,7 +33,7 @@ tags: 软件架构
 
 **架构层次**
 
-![Onion Architecture](http://skblog.duiduiche.com/Onion Architecture core.png)
+![Onion Architecture](http://qjy1xw2zw.hn-bkt.clouddn.com/Onion Architecture core.png)
 
 1. 核心（Core）层：是与领域或技术无关的基础构件块，它包含了一些通用的构件块，例如 list、case 类或 Actor 等等。核心层不包含任何技术层面的概念，例如 REST 或数据库等等。
 2. 领域（Domain）层：是定义业务逻辑的地方，每个类的方法都是按照领域通用语言中的概念进行命名的。对领域层的控制是通过 API 层进行操作的，而所有的业务逻辑都归属于领域层。这种方式保证了应用程序的可移植性，在不丢失任何业务逻辑的情况下替换掉整个技术实现。

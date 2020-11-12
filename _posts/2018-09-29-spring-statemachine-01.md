@@ -4,7 +4,7 @@ title:  "开源软件：Spring Statemachine 01：概念及应用"
 subtitle: "Spring Statemachine is a framework for application developers to use state machine concepts with Spring applications."
 date:   2018-09-29 8:00:00
 author: "Shoukai Huang"
-header-img: 'skblog.duiduiche.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
+header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
 header-mask: 0.4
 tags: 状态机 开源软件
 ---
@@ -28,7 +28,7 @@ tags: 状态机 开源软件
 
 现实中的例子：验票闸门，来自wiki
 
-![Turnstile.alewife.agr](http://skblog.duiduiche.com/Turnstile.alewife.agr.jpg){:height="100%" width="100%" }
+![Turnstile.alewife.agr](http://qjy1xw2zw.hn-bkt.clouddn.com/Turnstile.alewife.agr.jpg){:height="100%" width="100%" }
 
 用于控制地铁和游乐园游乐设施的旋转门是一个门，在腰高处有三个旋转臂，一个横跨入口通道。最初，手臂被锁定，阻挡了入口，阻止了顾客通过。将硬币或代币存放在旋转门上的槽中可解锁手臂，允许单个客户穿过。在顾客通过之后，再次锁定臂直到插入另一枚硬币。
 
@@ -45,7 +45,7 @@ tags: 状态机 开源软件
 
 旋转栅状态机也可以由称为状态图的有向图表示 （上面）。每个状态由节点（圆圈）表示。边（箭头）显示从一个状态到另一个状态的转换。每个箭头都标有触发该转换的输入。不引起状态改变的输入（例如处于未锁定状态的硬币输入）由返回到原始状态的圆形箭头表示。从黑点进入Locked节点的箭头表示它是初始状态。
 
-![790px-Turnstile_state_machine_colored.svg](http://skblog.duiduiche.com/790px-Turnstile_state_machine_colored.svg.png){:height="100%" width="100%" }
+![790px-Turnstile_state_machine_colored.svg](http://qjy1xw2zw.hn-bkt.clouddn.com/790px-Turnstile_state_machine_colored.svg.png){:height="100%" width="100%" }
 
 
 ## 2 Spring Statemachine

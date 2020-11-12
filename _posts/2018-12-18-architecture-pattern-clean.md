@@ -3,13 +3,13 @@ layout: post
 title:  "读书笔记：架构整洁之道"
 date:   2018-12-18 08:00:00
 author: "Shoukai Huang"
-header-img: 'skblog.duiduiche.com/79d1078424185571629077a1d6d7e051.jpg'
+header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/79d1078424185571629077a1d6d7e051.jpg'
 header-mask: 0.4
 tags: 读书笔记
 ---
 
 
-![](http://skblog.duiduiche.com/526bb596ad794decbb89284005871f90.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/526bb596ad794decbb89284005871f90.jpg)
 
 ## 第一部分 概述
 
@@ -92,7 +92,7 @@ SOLID设计原则
 
 #### 整洁架构
 
-![](http://skblog.duiduiche.com/61a751ed428ff8d7d956c6702f46f9e2.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/61a751ed428ff8d7d956c6702f46f9e2.jpg)
 
 #### 依赖关系规则
 

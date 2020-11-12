@@ -4,7 +4,7 @@ title:  "DDD：Domain event"
 subtitle: "领域驱动设计系列"
 date:   2020-03-23 08:00:00
 author: "Shoukai Huang"
-header-img: 'skblog.duiduiche.com/279b378ccfbf0926d0cf2bf5741b29ea.jpg'
+header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/279b378ccfbf0926d0cf2bf5741b29ea.jpg'
 header-mask: 0.4
 tags: 领域驱动
 ---
@@ -62,7 +62,7 @@ Martin Fowler 《重构－改善既有代码的设计》、《UML精粹：标准
 
 > Domain events as a preferred way to trigger side effects across multiple aggregates within the same domain
 
-![](http://skblog.duiduiche.com/711026ada4e13c588a2fe83075f0901d.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/711026ada4e13c588a2fe83075f0901d.jpg)
 
 Domain events to enforce consistency between multiple aggregates within the same domain
 
@@ -76,7 +76,7 @@ Domain events to enforce consistency between multiple aggregates within the same
 
 领域外 Domain Events，或者称之为领域外的事件通知，依托消息中间件进行数据传递，依托分布式事务相关模式保障数据一致性。
 
-![](http://skblog.duiduiche.com/88d2dc2d0ccf1d20f14b03fc1f48c740.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/88d2dc2d0ccf1d20f14b03fc1f48c740.jpg)
 
 
 ## Domain event in Spring

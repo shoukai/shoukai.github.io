@@ -4,12 +4,12 @@ title:  "读书笔记：精力管理"
 subtitle: "管理精力,而非时间"
 date:   2020-10-31 8:00:00
 author: "Shoukai Huang"
-header-img: 'skblog.duiduiche.com/3b568d99ff659270db4b60e1a6c396a2.jpg'
+header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/3b568d99ff659270db4b60e1a6c396a2.jpg'
 header-mask: 0.4
 tags: 读书笔记
 ---
 
-![](http://skblog.duiduiche.com/1ebf33213bcf58d9a500f2e8931c03b3.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/1ebf33213bcf58d9a500f2e8931c03b3.jpg)
 
 
 #### 内容简介
@@ -35,7 +35,7 @@ tags: 读书笔记
 
 精力管理，而非时间，才是高效表现的基础。高效表现源于有技巧的精力管理。
 
-![](http://skblog.duiduiche.com/d1532b71a1a704067e33191a4dc2945a.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/d1532b71a1a704067e33191a4dc2945a.jpg)
 
 领导者正是团体精力的统筹人。他们首先要具备个人精力管理技巧，然后才能调动、集中、投入和维持团队的集体精力。
 
@@ -52,7 +52,7 @@ tags: 读书笔记
 
 从生理学的角度看，精力来源于氧气和血糖的化学反应。从实际生活来看，精力储备取决于我们的呼吸模式、进食的内容和时间、睡眠的长短和质量、白天间歇恢复的程度以及身体的健康程度。
 
-![](http://skblog.duiduiche.com/2f0a0d5255babdf4dff9a39e670c40ae.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/2f0a0d5255babdf4dff9a39e670c40ae.jpg)
 
 **饮食**
 
@@ -108,7 +108,7 @@ tags: 读书笔记
 
 #### 情感精力
 
-![](http://skblog.duiduiche.com/2cde203d6b7f4cac585ad6d3640b3c4a.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/2cde203d6b7f4cac585ad6d3640b3c4a.jpg)
 
 一些要点
 
@@ -122,7 +122,7 @@ tags: 读书笔记
 
 #### 思维精力
 
-![](http://skblog.duiduiche.com/073af70f85b2f3a8a741dea5aaed4ebc.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/073af70f85b2f3a8a741dea5aaed4ebc.jpg)
 
 一些要点
 
@@ -137,7 +137,7 @@ tags: 读书笔记
 
 #### 意志精力
 
-![](http://skblog.duiduiche.com/d21af22da1c91e3b273f87032d9e57da.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/d21af22da1c91e3b273f87032d9e57da.jpg)
 
 一些要点
 
@@ -153,7 +153,7 @@ tags: 读书笔记
 
 #### 仪式性习惯
 
-![](http://skblog.duiduiche.com/eccae267478519b35ef5408fbe15ac35.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/eccae267478519b35ef5408fbe15ac35.jpg)
 
 一些要点：
 
@@ -170,7 +170,7 @@ tags: 读书笔记
 
 #### 重获新生
 
-![](http://skblog.duiduiche.com/606cd01ba7d47c06e733c08f9a4e2818.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/606cd01ba7d47c06e733c08f9a4e2818.jpg)
 
 
 ## 笔记

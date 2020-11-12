@@ -4,7 +4,7 @@ title:  "读书笔记：演进式架构"
 subtitle: "Building Evolutionary Architectures"
 date:   2018-01-30 18:00:00
 author: "Shoukai Huang"
-header-img: 'skblog.duiduiche.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
+header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
 header-mask: 0.4
 tags: 读书笔记 架构
 ---
@@ -23,7 +23,7 @@ tags: 读书笔记 架构
     * Operational/System: Concerns how the architecture maps to existing physical and/ or virtual infrastructure: servers, machine clusters, switches, cloud resources, and so on. 
 * Each of these perspectives forms a dimension of the architecture — an intentional partitioning of the parts supporting a particular perspective.
 * An architecture consists of both requirements and other dimensions, each protected by fitness functions
-![evolutionary-scope](http://skblog.duiduiche.com/evolutionary-scope.jpg){:height="100%" width="100%"}
+![evolutionary-scope](http://qjy1xw2zw.hn-bkt.clouddn.com/evolutionary-scope.jpg){:height="100%" width="100%"}
 
 * An evolutionary architecture consists of three primary aspects: **incremental change, fitness functions, and appropriate coupling**.
 
@@ -36,7 +36,7 @@ tags: 读书笔记 架构
     * An architectural fitness function provides an objective integrity assessment of some architectural characteristic(s). 
     * 恰当功能提供了一些架构特征的客观完整性评估
 * The systemwide fitness function is crucial for an architecture to be evolutionary, as we need some basis to allow architects to compare and evaluate architectural characteristics against one another.
-![evolutionary-systemwide](http://skblog.duiduiche.com/evolutionary-systemwide.jpg){:height="100%" width="100%"}
+![evolutionary-systemwide](http://qjy1xw2zw.hn-bkt.clouddn.com/evolutionary-systemwide.jpg){:height="100%" width="100%"}
 
 * A system is never the sum of its parts. It is the product of the interactions of its parts. Dr. - Russel Ackoff
 * **Identify Fitness Functions Early.** Teams should identify fitness functions as part of their initial understanding of the overall architecture concerns that their design must support. They should also identify their system fitness function early to help determine the sort of change that they want to support.
@@ -58,7 +58,7 @@ tags: 读书笔记 架构
     4. holistic + continual: Holistic, continual fitness functions test multiple parts of the system all the time.
 
 **PenultimateWidgets deployment pipeline**
-![evolutionary-pipeline](http://skblog.duiduiche.com/evolutionary-pipeline.jpg){:height="100%" width="100%"}
+![evolutionary-pipeline](http://qjy1xw2zw.hn-bkt.clouddn.com/evolutionary-pipeline.jpg){:height="100%" width="100%"}
 
 PenultimateWidgets’ deployment pipeline consists
 of six stages. 
@@ -78,7 +78,7 @@ of six stages.
 * Discussions about architecture frequently boil down to coupling: how the pieces of the architecture connect and rely on one another（架构的各个部分是如何相互连接和依赖的）.
 * In evolutionary architecture, architects deal with architectural quanta, the parts of a system held together by hard-to-break forces.
 * The relationship between modules, components and quanta
-![evolutionary-quantum](http://skblog.duiduiche.com/evolutionary-quantum.jpg){:height="100%" width="100%"}
+![evolutionary-quantum](http://qjy1xw2zw.hn-bkt.clouddn.com/evolutionary-quantum.jpg){:height="100%" width="100%"}
 
 * the outermost container is the quantum: the deployable unit that includes all the facilities required for the system to function properly, including data.
 * Within the quantum, several components exist, each consisting of code (classes, packages, namespaces, functions, and so on). An external component (from an open source project) also exists as a library, a component packaged for reuse within a given platform. Of course, developers can mix and match all possible combinations of these common building blocks.
@@ -102,7 +102,7 @@ of six stages.
 #### Layered architecture
 Each layer represents a technical capability, allowing developers to swap out technical architecture functionality easily.
 
-![evolutionary-layer](http://skblog.duiduiche.com/evolutionary-layer.jpg){:height="100%" width="100%"}
+![evolutionary-layer](http://qjy1xw2zw.hn-bkt.clouddn.com/evolutionary-layer.jpg){:height="100%" width="100%"}
 
 1. 增量更改: Developers find it easy to make some changes in this architecture, particularly if those changes are isolated to existing layers.
 2. 指导变更: Developers find it easier to write fitness functions in a more structured version of a monolith because the structure of the architecture is more apparent.
@@ -112,7 +112,7 @@ Each layer represents a technical capability, allowing developers to swap out te
 
 A modular monolith contains logical grouping of functionality with well-defined isolation between modules.
 
-![evolutionary-modular](http://skblog.duiduiche.com/evolutionary-modular.jpg){:height="100%" width="100%"}
+![evolutionary-modular](http://qjy1xw2zw.hn-bkt.clouddn.com/evolutionary-modular.jpg){:height="100%" width="100%"}
 
 1. 增量更改: Incremental change is easy in this type of architecture because developers can enforce modularity. 
 2. 指导变更: Tests, metrics, and other fitness function mechanisms are easier to design and implement in this architecture because of good separation of components, allowing easier mocking and other testing techniques that rely on isolation layers.
@@ -139,7 +139,7 @@ In a broker EDA, the architectural components consist of the following elements:
 * intra-process events : Events passed between event processors to fulfill a business process. 
 * event processors : The active architecture components, which perform actual business processing. When two processors need to coordinate, they pass messages via queues.
 
-![evolutionary-broker](http://skblog.duiduiche.com/evolutionary-broker.jpg){:height="100%" width="100%"}
+![evolutionary-broker](http://qjy1xw2zw.hn-bkt.clouddn.com/evolutionary-broker.jpg){:height="100%" width="100%"}
 
 1. 增量更改: Broker EDAs allow incremental change in multiple forms. Building deployment pipelines for broker EDAs can be challenging because the essence of the architecture is asynchronous communication, which is notoriously difficult to test.
 2. 指导变更: Atomic fitness functions should be easy for developers to write in this architecture because the individual behaviors of event processors is simple.
@@ -149,7 +149,7 @@ In a broker EDA, the architectural components consist of the following elements:
 
 The other common EDA pattern is the mediator, where an additional component appears: a hub that acts as a coordinator
 
-![evolutionary-mediator](http://skblog.duiduiche.com/evolutionary-mediator.jpg){:height="100%" width="100%"}
+![evolutionary-mediator](http://qjy1xw2zw.hn-bkt.clouddn.com/evolutionary-mediator.jpg){:height="100%" width="100%"}
 
 1. 增量更改: Similar to broker EDAs, the services in a mediator EDA are typically small and self-contained. Thus, this architecture shares many of the operational advantages of the broker version.
 2. 指导变更: Developers find it easier to build fitness functions for the mediator than for the broker EDA. The tests for individual event processors don’t differ much from the broker version. However, holistic fitness functions are easier to build because developers can rely on the mediator to handle coordination.
@@ -178,7 +178,7 @@ ESB-driven SOA A particular manner of creating SOAs became popular several years
 
 * “Serverless” Architectures: “Serverless” architectures are a recent shift in the software development equilibrium, with two broad meanings, both applicable to evolutionary architecture.
 
-![evolutionary-baas](http://skblog.duiduiche.com/evolutionary-baas.jpg){:height="100%" width="100%"}
+![evolutionary-baas](http://qjy1xw2zw.hn-bkt.clouddn.com/evolutionary-baas.jpg){:height="100%" width="100%"}
 
 
 1. 增量更改: Incremental change in serverless architectures should consist of redeploying code — all the infrastructure concerns exist behind the abstraction of “serverless.” 
@@ -266,7 +266,7 @@ For the first step in migrating architecture, developers identify new service bo
 
 * A typical software stack in 2016, with lots of moving parts
 
-![evolutionary-2016](http://skblog.duiduiche.com/evolutionary-2016.jpg){:height="100%" width="100%"}
+![evolutionary-2016](http://qjy1xw2zw.hn-bkt.clouddn.com/evolutionary-2016.jpg){:height="100%" width="100%"}
 
 
 * Microservices eschew code reuse, adopting the philosophy of prefer duplication to coupling: reuse implies coupling, and microservices architectures are extremely decoupled.

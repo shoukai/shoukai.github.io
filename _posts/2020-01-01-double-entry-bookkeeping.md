@@ -4,7 +4,7 @@ title:  "领域知识：复式记账法"
 subtitle: "基本概念及理解"
 date:   2020-01-01 08:00:00
 author: "Shoukai Huang"
-header-img: 'skblog.duiduiche.com/82bdd9e80219faeb1a08bf6c50b803ec.jpg'
+header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/82bdd9e80219faeb1a08bf6c50b803ec.jpg'
 header-mask: 0.4
 tags: 财务
 ---
@@ -21,7 +21,7 @@ tags: 财务
 
 定义的理解：
 
-![](http://skblog.duiduiche.com/19d9f8bce4004bdf4c6ebe428c22ce1e.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/19d9f8bce4004bdf4c6ebe428c22ce1e.jpg)
 
 ### 理论依据
 
@@ -29,7 +29,7 @@ tags: 财务
 
 概况的说，就是会计恒等式，它是会计要素的矛盾运动和信息的本质属性的集中体现。
 
-![](http://skblog.duiduiche.com/7b417d4c7e116a9821d67d8d4a5a068d.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/7b417d4c7e116a9821d67d8d4a5a068d.jpg)
 
 ### 特点
 
@@ -85,7 +85,7 @@ Asset 就是债务，而 Liabitity + Equity 反映债权
 * 当左侧增加，则记为 Debit，减少的话记为 Credit；
 * 右侧正相反，增加的话记为 Credit 增加，减少则记为 Debit。
 
-![](http://skblog.duiduiche.com/95a79662ce8f308d083a856285eddd93.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/95a79662ce8f308d083a856285eddd93.jpg)
 
 
 知乎上的一个例子
@@ -104,7 +104,7 @@ Asset 就是债务，而 Liabitity + Equity 反映债权
 
 示例：某公司借入短期贷款 200,000元，已经存入银行
 
-![](http://skblog.duiduiche.com/04c6af63ff701c428a25280912fb03c8.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/04c6af63ff701c428a25280912fb03c8.jpg)
 
 ### 试算平衡
 

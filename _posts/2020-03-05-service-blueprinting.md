@@ -4,7 +4,7 @@ title:  "DDD：Blueprint（服务蓝图）"
 subtitle: "领域驱动设计系列"
 date:   2020-03-05 08:00:00
 author: "Shoukai Huang"
-header-img: 'skblog.duiduiche.com/75779d0faab54850b9f24e58312e7a79.jpg'
+header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/75779d0faab54850b9f24e58312e7a79.jpg'
 header-mask: 0.4
 tags: 领域驱动
 ---
@@ -21,7 +21,7 @@ tags: 领域驱动
 
 服务蓝图直观上同时从几个方面展示服务：描绘服务实施的过程、接待顾客的地点、顾客雇员的角色以及服务中的可见要素。它提供了一种把服务合理分块的方法，再逐一描述过程的步骤或任务、执行任务的方法和顾客能够感受到的有形展示。
 
-![](http://skblog.duiduiche.com/9b77e3ffe9db5db547dfb1447c08dbcb.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/9b77e3ffe9db5db547dfb1447c08dbcb.jpg)
 
 ### 场景
 
@@ -60,7 +60,7 @@ tags: 领域驱动
 * 后台：所有的不被用户看到但是为提供服务而必须存在的东西。
 * 支持过程：记在互动线下的支持服务的活动。
 
-![](http://skblog.duiduiche.com/d6bce2893b44450255a68332d8e954fc.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/d6bce2893b44450255a68332d8e954fc.jpg)
 
 ### 附件泳道
 
@@ -74,20 +74,20 @@ tags: 领域驱动
 * 服务体验周期的各阶段：服务是随着时间展开的，如果按体验周期的各阶段来呈现，则服务会更清楚。例如，顾客是如何被吸引来，怎么开始用服务，体验服务，结束使用，然后有可能再次重新开始使用服务而变成回头客。
 * 主要互动行为的照片/草图：增加这条能帮助读者用看漫画书的方式快速了解这些服务是如何随时间展开的。
 
-![](http://skblog.duiduiche.com/2b7839efdc4c4cb2ea6b1d17700211d2.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/2b7839efdc4c4cb2ea6b1d17700211d2.jpg)
 
 ### 补充注释
 
 研究和实地观察对绘制蓝图是非常必要的。如果我们要讨论在现有流程中，用户和内部员工做了哪些有用哪些没用的事情，记住蓝图是一种强大的方式。那些关键点可以以很多方式来突出，但我们还是建议使用带图例的icons 来呈现，这样更简单明了。
 
-![](http://skblog.duiduiche.com/4df113bfedb0cff8ddd2c18a2c862c75.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/4df113bfedb0cff8ddd2c18a2c862c75.jpg)
 
 
 ## 3 实践示例
 
 一家“互联网+集体出行”创业公司，其主营业务是“定制班车”。与常见的大型公司通勤班车的主要差异在于，定制班车不是只为限定的公司提供服务，而是向社会开放，充分利用大巴车的运力资源。从用户的角度来看，典型的通勤乘车流程一般为：用户在乘客端（APP/微信公众号）查询线路——购票——前往停车点——找车上车——出示车票——舒适乘坐——下车。搜集完成相关信息后，很容易绘制出通勤班车服务蓝图如下
 
-![](http://skblog.duiduiche.com/46fce41f076f9a24668872b42dfb17fa.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/46fce41f076f9a24668872b42dfb17fa.jpg)
 
 运营中心也将“乘客无法上车”做为服务管控的核心关注点，与服务蓝图的分析结果是一致的。
 
@@ -103,7 +103,7 @@ tags: 领域驱动
 
 根据以上两点结论，我们对服务流程进行了升级改造，升级后的服务蓝图如下：（橙色部分为新增内容）
 
-![](http://skblog.duiduiche.com/722b3e1ed58dd342a67b094d09c56b17.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/722b3e1ed58dd342a67b094d09c56b17.jpg)
 
 具体来讲，我们增加了这几个服务节点：
 

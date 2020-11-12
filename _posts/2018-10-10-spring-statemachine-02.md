@@ -4,7 +4,7 @@ title:  "开源软件：Spring Statemachine 02：更多功能"
 subtitle: "Spring Statemachine is a framework for application developers to use state machine concepts with Spring applications."
 date:   2018-09-29 8:00:00
 author: "Shoukai Huang"
-header-img: 'skblog.duiduiche.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
+header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
 header-mask: 0.4
 tags: 状态机 开源软件
 ---
@@ -39,11 +39,11 @@ public class Config2 extends EnumStateMachineConfigurerAdapter<States, Events> {
 ```
 
 为了进一步分析层次状态的功能特性，引用了[参考手册Showcase的例子](https://docs.spring.io/spring-statemachine/docs/2.0.2.RELEASE/reference/htmlsingle/#statemachine-examples-showcase)，状态图定义如下
-![statechart2](http://skblog.duiduiche.com/statechart2.png){:height="100%" width="100%" }
+![statechart2](http://qjy1xw2zw.hn-bkt.clouddn.com/statechart2.png){:height="100%" width="100%" }
 
 运行官网示例，得到结果如下
 
-![1539185678943](http://skblog.duiduiche.com/1539185678943.jpg){:height="100%" width="100%" }
+![1539185678943](http://qjy1xw2zw.hn-bkt.clouddn.com/1539185678943.jpg){:height="100%" width="100%" }
 
 根据测试结果得到初步的理解如下：
 

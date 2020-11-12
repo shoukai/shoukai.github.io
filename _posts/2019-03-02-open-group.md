@@ -3,12 +3,12 @@ layout: post
 title:  "读书笔记：大教堂和集市"
 date:   2019-03-02 08:00:00
 author: "Shoukai Huang"
-header-img: 'skblog.duiduiche.com/a4de0f8e499b75a0aa82603bc1cee45d.jpg'
+header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/a4de0f8e499b75a0aa82603bc1cee45d.jpg'
 header-mask: 0.4
 tags: 读书笔记
 ---
 
-![](http://skblog.duiduiche.com/33cc969c97d480c6cc60f05205d0dfcc.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/33cc969c97d480c6cc60f05205d0dfcc.jpg)
 
 ## 1 大教堂和集市
 

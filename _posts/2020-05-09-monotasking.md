@@ -4,12 +4,12 @@ title:  "读书笔记：单核工作法图解"
 subtitle: "事多到事少,拖延变高效"
 date:   2020-05-09 08:00:00
 author: "Shoukai Huang"
-header-img: 'skblog.duiduiche.com/cb42a1bbcd1a33523343f7ab711184cd.jpg'
+header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/cb42a1bbcd1a33523343f7ab711184cd.jpg'
 header-mask: 0.4
 tags: 读书笔记 
 ---
 
-![](http://skblog.duiduiche.com/66a02496a1390813282e24aa45de72d2.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/66a02496a1390813282e24aa45de72d2.jpg)
 
 
 ## 来源
@@ -42,7 +42,7 @@ tags: 读书笔记
 
 来源简书
 
-![](http://skblog.duiduiche.com/ac5715c4112e48e6e939a041c063ff6a.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/ac5715c4112e48e6e939a041c063ff6a.jpg)
 
 ## 资料
 

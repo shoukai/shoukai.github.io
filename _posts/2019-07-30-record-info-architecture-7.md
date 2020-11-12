@@ -4,7 +4,7 @@ title:  "Architecture 201907 摘录&搜索"
 subtitle: "一些博客摘记"
 date:   2019-07-30 22:00:00
 author: "Shoukai Huang"
-header-img: 'skblog.duiduiche.com/9da64338b2b8d3594483658c65b398cf.jpg'
+header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/9da64338b2b8d3594483658c65b398cf.jpg'
 header-mask: 0.4
 tags: InfoQ
 ---
@@ -25,7 +25,7 @@ HPCC 的核心理念是**利用精确链路负载信息直接计算合适的发�
 
 The key design choice of HPCC is to rely on switches to provide fine-grained load information, such as queue size and accumulated tx/rx traffic to compute precise flow rates. 
 
-![](http://skblog.duiduiche.com/80536776015117e4f8669ee1c7875eba.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/80536776015117e4f8669ee1c7875eba.jpg)
 
 HPCC is a sender-driven CC framework. As shown in Figure, each packet a sender sends will be acknowledged by the receiver. During the propagation of the packet from the sender to the receiver, each switch along the path leverages the INT feature of its switching ASIC to insert some meta-data that reports the current load of the packet’s egress port, including timestamp (ts), queue length (qLen), transmitted bytes (txBytes), and the link bandwidth capacity (B). When the receiver gets the packet, it copies all the meta-data recorded by the switches to the ACK message it sends back to the sender. The sender decides how to adjust its flow rate each time it receives an ACK with network load information.
 
@@ -66,19 +66,19 @@ SIGCOMM 是 ACM 组织在网络领域的旗舰型会议，也是目前国际网�
 
 阿里巴巴集团采用双序列职业发展体系，技术线就是常说的 P 序列，对应到管理线的 M 序列，P6 相当于 M1，P7 相当于 M2，以此类推。
 
-![](http://skblog.duiduiche.com/d1c5639c01a00d0c195124403742fcb2.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/d1c5639c01a00d0c195124403742fcb2.jpg)
 
 目前阿里需求量最大的职级范围分布在 P6-P8，这也是阿里集团占比最大的级别。P6 级别的程序员 title 是高级工程师，P7 便已经是专家级别，P8 则是高级专家。一般而言，江湖上行走小有名气的阿里程序员至少也是 P8 级别。P10 级别的存在就是传说中的大神级别，这个级别的程序员无一不是业界鼎鼎有名的存在，比如褚霸、毕玄等等。
 
 InfoQ 搜集了阿里巴巴职级体系下的薪资水准和股数，具体参考下表：
 
-![](http://skblog.duiduiche.com/064547adec3147f00444fdb7de26b00f.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/064547adec3147f00444fdb7de26b00f.jpg)
 
 在腾讯，技术线在此之前属于 T 序列，在腾讯的职级体系里，T3 级别已经是很多人的上限，行走江湖有名有号的 T4 级别更是当得起各技术分享大会的技术爱好者们一声老师的称呼。而 T5 级别在整个腾讯也是凤毛麟角，代表人物有玄武实验室的于旸、优图实验室的贾佳亚等。
 
 InfoQ 搜集了腾讯新职级体系下的薪资水准和股票价值，具体参考下表：
 
-![](http://skblog.duiduiche.com/3d550df05c94a11b6ff4195ca297948f.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/3d550df05c94a11b6ff4195ca297948f.jpg)
 
 百度是整个 BAT 中现金给得最多的。
 
@@ -86,13 +86,13 @@ InfoQ 搜集了腾讯新职级体系下的薪资水准和股票价值，具体�
 
 InfoQ 搜集了百度职级体系下的薪资水准和股票价值，具体参考下表：
 
-![](http://skblog.duiduiche.com/1922e655394d7589e75d66ed161d1aeb.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/1922e655394d7589e75d66ed161d1aeb.jpg)
 
 华为技术线的职级体系为数字序列，跟腾讯的新序列相近。华为有句俗语很好地描述了收入情况：三年一小坎，五年一大坎。意思是入职华为三年内大部分靠工资，三年后奖金逐步可观，五年后分红逐步可观。事实上，根据 InfoQ 调查了解到的情况也确实如此，在华为供职年限越久，奖金越多，分红规模越大。2015 年，现任华为高级副总裁陈黎芳在北大宣讲时提到：奋斗越久越划算，工资变成零花钱。
 
 InfoQ 搜集了华为职级体系下的薪资水准和股票价值，具体参考下表：
 
-![](http://skblog.duiduiche.com/ca4cae01c01d4093bb087e193f9efe62.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/ca4cae01c01d4093bb087e193f9efe62.jpg)
 
 互联网公司的职级，以前我们只能看个热闹，现在我们终于也能看个门道了。其实在技术发展的路线上，慢慢也出现了一个名叫“职业阶梯”的名词。制定职业阶梯的目的是让那些有才华的技术人在职业上有更多的成长和晋升可能性，同时又不需要让他们走管理路线。职业阶梯目前在硅谷已经较为流行，随着互联网技术在中国的持续发展和繁荣，西学东渐，未来的中国技术人肯定也能一直写代码写到 5、60 岁以后。
 

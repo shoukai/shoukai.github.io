@@ -2,7 +2,7 @@
 layout: page
 title: "Read"
 description: "“学”而时习之……"
-header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
+header-img: "qjy1xw2zw.hn-bkt.clouddn.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ---
 
 我的阅读
@@ -30,7 +30,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 | 名称：[刻意成长](https://book.douban.com/subject/35025626/)<br>时间：2020-10-22<br>出版：2020-4<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：个人成长；职业规划；职业咨询 | ![](https://img1.doubanio.com/mpic/s33615919.jpg) |
 | 名称：[深入浅出数据分析](https://book.douban.com/subject/20381154/)<br>时间：2020-10-21<br>出版：2012-12-1<br>豆瓣：7.5/10<br>个人：3/5<br>Tags：数据分析；统计学；数据挖掘 | ![](https://img1.doubanio.com/mpic/s27264518.jpg) |
 | 名称：[步履不停](https://book.douban.com/subject/26963321/)<br>时间：2020-10-20<br>出版：2017-5<br>豆瓣：8.7/10<br>个人：5/5<br>Tags：是枝裕和；日本；日本文学 | ![](https://img3.doubanio.com/mpic/s29425921.jpg) |
-| 名称：[走出硝烟的精益敏捷：我们如何实施Scrum和Kanban](https://book.douban.com/subject/34898497/)<br>时间：2020-10-19<br>出版：2019-11<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：敏捷开发；敏捷；Scrum | ![](http://skblog.duiduiche.com/0f704cfae2096ca37b3c054a7c9b3fef.jpg) |
+| 名称：[走出硝烟的精益敏捷：我们如何实施Scrum和Kanban](https://book.douban.com/subject/34898497/)<br>时间：2020-10-19<br>出版：2019-11<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：敏捷开发；敏捷；Scrum | ![](http://qjy1xw2zw.hn-bkt.clouddn.com/0f704cfae2096ca37b3c054a7c9b3fef.jpg) |
 | 名称：[小王子](https://book.douban.com/subject/1084336/)<br>时间：2020-10-18<br>出版：2003-8<br>豆瓣：9.0/10<br>个人：5/5<br>Tags：小王子；童话；经典 | ![](https://img3.doubanio.com/mpic/s1103152.jpg) |
 | 名称：[重来3：跳出疯狂的忙碌](https://book.douban.com/subject/35135787/)<br>时间：2020-10-17<br>出版：2020-7<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：商业；管理；职场 | ![](https://img2.doubanio.com/mpic/s33699293.jpg) |
 | 名称：[终身学习：10个你必须掌握的未来生存法则](https://book.douban.com/subject/30203060/)<br>时间：2020-10-13<br>出版：2018-5<br>豆瓣：6.3/10<br>个人：3/5<br>Tags：成长；学习；自我管理 | ![](https://img3.doubanio.com/mpic/s29748691.jpg) |
@@ -53,7 +53,7 @@ header-img: "skblog.duiduiche.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 | 名称：[深入浅出大型网站架构设计](https://book.douban.com/subject/35093372/)<br>时间：2020-07-24<br>出版：2020-5<br>豆瓣：0.0/10<br>个人：3/5<br>Tags： | ![](https://img3.doubanio.com/mpic/s33662223.jpg) |
 | 名称：[腾讯产品法](https://book.douban.com/subject/27205096/)<br>时间：2020-07-12<br>出版：2018-1<br>豆瓣：7.4/10<br>个人：3/5<br>Tags：产品经理；产品；互联网 | ![](https://img9.doubanio.com/mpic/s29616635.jpg) |
 | 名称：[世界上最简单的会计书](https://book.douban.com/subject/25747852/)<br>时间：2020-06-30<br>出版：2013-10<br>豆瓣：8.9/10<br>个人：5/5<br>Tags：会计；入门；会计入门 | ![](https://img1.doubanio.com/mpic/s28040378.jpg) |
-| 名称：[零基础会计核算实务（完全图解版）](https://book.douban.com/subject/30685943/)<br>时间：2020-06-29<br>出版：<br>豆瓣：0.0/10<br>个人：4/5<br>Tags： | ![](http://skblog.duiduiche.com/b24a4a1e5253a42b257e7e838ee91f43.jpg) |
+| 名称：[零基础会计核算实务（完全图解版）](https://book.douban.com/subject/30685943/)<br>时间：2020-06-29<br>出版：<br>豆瓣：0.0/10<br>个人：4/5<br>Tags： | ![](http://qjy1xw2zw.hn-bkt.clouddn.com/b24a4a1e5253a42b257e7e838ee91f43.jpg) |
 | 名称：[OAuth 2实战](https://book.douban.com/subject/30487753/)<br>时间：2020-06-27<br>出版：2019-4<br>豆瓣：7.7/10<br>个人：4/5<br>Tags：oauth2；计算机；互联网 | ![](https://img1.doubanio.com/mpic/s30024208.jpg) |
 | 名称：[编程大师访谈录](https://book.douban.com/subject/7007204/)<br>时间：2020-06-27<br>出版：2012-1<br>豆瓣：7.4/10<br>个人：3/5<br>Tags：编程；计算机；程序人生 | ![](https://img1.doubanio.com/mpic/s24509127.jpg) |
 | 名称：[医生最想让你做的事](https://book.douban.com/subject/30416365/)<br>时间：2020-06-26<br>出版：2019-1-1<br>豆瓣：7.9/10<br>个人：5/5<br>Tags：健康；自我管理；科普 | ![](https://img3.doubanio.com/mpic/s33543843.jpg) |

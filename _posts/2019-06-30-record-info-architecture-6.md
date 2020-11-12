@@ -4,7 +4,7 @@ title:  "Architecture 201906 摘录&搜索"
 subtitle: "一些博客摘记"
 date:   2019-06-30 10:45:13
 author: "Shoukai Huang"
-header-img: 'skblog.duiduiche.com/fb254f580a30e6d69831cf2b023f87e6.jpg'
+header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/fb254f580a30e6d69831cf2b023f87e6.jpg'
 header-mask: 0.4
 tags: InfoQ
 ---
@@ -84,7 +84,7 @@ github 部分采用了 GraphQL，链接：[GraphQL API v4](https://developer.git
 
 >GraphQL 既是一种用于 API 的查询语言也是一个满足你数据查询的运行时。 GraphQL 对你的 API 中的数据提供了一套易于理解的完整描述，使得客户端能够准确地获得它需要的数据，而且没有任何冗余，也让 API 更容易地随着时间推移而演进，还能用于构建强大的开发者工具。
 
-![](http://skblog.duiduiche.com/bf05824f7cef91795d8f3e4c13ba05f6.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/bf05824f7cef91795d8f3e4c13ba05f6.jpg)
 
 #### 请求你所要的数据不多不少
 
@@ -121,7 +121,7 @@ def get:
 
 这是一段简单的 python 代码，使用了 Django 的 QuerySet 来从数据库抓取数据。假设我们的数据库中有两张表 User 和 UserScore 这两张表的关系如下所示：
 
-![](http://skblog.duiduiche.com/7a122ab5901a4b48a90542a0f571e36d.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/7a122ab5901a4b48a90542a0f571e36d.jpg)
 
 由于用户的分数并没有保存在 User 表中，又因为 QuerySet 有 lazy load 的特性，所以在 for 循环中，每一次获取 user.score 都会查一次表，最终原本 1 次数据库查询能搞定的问题，却在不恰当的实现中产生了 N+1 次对数据库的访问。
 

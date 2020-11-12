@@ -4,7 +4,7 @@ title:  "开源软件：Feign 02 手册翻译"
 subtitle: "Feign 源码解析系列"
 date:   2019-05-10 00:59:00
 author: "Shoukai Huang"
-header-img: 'skblog.duiduiche.com/cca353d706148a4631bf373bb3cb32c9.jpg'
+header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/cca353d706148a4631bf373bb3cb32c9.jpg'
 header-mask: 0.4
 tags: Feign 开源软件
 ---

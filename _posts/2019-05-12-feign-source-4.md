@@ -4,7 +4,7 @@ title:  "开源软件：Feign 04 调用过程"
 subtitle: "Feign 源码解析系列"
 date:   2019-05-12 00:59:00
 author: "Shoukai Huang"
-header-img: 'skblog.duiduiche.com/cca353d706148a4631bf373bb3cb32c9.jpg'
+header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/cca353d706148a4631bf373bb3cb32c9.jpg'
 header-mask: 0.4
 tags: Feign 开源软件
 ---
@@ -26,7 +26,7 @@ feign 的基本原理是在接口方法上加注解，定义 rest 请求，构�
 
 为方便理解，分析完feign源码后，我将feign执行过程分成三层，如下图：
 
-![](http://skblog.duiduiche.com/794d7d335d200c031765afa0a422ecc7.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/794d7d335d200c031765afa0a422ecc7.jpg)
 
 三层分别为：
 
@@ -170,11 +170,11 @@ github.contributors("openfeign", "some-unknown-project");
 
 入参内容：openfeign 和 some-unknown-project
 
-![](http://skblog.duiduiche.com/fc5eac5c6affc21c6d6c9c9484efde29.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/fc5eac5c6affc21c6d6c9c9484efde29.jpg)
 
 获得 RequestTemplate 对象内容
 
-![](http://skblog.duiduiche.com/214fb6b25bd779042e7eff00d9c0c99b.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/214fb6b25bd779042e7eff00d9c0c99b.jpg)
 
 过程比较简单，生成 RquestTemplate -> 转换为Request -> client发请求 -> Decoder解析Response
 
@@ -382,7 +382,7 @@ client是一个Client接口，默认实现类是Client.Default，使用java api�
 
 时序图如下：
 
-![](http://skblog.duiduiche.com/33a055b351ac80b0d86614de7fb3c429.jpg)
+![](http://qjy1xw2zw.hn-bkt.clouddn.com/33a055b351ac80b0d86614de7fb3c429.jpg)
 
 
 ## 参考
