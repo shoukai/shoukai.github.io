@@ -12,6 +12,7 @@ header-img: "qjy1xw2zw.hn-bkt.clouddn.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[六西格玛管理学](https://book.douban.com/subject/24882514/)<br>时间：2020-11-19<br>出版：2013-8-1<br>豆瓣：7.2/10<br>个人：4/5<br>Tags：管理；经营管理；团队管理 | ![](https://img3.doubanio.com/mpic/s27033690.jpg) |
 | 名称：[领导力思维](https://book.douban.com/subject/30159588/)<br>时间：2020-11-18<br>出版：2018-4<br>豆瓣：4.4/10<br>个人：3/5<br>Tags：领导力；想读；企业 | ![](https://img9.doubanio.com/mpic/s29705574.jpg) |
 | 名称：[中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议](https://book.douban.com/subject/35243633/)<br>时间：2020-11-17<br>出版：2020-11<br>豆瓣：0.0/10<br>个人：5/5<br>Tags： | ![](https://img3.doubanio.com/mpic/s33756540.jpg) |
 | 名称：[硬核生存指南](https://book.douban.com/subject/35252866/)<br>时间：2020-11-13<br>出版：2020-10<br>豆瓣：0.0/10<br>个人：3/5<br>Tags： | ![](https://img2.doubanio.com/mpic/s33757192.jpg) |
