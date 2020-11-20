@@ -4,12 +4,12 @@ title:  "读书笔记：第二曲线创新"
 subtitle: "混沌大学首部创新必修教科书"
 date:   2020-11-04 8:00:00
 author: "Shoukai Huang"
-header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/ff4d82d2b2da5e9c63928b69b2e91f24.jpg'
+header-img: 'cdn.apframework.com/ff4d82d2b2da5e9c63928b69b2e91f24.jpg'
 header-mask: 0.4
 tags: 读书笔记
 ---
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/a9803031b714d00ac4ebf3ad87724d49.jpg)
+![](http://cdn.apframework.com/a9803031b714d00ac4ebf3ad87724d49.jpg)
 
 #### 内容简介
 
@@ -50,7 +50,7 @@ tags: 读书笔记
 
 聚焦创新，引入创新元模型：S曲线
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/99dd154d4ce85e7240962ef87ef606f2.jpg)
+![](http://cdn.apframework.com/99dd154d4ce85e7240962ef87ef606f2.jpg)
 
 连续性创新，完全符合S曲线，它是建立在现有的知识、市场和技术基础设施之上的渐进式创新，并且具有以下3个特征：
 
@@ -76,7 +76,7 @@ tags: 读书笔记
 
 企业如果想基业长青，只有一个办法：通过创造性破坏，跨越到第二曲线
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/f74f0f51996eb2829f61f2468737156e.jpg)
+![](http://cdn.apframework.com/f74f0f51996eb2829f61f2468737156e.jpg)
 
 第二曲线创新的本质是什么？企业要像市场破坏过气企业一样，敢于破坏自己的过气业务和过气产品。
 
@@ -133,7 +133,7 @@ tags: 读书笔记
 
 与识别极限点类似，识别破局点的关键自然便落在了“10倍速变化”上
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/e0f1a20a40645cd27b91543c5930fa27.jpg)
+![](http://cdn.apframework.com/e0f1a20a40645cd27b91543c5930fa27.jpg)
 
 在找到10倍速变化的单一要素之后，下一个亟待解决的问题，便是如何有效击穿破局点。所谓击穿，指的是突破“阈值”。一直以来，业界对企业的发展路径，存在着“做大”和“做强”两种完全不同的声音。两者优劣，仁者见仁，智者见智，在此我不作评判。从企业第二曲线创新的角度出发，我们更建议“做强”，找到关键单一要素，并将其最大化。
 
@@ -145,7 +145,7 @@ tags: 读书笔记
 
 仅击穿创新的“破局点”，尚不足以形成企业的增长战略。企业只有围绕最关键的单一要素，组合其他要素，形成战略杠杆模型，才能持续撬动创新增长。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/cbf03de600c35ac20c3e15d3a7ce0c62.jpg)
+![](http://cdn.apframework.com/cbf03de600c35ac20c3e15d3a7ce0c62.jpg)
 
 企业的“战略杠杆模型，这个模型里有4个基本要素，它们分别是：真北目标、创新红利、战略支点和核心能力。
 
@@ -168,7 +168,7 @@ tags: 读书笔记
 
 当第一曲线到达极限点时，只有第二曲线的非连续性创新才能跨越“极限点”。与此同时，克里斯坦森还有一个重要发现：同时存在两种不同性质的第二曲线，这是他在创业与创新领域的重大突破与贡献
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/648350ad670decd80b8b32b19d828543.jpg)
+![](http://cdn.apframework.com/648350ad670decd80b8b32b19d828543.jpg)
 
 奇虎360的创始人周鸿祎看来：“颠覆式创新最基本的定义很简单：第一，你能把原来很不方便的服务或者产品做得特别方便。第二，把原来很贵的东西变得异常便宜，或者把原来收费的东西变成免费的，我认为这是商业模式上的颠覆。”简单而言，8个字足以概括：“要么方便，要么便宜。”
 

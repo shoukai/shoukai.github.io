@@ -4,7 +4,7 @@ title:  "读书笔记：亿级流量网站架构核心技术"
 subtitle: "高可用、高并发系统设计"
 date:   2018-02-01 8:00:00
 author: "Shoukai Huang"
-header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
+header-img: 'cdn.apframework.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
 header-mask: 0.4
 tags: 读书笔记 架构
 ---
@@ -59,9 +59,9 @@ tags: 读书笔记 架构
 
 **高可用**
 
-![架构-高可用](http://qjy1xw2zw.hn-bkt.clouddn.com/架构-高可用.png){:height="100%" width="100%"}
+![架构-高可用](http://cdn.apframework.com/架构-高可用.png){:height="100%" width="100%"}
 
 **高并发**
 
-![架构-高并发](http://qjy1xw2zw.hn-bkt.clouddn.com/架构-高并发.png){:height="100%" width="100%"}
+![架构-高并发](http://cdn.apframework.com/架构-高并发.png){:height="100%" width="100%"}
 

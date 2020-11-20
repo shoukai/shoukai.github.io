@@ -3,7 +3,7 @@ layout: post
 title:  "读书笔记：生产微服务"
 date:   2020-01-30 08:00:00
 author: "Shoukai Huang"
-header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/79d1078424185571629077a1d6d7e051.jpg'
+header-img: 'cdn.apframework.com/79d1078424185571629077a1d6d7e051.jpg'
 header-mask: 0.4
 tags: 读书笔记
 ---
@@ -106,13 +106,13 @@ tags: 读书笔记
 
 ### 开发周期
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/16c5c2e58af68c8c784b809be103f399.jpg)
+![](http://cdn.apframework.com/16c5c2e58af68c8c784b809be103f399.jpg)
 
 
 ### 部署管道
 稳定可靠的部署管道的几个阶段
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/fbace81aa12e2e446ac0eee5e2dfca80.jpg)
+![](http://cdn.apframework.com/fbace81aa12e2e446ac0eee5e2dfca80.jpg)
 
 
 #### staging
@@ -124,12 +124,12 @@ staging阶段测试：
 
 full staging
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/a2c9229985ffc8ddad09a07400cffca6.jpg)
+![](http://cdn.apframework.com/a2c9229985ffc8ddad09a07400cffca6.jpg)
 
 
 partial staging
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/ebab4313443b6ee8066bbe529bb0675b.jpg)
+![](http://cdn.apframework.com/ebab4313443b6ee8066bbe529bb0675b.jpg)
 
 
 full staging和partial staging环境的对比
@@ -339,7 +339,7 @@ CPU、内存、数据存储和网络资源
 * 有一个清晰的、良好定义的标准待命流程，用于处理事故和中断
 
 关键性度量指标
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/7c0903440bd7854b4e9093aaaf04579d.jpg)
+![](http://cdn.apframework.com/7c0903440bd7854b4e9093aaaf04579d.jpg)
 
 
 ## 第7章　文档化和理解

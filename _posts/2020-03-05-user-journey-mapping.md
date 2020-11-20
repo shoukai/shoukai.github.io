@@ -4,7 +4,7 @@ title:  "DDD：User Journey Mapping（用户旅程地图）"
 subtitle: "领域驱动设计系列"
 date:   2020-03-06 08:00:00
 author: "Shoukai Huang"
-header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/1688ee9a1e3e8e20c42b8562ccb1d89d.jpg'
+header-img: 'cdn.apframework.com/1688ee9a1e3e8e20c42b8562ccb1d89d.jpg'
 header-mask: 0.4
 tags: 领域驱动
 ---
@@ -68,7 +68,7 @@ tags: 领域驱动
 
 疑问questions：用户在完成当前任务打算进入下一步操作时，有哪些疑问。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/c6ce9a822b8aff067f88653748b6fe75.jpg)
+![](http://cdn.apframework.com/c6ce9a822b8aff067f88653748b6fe75.jpg)
 
 ### 2.7 写出调研获得的用户痛点、满意点，贴在对应的行为节点下方
 
@@ -78,7 +78,7 @@ tags: 领域驱动
 
 主要是根据痛点、满意点的数量和重要程度来判断。对于某个痛点，多问问对于这个用户角色对这个痛点的在意程度有多少。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/c6bc9c252099bec0e485972e8755417a.jpg)
+![](http://cdn.apframework.com/c6bc9c252099bec0e485972e8755417a.jpg)
 
 ### 2.9 思考每个行为节点、每个痛点背后是否有机会点、创新点
 
@@ -90,17 +90,17 @@ tags: 领域驱动
 
 完成以上几个步骤，即可制作成类似下图的用户体验地图：
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/97abbccf6338a607c46e09333d0d8c5b.jpg)
+![](http://cdn.apframework.com/97abbccf6338a607c46e09333d0d8c5b.jpg)
 
 ## 3. 现有SaaS
 
 购买SaaS产品生成图示，例如：[VP Online](https://online.visual-paradigm.com/cn/diagrams/)
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/b600deb7d5803e08c466e728f199d372.jpg)
+![](http://cdn.apframework.com/b600deb7d5803e08c466e728f199d372.jpg)
 
 Yuri Vedenin ，利用 [uxpressia](https://uxpressia.com/) 制作的邮件旅程地图如下所示
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/cddabf136696962b2503a4924a1ee086.jpg)
+![](http://cdn.apframework.com/cddabf136696962b2503a4924a1ee086.jpg)
 
 
 ## 参考

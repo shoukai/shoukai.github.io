@@ -4,7 +4,7 @@ title:  "读书笔记：UNIX 网络编程 - multiplexing"
 subtitle: "I/O 多路复用接口"
 date:   2020-08-22 8:00:00
 author: "Shoukai Huang"
-header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/3763e3e44afb57a9724d322e982b3cff.jpg'
+header-img: 'cdn.apframework.com/3763e3e44afb57a9724d322e982b3cff.jpg'
 header-mask: 0.4
 tags: 读书笔记
 ---
@@ -177,7 +177,7 @@ int FD_ISSET(int fd, fd_set *fdset);
 
 汇总了上述导致select返回某个套接字就绪的条件
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/539eb55c87dbadb5b80d9a8738a9a399.jpg)
+![](http://cdn.apframework.com/539eb55c87dbadb5b80d9a8738a9a399.jpg)
 
 
 ### 例子
@@ -317,7 +317,7 @@ struct pollfd {
 
 用于指定events标志以及测试revents标志的一些常值 
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/c68340d8e46a3884d4783d82968abf30.jpg)
+![](http://cdn.apframework.com/c68340d8e46a3884d4783d82968abf30.jpg)
 
 看到 fds 还是关注的描述符列表，只是在 poll 里更先进一些，将 events 和 reevents 分开了，所以如果关注的 events 没有发生变化就可以重用 fds，poll 只修改 revents 不会动 events。再有 fds 是个数组，不是 fds_set，没有了上限。
 
@@ -461,7 +461,7 @@ epoll 有两种工作方式：LT（水平触发） 和 ET（边缘触发）。LT
 
 如果这个 Socket 注册在 epoll FD 上时带着 EPOLLET flag，即 ET 模式下，即使 Socket 还有 1 KB 数据没读，**第五步 epoll_wait 执行时也不会立即返回，会一直阻塞下去直到再有新数据到达这个 Socket**。因为这个 Socket 上的数据一直没有读完，其 Ready 状态在上一次触发 epoll_wait 返回后一直没被清理。需要等这个 Socket 上所有可读的数据全部被读干净，read() 操作返回 EAGAIN 后，再次执行 epoll_wait 如果再有新数据到达 Socket，epoll_wait 才会立即因为 Socket 读 Ready 而返回。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/0d253168eadc71d3de8238cc3dacadb8.jpg)
+![](http://cdn.apframework.com/0d253168eadc71d3de8238cc3dacadb8.jpg)
 
 
 而如果使用的是 LT 模式，Socket 还剩 1 KB 数据没读，第五步执行 epoll_wait 后它也会带着这个 Socket 的 FD 立即返回，event 列表内会记录这个 Socket 读 Ready。
@@ -530,14 +530,14 @@ epoll的设计：
 2. epoll红黑树上采用事件异步唤醒，内核监听I/O，事件发生后内核搜索红黑树并将对应节点数据放入异步唤醒的事件队列中。
 3. epoll的数据从用户空间到内核空间采用mmap存储I/O映射来加速。该方法是目前Linux进程间通信中传递最快,消耗最小,传递数据过程不涉及系统调用的方法。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/7842b7dc95991a9f9310cce2ce744c86.jpg)
+![](http://cdn.apframework.com/7842b7dc95991a9f9310cce2ce744c86.jpg)
 
 
 Linux的I/O效率不会随着文件描述符数量的增加而线性下降。较之于select/poll，当处于一个高并发时(例如10万，100万)。在如此庞大的socket集合中，任一时间里其实只有部分的socket是“活跃”的。select/poll的处理方式是，对用如此庞大的集合进行线性扫描并对有事件发生的socket进行处理，这将极大的浪费CPU资源。因此epoll的改进是，由于I/O事件发生，内核将活跃的socket放入队列并交给mmap加速到用户空间，程序拿到的集合是处于活跃的socket集合，而不是所有socket集合。
 
 使用mmap加速内核与用户空间的消息传递。select/poll采用的方式是，将所有要监听的文件描述符集合拷贝到内核空间（用户态到内核态切换）。接着内核对集合进行轮询检测，当有事件发生时，内核从中集合并将集合复制到用户空间。 再看看epoll怎么做的，内核与程序共用一块内存，请看epoll总体描述01这幅图，用户与mmap加速区进行数据交互不涉及权限的切换(用户态到内核态，内核态到用户态)。内核对于处于非内核空间的内存有权限进行读取。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/4a4858afacc47c12d73587938c485d7c.jpg)
+![](http://cdn.apframework.com/4a4858afacc47c12d73587938c485d7c.jpg)
 
 使用epoll接口的一般操作流程为：
 
@@ -656,7 +656,7 @@ epoll_wait()返回后，epoll模型将不会采用"epoll接口的一般操作流
 * epoll_wait()返回cfd--->cfd回调recvdata()--->将cfd摘下来监听写事件--->
 * epoll_wait()返回cfd--->cfd回调senddata()--->将cfd摘下来监听读事件--->...--->
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/a813c7c4d7356f4a1ae0ce46b6b39621.jpg)
+![](http://cdn.apframework.com/a813c7c4d7356f4a1ae0ce46b6b39621.jpg)
 
  
 一个简单的示例，功用就是让epoll 监听你有注册的socket，然后当有事件产生时，就可以从epoll_wait 取得相对应的socket 与事件，最后再将此事件执行到对应的event handler。
@@ -778,7 +778,7 @@ struct kevent {
 
 其中flags成员在调用时指定过滤器更改行为，在返回时额外给出条件
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/81e4e15d970f7b088defebe0efb9c349.jpg)
+![](http://cdn.apframework.com/81e4e15d970f7b088defebe0efb9c349.jpg)
 
 filter成员指定的过滤器类型
 

@@ -1,7 +1,7 @@
 # Site settings
 title: ShouKai
 SEOTitle: ShouKai Blog
-header-img: "qjy1xw2zw.hn-bkt.clouddn.com/8dfb1b86212935379ada7e13483f27d4.jpg"
+header-img: "cdn.apframework.com/8dfb1b86212935379ada7e13483f27d4.jpg"
 email: huangshoukai@yeah.net
 description: 人生在于体会，今时哪及昔时。
 keyword: ""
@@ -68,8 +68,8 @@ ba_track_id: 70280fa191231708a092ffd9ecad59ec
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "读书，旅行，总有一个在路上"
-sidebar-avatar: http://qjy1xw2zw.hn-bkt.clouddn.com/ab560058fbcb36657b56eee62f7fd79a.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-# sidebar-avatar: http://qjy1xw2zw.hn-bkt.clouddn.com/4e76fac5dc250c49611918e73ebf7bff.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: http://cdn.apframework.com/ab560058fbcb36657b56eee62f7fd79a.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+# sidebar-avatar: http://cdn.apframework.com/4e76fac5dc250c49611918e73ebf7bff.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags

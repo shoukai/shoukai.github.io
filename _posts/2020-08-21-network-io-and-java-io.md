@@ -4,7 +4,7 @@ title:  "读书笔记：UNIX 网络编程 - I/O"
 subtitle: "I/O 模型与 Java IO"
 date:   2020-08-21 8:00:00
 author: "Shoukai Huang"
-header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/ee775f9df451839ea5775737886f12ae.jpg'
+header-img: 'cdn.apframework.com/ee775f9df451839ea5775737886f12ae.jpg'
 header-mask: 0.4
 tags: 读书笔记
 ---
@@ -25,7 +25,7 @@ tags: 读书笔记
 
 最流行的I/O模型是阻塞式I/O（blocking I/O）模型，默认情形下，所有套接字都是阻塞的。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/276bc1cdf18b452ffb67eb2879acc39a.jpg)
+![](http://cdn.apframework.com/276bc1cdf18b452ffb67eb2879acc39a.jpg)
 
 Blocking IO 是直到数据真的全拷贝至 User Space 后才返回。
 
@@ -89,7 +89,7 @@ BIO最大的缺点就是浪费资源，只能处理少量的连接，线程数�
 
 进程把一个套接字设置成非阻塞是在通知内核：当所请求的I/O操作非得把本进程投入睡眠才能完成时，不要把本进程投入睡眠，而是返回一个错误。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/2dea1ee315d6f599cffdcff2a45bf3a7.jpg)
+![](http://cdn.apframework.com/2dea1ee315d6f599cffdcff2a45bf3a7.jpg)
 
 前三次调用recvfrom时没有数据可返回，因此内核转而立即返回一个EWOULDBLOCK错误。第四次调用recvfrom时已有一个数据报准备好，它被复制到应用进程缓冲区，于是recvfrom成功返回。我们接着处理数据。
 
@@ -102,7 +102,7 @@ BIO最大的缺点就是浪费资源，只能处理少量的连接，线程数�
 
 有了I/O复用（I/O multiplexing），我们就可以调用select或poll，阻塞在这两个系统调用中的某一个之上，而不是阻塞在真正的I/O系统调用上。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/adfb9b465902db692a0a1f3ea0b9efe2.jpg)
+![](http://cdn.apframework.com/adfb9b465902db692a0a1f3ea0b9efe2.jpg)
 
 我们阻塞于select调用，等待数据报套接字变为可读。当select返回套接字可读这一条件时，我们调用recvfrom把所读数据报复制到应用进程缓冲区。
 
@@ -197,7 +197,7 @@ NIO最大的优点，就是一个线程就可以处理大量的连接，缺点�
 
 我们也可以用信号，让内核在描述符就绪时发送SIGIO信号通知我们。我们称这种模型为信号驱动式I/O（signal-driven I/O）
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/123ac2c4173bb1a0f1d14404908842f2.jpg)
+![](http://cdn.apframework.com/123ac2c4173bb1a0f1d14404908842f2.jpg)
 
 我们首先开启套接字的信号驱动式I/O功能，并通过sigaction系统调用安装一个信号处理函数。该系统调用将立即返回，我们的进程继续工作，也就是说它没有被阻塞。当数据报准备好读取时，内核就为该进程产生一个SIGIO信号。我们随后既可以在信号处理函数中调用recvfrom读取数据报，并通知主循环数据已准备好待处理，也可以立即通知主循环，让它读取数据报。
 
@@ -207,7 +207,7 @@ NIO最大的优点，就是一个线程就可以处理大量的连接，缺点�
 
 异步I/O（asynchronous I/O）由POSIX规范定义。演变成当前POSIX规范的各种早期标准所定义的实时函数中存在的差异已经取得一致。一般地说，这些函数的工作机制是：告知内核启动某个操作，并让内核在整个操作（包括将数据从内核复制到我们自己的缓冲区）完成后通知我们。这种模型与前一节介绍的信号驱动模型的主要区别在于：信号驱动式I/O是由内核通知我们何时可以启动一个I/O操作，而异步I/O模型是由内核通知我们I/O操作何时完成。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/49840029bfc75e3b355558ca412b50ca.jpg)
+![](http://cdn.apframework.com/49840029bfc75e3b355558ca412b50ca.jpg)
 
 我们调用aio_read函数（POSIX异步I/O函数以aio_或lio_开头），给内核传递描述符、缓冲区指针、缓冲区大小（与read相同的三个参数）和文件偏移（与lseek类似），并告诉内核当整个操作完成时如何通知我们。该系统调用立即返回，而且在等待I/O完成期间，我们的进程不被阻塞。本例子中我们假设要求内核在操作完成时产生某个信号。该信号直到数据已复制到应用进程缓冲区才产生，这一点不同于信号驱动式I/O模型。
 
@@ -292,7 +292,7 @@ AIO最大的优点，就是少量的线程就可以处理大量的连接，而�
 
 图中对比了上述5种不同的I/O模型。可以看出，前4种模型的主要区别在于第一阶段，因为它们的第二阶段是一样的：在数据从内核复制到调用者的缓冲区期间，进程阻塞于recvfrom调用。相反，异步I/O模型在这两个阶段都要处理，从而不同于其他4种模型。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/3d187d9edbfab0d1256c6031e683a57c.jpg)
+![](http://cdn.apframework.com/3d187d9edbfab0d1256c6031e683a57c.jpg)
 
 ## 同步I/O和异步I/O对比
 

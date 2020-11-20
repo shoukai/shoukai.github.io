@@ -4,7 +4,7 @@ title:  "DDD：Zachman Framework"
 subtitle: "领域驱动设计系列"
 date:   2019-12-18 08:00:00
 author: "Shoukai Huang"
-header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/193a088cd5dcb077a1ee6ed37ecb86a2.jpg'
+header-img: 'cdn.apframework.com/193a088cd5dcb077a1ee6ed37ecb86a2.jpg'
 header-mask: 0.4
 tags: 领域驱动
 ---
@@ -44,7 +44,7 @@ Zachman Framework的当前版本，对行进行如下分类：
 * **技术人员视角（Tool Components）**：Subcontractors 根据车间计划工作，这些计划指定零件或小节的详细信息。这些对应于提供给程序员的详细规范，这些程序员对单个模块进行编码而无需考虑系统的整体上下文或结构。或者，它们可以代表对各种现成的商用（COTS），政府现成的（GOTS）或正在采购和实施而不是构建的模块化系统软件的组件的详细要求。
 * **企业透视图或（操作实例）**：这一行的内容代表了最终产品，是架构在客观现实中的实例体现。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/d7c552f92f0761a6d3046fa69b4a7327.jpg)
+![](http://cdn.apframework.com/d7c552f92f0761a6d3046fa69b4a7327.jpg)
 
 ### Focus of columns
 
@@ -65,7 +65,7 @@ Zachman框架通常被描述为有界的6 x 6“矩阵”，其中，通信疑�
 
 单元描述直接取自Zachman Framework 3.0版。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/65cc421d2d31154525266b116f3c2406.jpg)
+![](http://cdn.apframework.com/65cc421d2d31154525266b116f3c2406.jpg)
 
 **执行透视图视角**
 
@@ -135,7 +135,7 @@ Zachman框架通常被描述为有界的6 x 6“矩阵”，其中，通信疑�
 * 规则6，从该行的角度来看，所有单元格模型的组合或集成构成一个完整的模型：出于与不添加行和列相同的原因，更改名称可能会更改框架的基本逻辑结构。
 * 规则7逻辑是递归的：逻辑是同一实体的两个实例之间的关系。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/9abcfa32071aa38841c09d98f20058f5.jpg)
+![](http://cdn.apframework.com/9abcfa32071aa38841c09d98f20058f5.jpg)
 
 该框架是通用的，因为它可用于对任何物理对象以及概念对象（例如企业）的描述性表示进行分类。它也是递归的，因为它可用于分析自身的架构组成。尽管该框架将把关系从一列传递到另一列，但它仍然是企业的基本结构表示，而不是流程表示。
 

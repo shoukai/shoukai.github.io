@@ -4,7 +4,7 @@ title:  "DDD：Pace-Layered Application Strategy"
 subtitle: "领域驱动设计系列"
 date:   2020-03-02 07:00:00
 author: "Shoukai Huang"
-header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/9994d024eb2eb585f1e4a974e0613bb5.jpg'
+header-img: 'cdn.apframework.com/9994d024eb2eb585f1e4a974e0613bb5.jpg'
 header-mask: 0.4
 tags: 领域驱动
 ---
@@ -16,7 +16,7 @@ Pace-Layered Application Strategy 是一种在整个应用程序生命周期中�
 Gartner将步伐分层方法定义如下：
 Gartner的 Pace-Layered Application Strategy 是一种用于分类、选择、管理和管理应用程序的方法，以支持业务变更，差异化和创新。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/cb411934d865fd425b4bb98af7406d54.jpg)
+![](http://cdn.apframework.com/cb411934d865fd425b4bb98af7406d54.jpg)
 
 Gartner定义了三种应用程序类别或“层”，以区分应用程序类型并帮助组织为每种应用程序制定更合适的策略：
 
@@ -28,11 +28,11 @@ Gartner定义了三种应用程序类别或“层”，以区分应用程序类�
 
 这些层具有共同思想，不同思想和新思想的商业领导者的概念相对应，作为对支持系统进行分类的一种手段。System of Record（SSoR）是支持核心业务的应用程序，而 System of Differentiation 则在流程效率和有效性方面创造了竞争优势，System of Innovation 支持实现并支持业务转型的战略流程。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/00165f87b1a4fb422a9e874f1e86741f.jpg)
+![](http://cdn.apframework.com/00165f87b1a4fb422a9e874f1e86741f.jpg)
 
 下表最初由Gartner在报告中设计，“如何使用 Pace-Layered 开发现代应用程序策略，”描述了不同层的特征。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/8c7317601a804ea03e1b74b6d286dd35.jpg)
+![](http://cdn.apframework.com/8c7317601a804ea03e1b74b6d286dd35.jpg)
 
 ## Pace-Layered 延伸
 
@@ -48,7 +48,7 @@ Pace-Layered Application Strategy 为“中台”产生的必然性，提供了�
 
 >软件开发中遇到的所有问题，都可以通过增加⼀层抽象⽽得以解决!
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/7136b0c67991f20cdd1a0c7321fa9606.jpg)
+![](http://cdn.apframework.com/7136b0c67991f20cdd1a0c7321fa9606.jpg)
 
 
 
@@ -60,7 +60,7 @@ Pace-Layered Application Strategy 为“中台”产生的必然性，提供了�
 
 变更解释：Gartner的 Pace-layered Application Strategy 方法似乎无助于集中关注体系结构中的层概念。我们发现，考虑不同业务功能（可以由几个体系结构层组成）中的变化速度是一个更有用的概念。专注于层的危险是许多类型的更改跨越了多个层。例如，能够向网站添加新的股票类别不仅仅意味着拥有易于更改的内容管理系统；您还需要更新数据库，集成点，仓库系统等。认识到架构的某些部分需要比其他部分更具可操作性。但是，事实证明，专注于层次是无益的。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/a24c21853ff2da1fa46203e633cf1722.jpg)
+![](http://cdn.apframework.com/a24c21853ff2da1fa46203e633cf1722.jpg)
 
 
 

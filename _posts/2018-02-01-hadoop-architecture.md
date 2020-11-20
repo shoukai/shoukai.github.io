@@ -4,12 +4,12 @@ title:  "读书笔记：Hadoop Application Architecture"
 subtitle: "大数据系列"
 date:   2018-02-01 8:00:00
 author: "Shoukai Huang"
-header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/7be271ca7e7fc8a85a50a7a671c370c2.jpg'
+header-img: 'cdn.apframework.com/7be271ca7e7fc8a85a50a7a671c370c2.jpg'
 header-mask: 0.4
 tags: 读书笔记 大数据
 ---
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/776b866eaa00fe715f19ef94cbd4d6d1.jpg)
+![](http://cdn.apframework.com/776b866eaa00fe715f19ef94cbd4d6d1.jpg)
 
 ## 1 元数据管理
 
@@ -30,7 +30,7 @@ Hadoop 生态系统中第一个开始存储、管理并使用元数据的项目�
 
 为了能够在 Hive 以外使用 Hive metastore，有一个名为 HCatalog 的项目启动了。现在，HCatalog 成为了 Hive 的一部分。很重要的一点是，HCatalog 能够使其他工具（比如 Pig 和 MapReduce）与 Hive metastore 整合在一起使用。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/2a8c50a3d07cba5095ed459b007449c0.jpg)
+![](http://cdn.apframework.com/2a8c50a3d07cba5095ed459b007449c0.jpg)
 
 
 ## 2 数据处理通用范式
@@ -49,7 +49,7 @@ Hadoop 上的数据经常存在重复的记录，原因如下。
 
 如果熟悉 HBase，你会发现这与 HBase 的工作方式类似。从上层看，HBase 的一个 Region 里有 HFile，其中包含一个键及其对应值。加入新数据时，这里会产生另外一个包含键和值的 HFile。执行合并（compaction）这一清理数据的过程时，HBase 会按键合并，删除重复数据，
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/d259a4a002b6a29101dc8297e52d337a.jpg)
+![](http://cdn.apframework.com/d259a4a002b6a29101dc8297e52d337a.jpg)
 
 
 SQL 示例：
@@ -75,7 +75,7 @@ SQL 示例：
 
 开窗函数（windowing function）支持基于一定的窗口（例如特定的时间片），在有序的事件序列上进行扫描操作。这种处理范式功能强大且用途广泛。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/366f701be7b985bedf286e6444165e36.jpg)
+![](http://cdn.apframework.com/366f701be7b985bedf286e6444165e36.jpg)
 
 
 SQL 示例
@@ -112,7 +112,7 @@ SQL 解释
 1. 在执行了第二步的子查询之后，我们得到了组织好的数据。一条记录中包含了需要的全部信息。我们可以凭这条记录确认以下几种类型：边缘（时间窗口的最左或最右一个点）、高峰（前后的值均比当前值要小）、低谷（前后的值均比当前值要大）、斜坡（前后的值要么都比当前值大，要么都比当前值要小）。
 2. 在这条子查询中，我们执行数据开窗的逻辑。该查询会将当前值之前和之后的值放入同一行。图中所示就是这条子查询的输入和输出
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/be19a493e0cb452701098fb4322f1820.jpg)
+![](http://cdn.apframework.com/be19a493e0cb452701098fb4322f1820.jpg)
 (结果列部分数值存疑)
 
 
@@ -120,12 +120,12 @@ SQL 解释
 
 这允许一条记录了解自己的生效时间及失效时间，提供一个实体的信息以及开始和结束的时间
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/fee0c7bae73804984fc4fb115d66193b.jpg)
+![](http://cdn.apframework.com/fee0c7bae73804984fc4fb115d66193b.jpg)
 
 
 开始和结束时间能够标识一条记录生效的时间区间。如果结束时间为 null，这就意味着该记录的值就是实体的当前值。随之而来的问题是何时更新表。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/027a5647b5b5b71ba83dde78050d6fbe.jpg)
+![](http://cdn.apframework.com/027a5647b5b5b71ba83dde78050d6fbe.jpg)
 
 
 #### 解决办法

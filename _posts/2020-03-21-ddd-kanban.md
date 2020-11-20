@@ -4,7 +4,7 @@ title:  "DDD：看板"
 subtitle: "领域驱动设计系列"
 date:   2020-03-21 08:00:00
 author: "Shoukai Huang"
-header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/5f8176627139f995349fcb0da380b308.jpg'
+header-img: 'cdn.apframework.com/5f8176627139f995349fcb0da380b308.jpg'
 header-mask: 0.4
 tags: 领域驱动
 ---
@@ -66,7 +66,7 @@ David Anderson 分解看板为：
 * a commitment point：Kanban teams often have a backlog for their board. 
 * a delivery point：The delivery point is the end of a kanban team’s workflow
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/f4b5f8ec8e6063c0e338ed05741cd984.jpg)
+![](http://cdn.apframework.com/f4b5f8ec8e6063c0e338ed05741cd984.jpg)
 
 ## 核心实践
 

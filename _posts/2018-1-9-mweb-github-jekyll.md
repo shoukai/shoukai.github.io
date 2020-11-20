@@ -4,7 +4,7 @@ title:  "GitHub Pages 搭建笔记"
 subtitle: "Jekyll、Github.io、七牛云 构建个人博客"
 date:   "2018-01-08 10:45:13"
 author: "Shoukai Huang"
-header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
+header-img: 'cdn.apframework.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
 header-mask: 0.4
 tags: 基础环境
 ---
@@ -16,7 +16,7 @@ tags: 基础环境
 ## Github Pages
 前往[GitHub](https://github.com/)并且创建一个新的repository，命名规则是：username.github.io（username是Github用户名，蓝色线部分相同）
 
-![blog-github-create](http://qjy1xw2zw.hn-bkt.clouddn.com/blog-github-create.jpg){:height="100%" width="100%"}
+![blog-github-create](http://cdn.apframework.com/blog-github-create.jpg){:height="100%" width="100%"}
 
 clone项目到本地
 
@@ -83,7 +83,7 @@ bundle exec jekyll serve
 5.本地调试
 
 通过http://localhost:4000 ，访问页面。
-![blog-jekyll-new](http://qjy1xw2zw.hn-bkt.clouddn.com/blog-jekyll-new.jpg){:height="100%" width="100%"}
+![blog-jekyll-new](http://cdn.apframework.com/blog-jekyll-new.jpg){:height="100%" width="100%"}
 
 
 ## Jekyll 模板
@@ -92,7 +92,7 @@ bundle exec jekyll serve
 
 效果页面可以访问： [Clean Blog](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
 
-![blog-github-clean-blog](http://qjy1xw2zw.hn-bkt.clouddn.com/blog-github-clean-blog.jpg){:height="100%" width="100%"}
+![blog-github-clean-blog](http://cdn.apframework.com/blog-github-clean-blog.jpg){:height="100%" width="100%"}
 
 **安装过程**
 
@@ -143,13 +143,13 @@ jekyll可以自动检测并识别文档，并添加到博客首页中。
 **GitHub部分配置**
 
 在GitHub工程根目录添加CNAME文件，如下图所示。域名部分仅为域名名称，不添加http等关键字。
-![blog-github-cname](http://qjy1xw2zw.hn-bkt.clouddn.com/blog-github-cname.jpg){:height="100%" width="100%"}
+![blog-github-cname](http://cdn.apframework.com/blog-github-cname.jpg){:height="100%" width="100%"}
 
 **域名提供商部分**
 
 本文使用的是阿里云提供的云解析DNS，添加记录如下图所示。
 
-![blog-aliyun-cname](http://qjy1xw2zw.hn-bkt.clouddn.com/blog-aliyun-cname.jpg){:height="100%" width="100%"}
+![blog-aliyun-cname](http://cdn.apframework.com/blog-aliyun-cname.jpg){:height="100%" width="100%"}
 
 
 记录A部分，添加IP地址：192.30.252.153和192.30.252.154。（IP地址为GitHub提供，详见[setting-up-an-apex-domain](https://help.github.com/articles/setting-up-an-apex-domain/)）
@@ -170,11 +170,11 @@ Jekyll的图片可以使用相对路径，图片放在img文件夹下，在markd
 
 申请账号后，在个人中心-密钥管理中，查看**Access Key**和**Secret Key**
 
-![blog-qiniu-new](http://qjy1xw2zw.hn-bkt.clouddn.com/blog-qiniu-new.jpg){:height="100%" width="100%"}
+![blog-qiniu-new](http://cdn.apframework.com/blog-qiniu-new.jpg){:height="100%" width="100%"}
 
 申请存储空间，本文存储空间为mweb（即为BucketName），申请成功后管理界面如下：
 
-![blog-qiniu-bucket](http://qjy1xw2zw.hn-bkt.clouddn.com/blog-qiniu-bucket.jpg){:height="100%" width="100%"}
+![blog-qiniu-bucket](http://cdn.apframework.com/blog-qiniu-bucket.jpg){:height="100%" width="100%"}
 
 区域分华东、华北、华南和北美，需要记录，后续使用。
 
@@ -187,7 +187,7 @@ MWeb是一款Markdown笔记工具，主页：http://zh.mweb.im 。如果使用�
 
 在MWeb-Preferences-Publishing中配置七牛插件，把本地文件上传到七牛中。
 
-![blog-qiniu-mweb](http://qjy1xw2zw.hn-bkt.clouddn.com/blog-qiniu-mweb.jpg){:height="70%" width="70%"}
+![blog-qiniu-mweb](http://cdn.apframework.com/blog-qiniu-mweb.jpg){:height="70%" width="70%"}
 
 填写说明如下：
 

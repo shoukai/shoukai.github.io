@@ -4,12 +4,12 @@ title:  "读书笔记：腾讯产品法"
 subtitle: "一本书读懂腾讯产品思维与运营方法"
 date:   2020-07-12 8:00:00
 author: "Shoukai Huang"
-header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/29f1c5e047ed28ebfcd7bd1846308f1c.jpg'
+header-img: 'cdn.apframework.com/29f1c5e047ed28ebfcd7bd1846308f1c.jpg'
 header-mask: 0.4
 tags: 产品 读书笔记
 ---
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/1c44ec794bb6207aabb4ba3497ab5907.jpg)
+![](http://cdn.apframework.com/1c44ec794bb6207aabb4ba3497ab5907.jpg)
 
 
 ## 第一性原理
@@ -28,7 +28,7 @@ tags: 产品 读书笔记
 
 AARRR模型包含了五个由浅入深的层次，体现了用户和产品间建立深度关系的行为过程。五个层级分别是：用户获取（Acquisition）、用户激活（Activation）、用户留存（Retention）、用户付费（Revenue）、用户主动推荐（Referral）。一般来说，用户在每一个层级都会有或多或少的流失，不可能全部转化到下一层级，所以它看起来像一个倒置的漏斗。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/48a484a49a1982902213812d67631ce5.jpg)
+![](http://cdn.apframework.com/48a484a49a1982902213812d67631ce5.jpg)
 
 ## 构建壁垒
 
@@ -43,8 +43,8 @@ AARRR模型包含了五个由浅入深的层次，体现了用户和产品间建
 在构建行业或产品壁垒时，如何才能在三种竞争战略中做出正确的选择呢？波特提出，每个行业中存在着相同的五种力量，它们综合起来影响着企业的竞争战略决策。也就是说，通过对五种力量的分析，企业可能会找到较为精准的市场定位，找到战略切入口。
 波特提出的五种力量，分别为：同行业内现有竞争者的竞争能力、潜在竞争者进入的能力、替代品的替代能力、供应商的讨价还价能力、购买者的讨价还价能力。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/3a35fefc7c1a0a8b2bacff49a7237f68.jpg)
+![](http://cdn.apframework.com/3a35fefc7c1a0a8b2bacff49a7237f68.jpg)
 
 想要构建产品壁垒，就最好做自己擅长的那部分。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/7663c589ee1de19343e0c483177c917e.jpg)
+![](http://cdn.apframework.com/7663c589ee1de19343e0c483177c917e.jpg)

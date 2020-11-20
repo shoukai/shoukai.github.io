@@ -4,7 +4,7 @@ title:  "DDD：Lean Value Tree（精益价值树）"
 subtitle: "领域驱动设计系列"
 date:   2020-03-03 08:00:00
 author: "Shoukai Huang"
-header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/080ffcb5981d81c1315a54f3007ffd34.jpg'
+header-img: 'cdn.apframework.com/080ffcb5981d81c1315a54f3007ffd34.jpg'
 header-mask: 0.4
 tags: 领域驱动
 ---
@@ -15,7 +15,7 @@ tags: 领域驱动
 
 结合流程分析对于指标价值分解，特别是内部运营指标的分解有着十分重要的意义。财务类价值树模型图示例
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/fd94661fc94e27a1fd0902d71e59f174.jpg)
+![](http://cdn.apframework.com/fd94661fc94e27a1fd0902d71e59f174.jpg)
 
 ## 精益价值树（Lean Value Tree）
 
@@ -27,7 +27,7 @@ tags: 领域驱动
 
 精益价值树是一种以价值成效为导向，用于分析和沟通业务愿景、战略与投资的工具。它的核心是建立从愿景、目标到投资举措自上而下的对齐，因此采用一种逐层分解的树形结构，如下示意图：
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/91eae0fa97f93ea458d0fe3fa3776b03.jpg)
+![](http://cdn.apframework.com/91eae0fa97f93ea458d0fe3fa3776b03.jpg)
 
 这个过程，就是我说的自上而下的战略分解过程。而某一个中台，它可能只是最终推导出的一个具体的举措而已，向上还是要能追溯到对于企业愿景和目标的关联性和价值上，匹配和对应企业的愿景目标。
 
@@ -70,7 +70,7 @@ Delivery: Experiments to achieve value.
 
 下面这个图能够更清晰地展示举措、投资方向、目标和愿景之间的关系。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/aa15023ab506870b84c673c0be8585ee.jpg)
+![](http://cdn.apframework.com/aa15023ab506870b84c673c0be8585ee.jpg)
 
 ### 标准
 
@@ -95,7 +95,7 @@ Delivery: Experiments to achieve value.
 
 精益价值树工具正是这样一种PDCA环的具体实现。当企业自上而下在各个业务层级应用精益价值树进行规划，就可以有效地实现“接球”式战略部署，替代传统控制型和集中式预算审批的战略落地方式。如下图所示：
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/f35d81225bae6dbe41fd2f34fa030803.jpg)
+![](http://cdn.apframework.com/f35d81225bae6dbe41fd2f34fa030803.jpg)
 
 这个过程之所以被隐喻为“接球”，是为了唤起上下组织层级之间一种协作式的活动。自上而下的愿景、目标和投资方向对齐不是个简单的照搬过程，而需要理解和转化。每一级需要解读来自上一级的战略对自己意味着什么，站在自身组织所担负的愿景角度，思考如何为实现更大范围或整个企业的战略作出贡献。
 
@@ -103,14 +103,14 @@ Delivery: Experiments to achieve value.
 
 影响映射是一种轻量级的协作计划技术，适用于希望对软件产品产生重大影响的团队。它基于用户交互设计，结果驱动的计划和思维导图。影响图可帮助交付团队和利益相关者可视化路线图，解释交付成果如何与用户需求联系，并传达用户成果与更高级别组织目标的关系。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/ae3643cf8aa0345c92cca3901d31d288.jpg)
+![](http://cdn.apframework.com/ae3643cf8aa0345c92cca3901d31d288.jpg)
 
 * Why：目标是什么？在精益价值树中，影响映射的目标将是投资，或投资的成功标准
 * Who：谁可以帮助我们实现目标/投资方向，提供以客户为中心。可以是业务，最终用户（客户），第三方等方式
 * How：参与者可以为实现目标提供何种类型的影响？从精益价值树来看，这相当于价值的承诺（举措）
 * What：要实现预期的影响需要哪些可交付成果？从精益价值树来看，这相当于交付的承诺（举措）
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/a47cd85541ccb8dce4559f91cbf1cff0.jpg)
+![](http://cdn.apframework.com/a47cd85541ccb8dce4559f91cbf1cff0.jpg)
 
 
 ## 参考

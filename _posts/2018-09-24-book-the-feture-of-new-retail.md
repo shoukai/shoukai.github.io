@@ -3,7 +3,7 @@ layout: post
 title:  "读书笔记：新零售的未来"
 date:   2018-09-23 8:00:00
 author: "Shoukai Huang"
-header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
+header-img: 'cdn.apframework.com/f4d6469ceef0c79e8615cd6e722a7770.jpg'
 header-mask: 0.4
 tags: 读书笔记 产品
 ---

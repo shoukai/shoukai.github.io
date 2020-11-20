@@ -4,7 +4,7 @@ title:  "开源软件：Feign 03 初始化"
 subtitle: "Feign 源码解析系列"
 date:   2019-05-11 00:59:00
 author: "Shoukai Huang"
-header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/cca353d706148a4631bf373bb3cb32c9.jpg'
+header-img: 'cdn.apframework.com/cca353d706148a4631bf373bb3cb32c9.jpg'
 header-mask: 0.4
 tags: Feign 开源软件
 ---
@@ -26,7 +26,7 @@ feign 的基本原理是在接口方法上加注解，定义 rest 请求，构�
 
 接口的动态代理主要接口和类的类图
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/d146748deb33dfdbd9cb1aab01f3afaa.jpg)
+![](http://cdn.apframework.com/d146748deb33dfdbd9cb1aab01f3afaa.jpg)
 
 #### Feign 构建接口动态代理
 
@@ -163,7 +163,7 @@ InvocationHandlerFactory.MethodHandler 接口，动态代理对象调用方法�
 
 SynchronousMethodHandler 是 feign 组件的核心，接口方法调用转换为 http 请求和解析http 响应都是通过 SynchronousMethodHandler 来执行的，相关类图如下：
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/902746db4980b6411c5b6799ffde41e1.jpg)
+![](http://cdn.apframework.com/902746db4980b6411c5b6799ffde41e1.jpg)
 
 ```java
 public Map<String, MethodHandler> apply(Target key) {
@@ -187,7 +187,7 @@ public Map<String, MethodHandler> apply(Target key) {
 ```
 
 为了直观理解 targetToHandlersByName.apply(target) 处逻辑，进行了断点抓取
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/48440ee2967ddaccb9eb397fc9e65659.jpg)
+![](http://cdn.apframework.com/48440ee2967ddaccb9eb397fc9e65659.jpg)
 
 这段代码的逻辑是：
 

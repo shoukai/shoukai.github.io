@@ -4,7 +4,7 @@ title:  "DDD：燃尽图"
 subtitle: "领域驱动设计系列"
 date:   2020-03-23 08:00:00
 author: "Shoukai Huang"
-header-img: 'qjy1xw2zw.hn-bkt.clouddn.com/279b378ccfbf0926d0cf2bf5741b29ea.jpg'
+header-img: 'cdn.apframework.com/279b378ccfbf0926d0cf2bf5741b29ea.jpg'
 header-mask: 0.4
 tags: 领域驱动
 ---
@@ -16,7 +16,7 @@ tags: 领域驱动
 
 一个完整的燃尽图。一般来说，燃尽图可按照下列内容来理解：
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/acb26ea73535be3715417fa120788513.jpg)
+![](http://cdn.apframework.com/acb26ea73535be3715417fa120788513.jpg)
 
 * X-Axis：The project/iteration timeline（项目/迭代时间表）
 * Y-Axis：The work that needs to be completed for the project. The time or story point estimates for the work remaining will be represented by this axis.（该项目需要完成的工作。剩余作品的时间或故事点估计将由此轴表示。）
@@ -31,7 +31,7 @@ tags: 领域驱动
 
 燃尽图可以用在Sprint中，也可以用在Epic中。
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/c5685ae301083376d7b1f77e8d35a74b.jpg)
+![](http://cdn.apframework.com/c5685ae301083376d7b1f77e8d35a74b.jpg)
 
 这个表中我们可以看到：
 
@@ -43,7 +43,7 @@ tags: 领域驱动
 
 很多时候，会发现和想象的不一样，比如：新的需求义无反顾的来了，理想太丰满现实完不成工期了，再或者在老板的重压下团队效率大爆发了……
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/be93781d2cbe13d5ca87c0027835d515.jpg)
+![](http://cdn.apframework.com/be93781d2cbe13d5ca87c0027835d515.jpg)
 
 可以看出，实际项目中有时会添加任务，为了满足项目周期，可以删除部分任务也可以添加人员，满足项目周期需求。
 
@@ -51,27 +51,27 @@ tags: 领域驱动
 
 优秀团队的燃尽图，不需要干预
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/938803eea95394175f3e3e3d9b139286.jpg)
+![](http://cdn.apframework.com/938803eea95394175f3e3e3d9b139286.jpg)
 
 deadline 驱动团队的燃尽图，满足里程碑任务，但是最后需要付出努力
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/347a21fb31bc94275a269c919e9e7b06.jpg)
+![](http://cdn.apframework.com/347a21fb31bc94275a269c919e9e7b06.jpg)
 
 太快了团队的燃尽图，任务估算不准确
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/d27f916a5ba029336a113222f1b610d6.jpg)
+![](http://cdn.apframework.com/d27f916a5ba029336a113222f1b610d6.jpg)
 
 太迟了团队的燃尽图，任务难度或者工作量估算不足
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/da65c63032810c9f9ba5baa0914bcc72.jpg)
+![](http://cdn.apframework.com/da65c63032810c9f9ba5baa0914bcc72.jpg)
 
 形式化的燃尽图（未真正使用），检查的时候更新一下
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/268f1121327febcf89436abb5726eb28.jpg)
+![](http://cdn.apframework.com/268f1121327febcf89436abb5726eb28.jpg)
 
 上天团队的燃尽图，任务数量或者工作内容估算不足
 
-![](http://qjy1xw2zw.hn-bkt.clouddn.com/d8629464ab9ae9310c47d182d61c0664.jpg)
+![](http://cdn.apframework.com/d8629464ab9ae9310c47d182d61c0664.jpg)
 
 
 
