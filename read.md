@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[物哀](https://book.douban.com/subject/35157160/)<br>时间：2020-11-21<br>出版：2020-12<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：日本文化；美学；日本文学 | ![](https://img3.doubanio.com/mpic/s33727390.jpg) |
 | 名称：[干就对了](https://book.douban.com/subject/35222618/)<br>时间：2020-11-20<br>出版：2020-10-12<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：管理；销售；阿里 | ![](https://img9.doubanio.com/mpic/s33735986.jpg) |
 | 名称：[浓缩睡眠法](https://book.douban.com/subject/35221829/)<br>时间：2020-11-20<br>出版：2020-10<br>豆瓣：7.1/10<br>个人：4/5<br>Tags：改善睡眠质量；睡眠；高效休息 | ![](https://img3.doubanio.com/mpic/s33735421.jpg) |
 | 名称：[六西格玛管理学](https://book.douban.com/subject/24882514/)<br>时间：2020-11-19<br>出版：2013-8-1<br>豆瓣：7.2/10<br>个人：4/5<br>Tags：管理；经营管理；团队管理 | ![](https://img3.doubanio.com/mpic/s27033690.jpg) |
