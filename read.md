@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[云原生](https://book.douban.com/subject/35069167/)<br>时间：2020-11-24<br>出版：<br>豆瓣：8.0/10<br>个人：3/5<br>Tags：云计算；云原生应用；2020 | ![](https://img9.doubanio.com/mpic/s33691586.jpg) |
 | 名称：[穿透](https://book.douban.com/subject/35217670/)<br>时间：2020-11-23<br>出版：2020-11<br>豆瓣：7.1/10<br>个人：4/5<br>Tags：社会学；严飞；理想国 | ![](https://img9.doubanio.com/mpic/s33734444.jpg) |
 | 名称：[物哀](https://book.douban.com/subject/35157160/)<br>时间：2020-11-21<br>出版：2020-12<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：日本文化；美学；日本文学 | ![](https://img3.doubanio.com/mpic/s33727390.jpg) |
 | 名称：[干就对了](https://book.douban.com/subject/35222618/)<br>时间：2020-11-20<br>出版：2020-10-12<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：管理；销售；阿里 | ![](https://img9.doubanio.com/mpic/s33735986.jpg) |
