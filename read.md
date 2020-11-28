@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[DevOps精要：业务视角](https://book.douban.com/subject/35103584/)<br>时间：2020-11-29<br>出版：<br>豆瓣：0.0/10<br>个人：3/5<br>Tags：DevOps；持续交付；akb | ![](https://img2.doubanio.com/mpic/s33742052.jpg) |
 | 名称：[少做一点不会死](https://book.douban.com/subject/26703405/)<br>时间：2020-11-29<br>出版：2016-1-1<br>豆瓣：6.9/10<br>个人：3/5<br>Tags：时间管理；自我管理；个人管理 | ![](https://img9.doubanio.com/mpic/s28378255.jpg) |
 | 名称：[学习高手](https://book.douban.com/subject/35178429/)<br>时间：2020-11-25<br>出版：2020-9-1<br>豆瓣：7.2/10<br>个人：4/5<br>Tags：学习方法；学习；李柘远 | ![](https://img9.doubanio.com/mpic/s33705224.jpg) |
 | 名称：[云原生](https://book.douban.com/subject/35069167/)<br>时间：2020-11-24<br>出版：<br>豆瓣：8.0/10<br>个人：3/5<br>Tags：云计算；云原生应用；2020 | ![](https://img9.doubanio.com/mpic/s33691586.jpg) |
