@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[世界前沿技术发展报告2020](https://book.douban.com/subject/35157499/)<br>时间：2020-12-01<br>出版：2020-7<br>豆瓣：8.1/10<br>个人：4/5<br>Tags：产业；技术；前沿技术 | ![](https://img2.doubanio.com/mpic/s33707483.jpg) |
 | 名称：[云原生模式](https://book.douban.com/subject/35169075/)<br>时间：2020-11-30<br>出版：2020-8<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：架构；云原生；计算机 | ![](https://img1.doubanio.com/mpic/s33700189.jpg) |
 | 名称：[DevOps精要：业务视角](https://book.douban.com/subject/35103584/)<br>时间：2020-11-29<br>出版：<br>豆瓣：0.0/10<br>个人：3/5<br>Tags：DevOps；持续交付；akb | ![](https://img2.doubanio.com/mpic/s33742052.jpg) |
 | 名称：[少做一点不会死](https://book.douban.com/subject/26703405/)<br>时间：2020-11-29<br>出版：2016-1-1<br>豆瓣：6.9/10<br>个人：3/5<br>Tags：时间管理；自我管理；个人管理 | ![](https://img9.doubanio.com/mpic/s28378255.jpg) |
