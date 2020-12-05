@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[可伸缩架构（第2版）：云环境下的高可用与风险管理](https://book.douban.com/subject/35178755/)<br>时间：2020-12-05<br>出版：2020-9<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：软件架构；计算机；架构 | ![](https://img1.doubanio.com/mpic/s33705559.jpg) |
 | 名称：[现代API](https://book.douban.com/subject/30333810/)<br>时间：2020-12-04<br>出版：2018-8-1<br>豆瓣：0.0/10<br>个人：3/5<br>Tags：计算机；架构；服务 | ![](https://img2.doubanio.com/mpic/s29877283.jpg) |
 | 名称：[蚂蚁金服](https://book.douban.com/subject/27004031/)<br>时间：2020-12-03<br>出版：2017-4-7<br>豆瓣：6.9/10<br>个人：4/5<br>Tags：互联网金融；蚂蚁金服；阿里巴巴 | ![](https://img9.doubanio.com/mpic/s29409046.jpg) |
 | 名称：[实用软件架构](https://book.douban.com/subject/26948187/)<br>时间：2020-12-02<br>出版：2016-12<br>豆瓣：6.2/10<br>个人：2/5<br>Tags：架构；软件工程；软件架构 | ![](https://img9.doubanio.com/mpic/s29260066.jpg) |
