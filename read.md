@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[认知颠覆](https://book.douban.com/subject/30378654/)<br>时间：2020-12-11<br>出版：2018-11-1<br>豆瓣：7.6/10<br>个人：3/5<br>Tags：思维；个人成长；认知 | ![](https://img2.doubanio.com/mpic/s29922782.jpg) |
 | 名称：[禅与摩托车维修艺术](https://book.douban.com/subject/6811366/)<br>时间：2020-12-10<br>出版：2011-9<br>豆瓣：8.3/10<br>个人：5/5<br>Tags：哲学；美国；科学技术哲学 | ![](https://img9.doubanio.com/mpic/s6927676.jpg) |
 | 名称：[数据中台实战：手把手教你搭建数据中台](https://book.douban.com/subject/35192981/)<br>时间：2020-12-07<br>出版：2020-10<br>豆瓣：6.0/10<br>个人：3/5<br>Tags：数据中台；大数据；产品经理 | ![](https://img1.doubanio.com/mpic/s33713409.jpg) |
 | 名称：[斯坦福大学创业成长课](https://book.douban.com/subject/26770999/)<br>时间：2020-12-08<br>出版：2016-4<br>豆瓣：7.8/10<br>个人：3/5<br>Tags：创业；李笑来；商业 | ![](https://img2.doubanio.com/mpic/s28622163.jpg) |
