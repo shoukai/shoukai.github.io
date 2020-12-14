@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[Vue.js从入门到项目实战](https://book.douban.com/subject/33416553/)<br>时间：2020-12-15<br>出版：<br>豆瓣：5.3/10<br>个人：2/5<br>Tags：Vue.js；前端开发；vue | ![](https://img9.doubanio.com/mpic/s33452636.jpg) |
 | 名称：[中台架构与实现](https://book.douban.com/subject/35235992/)<br>时间：2020-12-14<br>出版：2020-10<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：架构；中台；DDD | ![](https://img9.doubanio.com/mpic/s33746235.jpg) |
 | 名称：[认知颠覆](https://book.douban.com/subject/30378654/)<br>时间：2020-12-11<br>出版：2018-11-1<br>豆瓣：7.6/10<br>个人：3/5<br>Tags：思维；个人成长；认知 | ![](https://img2.doubanio.com/mpic/s29922782.jpg) |
 | 名称：[禅与摩托车维修艺术](https://book.douban.com/subject/6811366/)<br>时间：2020-12-10<br>出版：2011-9<br>豆瓣：8.3/10<br>个人：5/5<br>Tags：哲学；美国；科学技术哲学 | ![](https://img9.doubanio.com/mpic/s6927676.jpg) |
