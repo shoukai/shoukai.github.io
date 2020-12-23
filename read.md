@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[罗织经](https://book.douban.com/subject/4742327/)<br>时间：2020-12-23<br>出版：2010-3<br>豆瓣：7.9/10<br>个人：4/5<br>Tags：权谋；谋略；历史 | ![](https://img3.doubanio.com/mpic/s6154290.jpg) |
 | 名称：[中国城市大洗牌](https://book.douban.com/subject/34887287/)<br>时间：2020-12-18<br>出版：2020-1-1<br>豆瓣：7.4/10<br>个人：3/5<br>Tags：城市发展；区域经济；中国 | ![](https://img9.doubanio.com/mpic/s33571245.jpg) |
 | 名称：[向上管理](https://book.douban.com/subject/26596465/)<br>时间：2020-12-17<br>出版：2015-7<br>豆瓣：7.6/10<br>个人：3/5<br>Tags：职场；工作汇报；管理 | ![](https://img1.doubanio.com/mpic/s28280229.jpg) |
 | 名称：[你也是蘑菇吗](https://book.douban.com/subject/26832933/)<br>时间：2020-12-16<br>出版：2016-8-1<br>豆瓣：5.7/10<br>个人：3/5<br>Tags：心理学；精神病心理；心理 | ![](https://img2.doubanio.com/mpic/s29237552.jpg) |
