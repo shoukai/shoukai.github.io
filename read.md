@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+25 | 名称：[中台产品经理宝典：从业务建模到中台设计全攻略](https://book.douban.com/subject/35093361/)<br>时间：2020-12-25<br>出版：2020-6<br>豆瓣：7.3/10<br>个人：3/5<br>Tags：中台；产品经理；互联网 | ![](https://img2.doubanio.com/mpic/s33662212.jpg) |
 | 名称：[罗织经](https://book.douban.com/subject/4742327/)<br>时间：2020-12-23<br>出版：2010-3<br>豆瓣：7.9/10<br>个人：4/5<br>Tags：权谋；谋略；历史 | ![](https://img3.doubanio.com/mpic/s6154290.jpg) |
 | 名称：[中国城市大洗牌](https://book.douban.com/subject/34887287/)<br>时间：2020-12-18<br>出版：2020-1-1<br>豆瓣：7.4/10<br>个人：3/5<br>Tags：城市发展；区域经济；中国 | ![](https://img9.doubanio.com/mpic/s33571245.jpg) |
 | 名称：[向上管理](https://book.douban.com/subject/26596465/)<br>时间：2020-12-17<br>出版：2015-7<br>豆瓣：7.6/10<br>个人：3/5<br>Tags：职场；工作汇报；管理 | ![](https://img1.doubanio.com/mpic/s28280229.jpg) |
