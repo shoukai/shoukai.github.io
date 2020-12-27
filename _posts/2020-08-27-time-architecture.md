@@ -23,6 +23,9 @@ tags: 读书笔记
 
 ![](http://cdn.apframework.com/f8d5f17763d2563f439d1d16bcf17d13.jpg)
 
+常用性能数据
+
+![](http://cdn.apframework.com/1d4d1d57c4e008ab870cf7c00e738e12.jpg)
 
 资料：
 
