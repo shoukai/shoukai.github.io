@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[Mindfulness in Plain English](https://book.douban.com/subject/6788495/)<br>时间：2020-12-30<br>出版：2011-9-6<br>豆瓣：8.6/10<br>个人：4/5<br>Tags：禅修；冥想；mindfulness | ![](https://img2.doubanio.com/mpic/s29629812.jpg) |
 | 名称：[RocketMQ分布式消息中间件：核心原理与最佳实践](https://book.douban.com/subject/35169072/)<br>时间：2020-12-29<br>出版：2020-7<br>豆瓣：6.9/10<br>个人：4/5<br>Tags：MQ；消息中间件；技术 | ![](https://img9.doubanio.com/mpic/s33700186.jpg) |
 | 名称：[活出生命的意义](https://book.douban.com/subject/5330333/)<br>时间：2020-12-27<br>出版：2010-6<br>豆瓣：8.5/10<br>个人：5/5<br>Tags：心理学；人生；意义疗法 | ![](https://img2.doubanio.com/mpic/s6235123.jpg) |
 25 | 名称：[中台产品经理宝典：从业务建模到中台设计全攻略](https://book.douban.com/subject/35093361/)<br>时间：2020-12-25<br>出版：2020-6<br>豆瓣：7.3/10<br>个人：3/5<br>Tags：中台；产品经理；互联网 | ![](https://img2.doubanio.com/mpic/s33662212.jpg) |
