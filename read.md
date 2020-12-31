@@ -8,6 +8,13 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 我的阅读
 
 ----
+### 2021
+----
+
+| --- | --- |
+| 名称：[SAFe 4.0参考指南](https://book.douban.com/subject/27170497/)<br>时间：2020-01-01<br>出版：2017-4-1<br>豆瓣：8.4/10<br>个人：4/5<br>Tags：敏捷；规模化敏捷；软件工程 | ![](https://img9.doubanio.com/mpic/s29578355.jpg) |
+
+----
 ### 2020
 ----
 
