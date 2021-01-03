@@ -19,6 +19,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[UML精粹](https://book.douban.com/subject/10798193/)<br>时间：2021-01-03<br>出版：2012-6<br>豆瓣：8.1/10<br>个人：4/5<br>Tags：UML；软件工程；面向对象 | ![](https://img9.doubanio.com/mpic/s11335615.jpg) |
 | 名称：[Mindfulness in Plain English](https://book.douban.com/subject/6788495/)<br>时间：2020-12-30<br>出版：2011-9-6<br>豆瓣：8.6/10<br>个人：4/5<br>Tags：禅修；冥想；mindfulness | ![](https://img2.doubanio.com/mpic/s29629812.jpg) |
 | 名称：[RocketMQ分布式消息中间件：核心原理与最佳实践](https://book.douban.com/subject/35169072/)<br>时间：2020-12-29<br>出版：2020-7<br>豆瓣：6.9/10<br>个人：4/5<br>Tags：MQ；消息中间件；技术 | ![](https://img9.doubanio.com/mpic/s33700186.jpg) |
 | 名称：[活出生命的意义](https://book.douban.com/subject/5330333/)<br>时间：2020-12-27<br>出版：2010-6<br>豆瓣：8.5/10<br>个人：5/5<br>Tags：心理学；人生；意义疗法 | ![](https://img2.doubanio.com/mpic/s6235123.jpg) |
