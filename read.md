@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[一本书掌握会计实务（全新修订版）](https://book.douban.com/subject/35195550/)<br>时间：2021-01-30<br>出版：2020-9<br>豆瓣：0.0/10<br>个人：4/5<br>Tags： | ![](https://img9.doubanio.com/mpic/s33715746.jpg) |
 | 名称：[一本书读懂财务管理](https://book.douban.com/subject/34943829/)<br>时间：2021-01-29<br>出版：<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：财务管理；会计 | ![](https://img9.doubanio.com/mpic/s33556916.jpg) |
 | 名称：[支付平台架构：业务、规划、设计与实现](https://book.douban.com/subject/35216263/)<br>时间：2021-01-13<br>出版：2020-9<br>豆瓣：5.0/10<br>个人：3/5<br>Tags：架构；支付；计算机 | ![](https://img9.doubanio.com/mpic/s33731674.jpg) |
 | 名称：[正念禅修](https://book.douban.com/subject/23037911/)<br>时间：2021-01-12<br>出版：2013-3<br>豆瓣：8.8/10<br>个人：4/5<br>Tags：正念；禅修；心理学 | ![](https://img3.doubanio.com/mpic/s26040040.jpg) |
