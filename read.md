@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[如何阅读一本书](https://book.douban.com/subject/1013208/)<br>时间：2021-02-02<br>出版：2004-1<br>豆瓣：8.4/10<br>个人：5/5<br>Tags：阅读方法；阅读；如何阅读一本书 | ![](https://img1.doubanio.com/mpic/s1670978.jpg) |
 | 名称：[超简单！一学就懂的财务报表](https://book.douban.com/subject/26394551/)<br>时间：2021-01-31<br>出版：2015-2-1<br>豆瓣：8.9/10<br>个人：5/5<br>Tags：财务；会计；漫画 | ![](https://img2.doubanio.com/mpic/s28077163.jpg) |
 | 名称：[财务报表一本通：学得会、用得上的财报分析技巧](https://book.douban.com/subject/34851954/)<br>时间：2021-01-31<br>出版：<br>豆瓣：0.0/10<br>个人：4/5<br>Tags：财务；财会知识 | ![](https://img1.doubanio.com/f/shire/5522dd1f5b742d1e1394a17f44d590646b63871d/pics/book-default-lpic.gif) |
 | 名称：[一本书掌握会计实务（全新修订版）](https://book.douban.com/subject/35195550/)<br>时间：2021-01-30<br>出版：2020-9<br>豆瓣：0.0/10<br>个人：4/5<br>Tags： | ![](https://img9.doubanio.com/mpic/s33715746.jpg) |
