@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[掌控谈话](https://book.douban.com/subject/30358753/)<br>时间：2021-02-04<br>出版：2018-10-1<br>豆瓣：8.2/10<br>个人：4/5<br>Tags：沟通；谈判；心理学 | ![](https://img3.doubanio.com/mpic/s29944760.jpg) |
 | 名称：[EDGE：价值驱动的数字化转型](https://book.douban.com/subject/35228954/)<br>时间：2021-02-03<br>出版：2020-9-1<br>豆瓣：7.6/10<br>个人：4/5<br>Tags：数字化；管理；敏捷 | ![](https://img9.doubanio.com/mpic/s33754324.jpg) |
 | 名称：[如何阅读一本书](https://book.douban.com/subject/1013208/)<br>时间：2021-02-02<br>出版：2004-1<br>豆瓣：8.4/10<br>个人：5/5<br>Tags：阅读方法；阅读；如何阅读一本书 | ![](https://img1.doubanio.com/mpic/s1670978.jpg) |
 | 名称：[超简单！一学就懂的财务报表](https://book.douban.com/subject/26394551/)<br>时间：2021-01-31<br>出版：2015-2-1<br>豆瓣：8.9/10<br>个人：5/5<br>Tags：财务；会计；漫画 | ![](https://img2.doubanio.com/mpic/s28077163.jpg) |
