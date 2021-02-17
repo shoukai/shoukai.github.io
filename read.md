@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[小狗钱钱](https://book.douban.com/subject/3576486/)<br>时间：2021-02-17<br>出版：2009-2-1<br>豆瓣：9.1/10<br>个人：4/5<br>Tags：理财；投资理财；教育 | ![](https://img2.doubanio.com/mpic/s6530133.jpg) |
 | 名称：[未来呼啸而来](https://book.douban.com/subject/35272152/)<br>时间：2021-02-16<br>出版：2021-1-5<br>豆瓣：7.7/10<br>个人：4/5<br>Tags：商业；未来学；互联网 | ![](https://img1.doubanio.com/mpic/s33783047.jpg) |
 | 名称：[精益商业思维](https://book.douban.com/subject/34990216/)<br>时间：2021-02-09<br>出版：2020-3<br>豆瓣：8.2/10<br>个人：4/5<br>Tags：商业；创业；精益创业 | ![](https://img2.doubanio.com/mpic/s33591673.jpg) |
 | 名称：[运营的秘密：解码大公司的运营方法论](https://book.douban.com/subject/30173889/)<br>时间：2021-02-08<br>出版：2018-3<br>豆瓣：7.6/10<br>个人：4/5<br>Tags：运营；互联网思维；商业运营 | ![](https://img3.doubanio.com/mpic/s29718451.jpg) |
