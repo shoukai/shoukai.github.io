@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[认识商业（原书第12版）](https://book.douban.com/subject/35152293/)<br>时间：2021-02-24<br>出版：2020-8<br>豆瓣：8.9/10<br>个人：5/5<br>Tags：商业；经济学；管理 | ![](https://img2.doubanio.com/mpic/s33693121.jpg) |
 | 名称：[SaaS创业路线图](https://book.douban.com/subject/35079444/)<br>时间：2021-02-21<br>出版：2020-5<br>豆瓣：8.5/10<br>个人：4/5<br>Tags：互联网；产品经理；创业 | ![](https://img2.doubanio.com/mpic/s33651874.jpg) |
 | 名称：[生而不凡](https://book.douban.com/subject/30289880/)<br>时间：2021-02-20<br>出版：2018-8<br>豆瓣：7.5/10<br>个人：4/5<br>Tags：自我成长；思维；个人成长 | ![](https://img2.doubanio.com/mpic/s29861551.jpg) |
 | 名称：[价值](https://book.douban.com/subject/35188914/)<br>时间：2021-02-19<br>出版：2020-9-2<br>豆瓣：7.4/10<br>个人：4/5<br>Tags：投资；价值投资；张磊 | ![](https://img2.doubanio.com/mpic/s33716660.jpg) |
