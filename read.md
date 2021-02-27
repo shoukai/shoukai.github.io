@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[营销和服务数字化转型](https://book.douban.com/subject/35133884/)<br>时间：2021-02-27<br>出版：2020-6<br>豆瓣：0/10<br>个人：3/5<br>Tags：营销；数字化；实用  | ![](https://img2.doubanio.com/mpic/s33683584.jpg) |
 | 名称：[毛泽东选集 第二卷](https://book.douban.com/subject/1125026/)<br>时间：2021-02-26<br>出版：1991-6<br>豆瓣：9.3/10<br>个人：5/5<br>Tags：毛泽东；毛泽东选集；政治  | ![](https://img2.doubanio.com/mpic/s1341342.jpg) |
 | 名称：[编程的逻辑](https://book.douban.com/subject/35192977/)<br>时间：2021-02-25<br>出版：2020-9<br>豆瓣：0/10<br>个人：4/5<br>Tags：架构；软件工程；计算机  | ![](https://img2.doubanio.com/mpic/s33713405.jpg) |
 | 名称：[认识商业（原书第12版）](https://book.douban.com/subject/35152293/)<br>时间：2021-02-24<br>出版：2020-8<br>豆瓣：8.9/10<br>个人：5/5<br>Tags：商业；经济学；管理 | ![](https://img2.doubanio.com/mpic/s33693121.jpg) |
