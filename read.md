@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[清晨领导力：新经理人的50个领导力修炼](https://book.douban.com/subject/35157189/)<br>时间：2021-03-02<br>出版：2020-9<br>豆瓣：8.3/10<br>个人：3/5<br>Tags：领导力；管理；成长  | ![](https://img2.doubanio.com/mpic/s33695670.jpg) |
 | 名称：[Spring实战（第5版 ）](https://book.douban.com/subject/34949443/)<br>时间：2021-03-01<br>出版：2020-2<br>豆瓣：6.5/10<br>个人：4/5<br>Tags：Java；Spring；计算机  | ![](https://img2.doubanio.com/mpic/s33601406.jpg) |
 | 名称：[操作系统之哲学原理(第2版)](https://book.douban.com/subject/10528447/)<br>时间：2021-02-28<br>出版：2012-3<br>豆瓣：8.3/10<br>个人：3/5<br>Tags：操作系统；计算机；计算机科学  | ![](https://img2.doubanio.com/mpic/s8933839.jpg) |
 | 名称：[营销和服务数字化转型](https://book.douban.com/subject/35133884/)<br>时间：2021-02-27<br>出版：2020-6<br>豆瓣：0/10<br>个人：3/5<br>Tags：营销；数字化；实用  | ![](https://img2.doubanio.com/mpic/s33683584.jpg) |
