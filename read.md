@@ -12,7 +12,8 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
-| 名称：[如何高效学习](https://book.douban.com/subject/25783654/)<br>时间：2021-03-05<br>出版：2013-12<br>豆瓣：8.3/10<br>个人：3/5<br>Tags：学习方法；学习；方法论  | ![](https://img2.doubanio.com/mpic/s27172838.jpg) |
+| 名称：[现代操作系统（原书第4版）](https://book.douban.com/subject/27096665/)<br>时间：2021-03-06<br>出版：2017-7<br>豆瓣：9.1/10<br>个人：3/5<br>
+| 名称：[如何高效学习](https://book.douban.com/subject/25783654/)<br>时间：2021-03-05<br>出版：2013-12<br>豆瓣：7.4/10<br>个人：3/5<br>Tags：学习方法；学习；方法论  | ![](https://img2.doubanio.com/mpic/s27172838.jpg) |
 | 名称：[数字化转型方法论](https://book.douban.com/subject/35282627/)<br>时间：2021-03-04<br>出版：2021-1<br>豆瓣：0/10<br>个人：3/5<br>Tags：数字化；企业；管理学；  | ![](https://img2.doubanio.com/mpic/s33784842.jpg) |
 | 名称：[一本书读懂数字化转型](https://book.douban.com/subject/35277136/)<br>时间：2021-03-03<br>出版：2020-12<br>豆瓣：0/10<br>个人：3/5<br>Tags：数字化；新零售；其他 | ![](https://img2.doubanio.com/mpic/s33771770.jpg) |
 | 名称：[清晨领导力：新经理人的50个领导力修炼](https://book.douban.com/subject/35157189/)<br>时间：2021-03-02<br>出版：2020-9<br>豆瓣：8.3/10<br>个人：3/5<br>Tags：领导力；管理；成长  | ![](https://img2.doubanio.com/mpic/s33695670.jpg) |
