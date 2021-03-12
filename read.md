@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[工薪族财务自由说明书](https://book.douban.com/subject/35157448/)<br>时间：2021-03-12<br>出版：2020-7<br>豆瓣：7.6/10<br>个人：3/5<br>Tags：理财；财务自由；投资理财 | ![](https://img2.doubanio.com/mpic/s33695847.jpg) |
 | 名称：[AB测试](https://book.douban.com/subject/33398229/)<br>时间：2021-03-11<br>出版：2019-1<br>豆瓣：6.2/10<br>个人：3/5<br>Tags：互联网、方法论、数据分析 | ![](https://img2.doubanio.com/mpic/s32290483.jpg) |
 | 名称：[王阳明心学口诀](https://book.douban.com/subject/35368266/)<br>时间：2021-03-10<br>出版：2021-3<br>豆瓣：0/10<br>个人：4/5<br>Tags：哲学  | ![](https://img2.doubanio.com/mpic/s33843413.jpg) |
 | 名称：[高效休息法](https://book.douban.com/subject/35385403/)<br>时间：2021-03-09<br>出版：2021-3<br>豆瓣：0/10<br>个人：3/5<br>Tags：心理学；好书，值得一读  | ![](https://img2.doubanio.com/mpic/s33843885.jpg) |
