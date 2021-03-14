@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[人生十二法则](https://book.douban.com/subject/34870933/)<br>时间：2021-03-14<br>出版：2019-11<br>豆瓣：7.6/10<br>个人：3/5<br>Tags：自我管理；心理学；个人管理 | ![](https://img2.doubanio.com/mpic/s33529549.jpg) |
 | 名称：[增广贤文](https://book.douban.com/subject/30824817/)<br>时间：2021-03-13<br>出版：2018<br>豆瓣：8.3/10<br>个人：4/5<br>Tags：经典；中国；2021 | ![](https://img2.doubanio.com/mpic/s33796357.jpg) |
 | 名称：[工薪族财务自由说明书](https://book.douban.com/subject/35157448/)<br>时间：2021-03-12<br>出版：2020-7<br>豆瓣：7.6/10<br>个人：3/5<br>Tags：理财；财务自由；投资理财 | ![](https://img2.doubanio.com/mpic/s33695847.jpg) |
 | 名称：[AB测试](https://book.douban.com/subject/33398229/)<br>时间：2021-03-11<br>出版：2019-1<br>豆瓣：6.2/10<br>个人：3/5<br>Tags：互联网、方法论、数据分析 | ![](https://img2.doubanio.com/mpic/s32290483.jpg) |
