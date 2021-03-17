@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[七分刚刚好](https://book.douban.com/subject/27186055/)<br>时间：2021-03-17<br>出版：2017-11<br>豆瓣：7.3/10<br>个人：4/5<br>Tags：生活方式；生活态度；日本； | ![](https://img2.doubanio.com/mpic/s29595533.jpg) |
 | 名称：[学习力：颠覆职场学习的高效方法](https://book.douban.com/subject/30354703/)<br>时间：2021-03-16<br>出版：2018-10<br>豆瓣：7.7/10<br>个人：3/5<br>Tags：学习方法；学习；个人成长； | ![](https://img2.doubanio.com/mpic/s29898591.jpg) |
 | 名称：[京东敏捷实践指南](https://book.douban.com/subject/35013259/)<br>时间：2021-03-15<br>出版：2020-1<br>豆瓣：7.0/10<br>个人：3/5<br>Tags：项目管理；敏捷；敏捷开发； | ![](https://img2.doubanio.com/mpic/s33675015.jpg) |
 | 名称：[人生十二法则](https://book.douban.com/subject/34870933/)<br>时间：2021-03-14<br>出版：2019-11<br>豆瓣：7.6/10<br>个人：3/5<br>Tags：自我管理；心理学；个人管理 | ![](https://img2.doubanio.com/mpic/s33529549.jpg) |
