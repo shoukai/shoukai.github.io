@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[Kubernetes生产化实践之路](https://book.douban.com/subject/35268764/)<br>时间：2021-03-29<br>出版：2020-11<br>豆瓣：7.7/10<br>个人：未评分<br>Tags：计算机；分布式；程序设计 | ![](https://img2.doubanio.com/mpic/s33766701.jpg) |
 | 名称：[可复制的沟通力](https://book.douban.com/subject/35065103)<br>时间：2021-03-28<br>出版：2020-5<br>豆瓣：6.7/10<br>个人：未评分<br>Tags：沟通；人际关系；社交 | ![](https://img2.doubanio.com/mpic/s33644373.jpg) |
 | 名称：[谢谢你](https://book.douban.com/subject/26301626)<br>时间：2021-03-27<br>出版：2020-6<br>豆瓣：7.4/10<br>个人：未评分<br>Tags：松浦弥太郎；生活；日本 | ![](https://img2.doubanio.com/mpic/s33639418.jpg) |
 | 名称：[支付方法论](https://book.douban.com/subject/35350745/)<br>时间：2021-03-20<br>出版：2021-1<br>豆瓣：7.1/10<br>个人：5/5<br>Tags：金融；产品经理；好书，值得一读； | ![](https://img2.doubanio.com/mpic/s33821051.jpg) |
