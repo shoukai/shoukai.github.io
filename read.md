@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[让时间陪你慢慢变富](https://book.douban.com/subject/34906885/)<br>时间：2021-04-02<br>出版：2020-1<br>豆瓣：7.3/10<br>个人：未评分<br>Tags：李笑来；定投；投资理财 | ![](https://img2.doubanio.com/mpic/s33531872.jpg) |
 | 名称：[Istio入门与实战](https://book.douban.com/subject/33440434/)<br>时间：2021-04-01<br>出版：2019-4-1<br>豆瓣：/10<br>个人：未评分<br>Tags：云计算 | ![](https://img2.doubanio.com/mpic/s32330898.jpg) |
 | 名称：[戒糖](https://book.douban.com/subject/35219154/)<br>时间：2021-03-31<br>出版：2020-9<br>豆瓣：7.8/10<br>个人：未评分<br>Tags：健康；饮食；营养学 | ![](https://img2.doubanio.com/mpic/s33837952.jpg) |
 | 名称：[给年轻人的极简金融课](https://book.douban.com/subject/33455797/)<br>时间：2021-03-30<br>出版：2019-5<br>豆瓣：7.2/10<br>个人：未评分<br>Tags：金融；经济学；学习 | ![](https://img2.doubanio.com/mpic/s33560558.jpg) |
