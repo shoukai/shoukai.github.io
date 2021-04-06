@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[领导梯队](https://book.douban.com/subject/6536593/)<br>时间：2021-04-06<br>出版：2011-7<br>豆瓣：8.3/10<br>个人：未评分<br>Tags：管理；领导力；企业管理 | ![](https://img2.doubanio.com/mpic/s6522971.jpg) |
 | 名称：[XMind：用好思维导图走上开挂人生](https://book.douban.com/subject/35349296/)<br>时间：2021-04-05<br>出版：2021-2<br>豆瓣：6.9/10<br>个人：未评分<br>Tags：思维导图；思维；方法论 | ![](https://img2.doubanio.com/mpic/s33819323.jpg) |
 | 名称：[用数据讲故事](https://book.douban.com/subject/27108685/)<br>时间：2021-04-04<br>出版：2017-8<br>豆瓣：8.4/10<br>个人：未评分<br>Tags：数据分析；数据可视化；数据 | ![](https://img2.doubanio.com/mpic/s29512382.jpg) |
 | 名称：[穿越寒冬](https://book.douban.com/subject/34913571/)<br>时间：2021-04-03<br>出版：2020-1<br>豆瓣：7.6/10<br>个人：未评分<br>Tags：创业；商业模式；思维 | ![](https://img2.doubanio.com/mpic/s33536006.jpg) |
