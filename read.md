@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[中层领导力：自我修行篇](https://book.douban.com/subject/27070154/)<br>时间：2021-04-08<br>出版：2017-5-30<br>豆瓣：/10<br>个人：未评分<br>Tags：领导力；经管；读客图书 | ![](https://img2.doubanio.com/mpic/s29476131.jpg) |
 | 名称：[可复制的领导力](https://book.douban.com/subject/27598664/)<br>时间：2021-04-07<br>出版：2017-12<br>豆瓣：7.3/10<br>个人：未评分<br>Tags：领导力；管理；管理学 | ![](https://img2.doubanio.com/mpic/s29630815.jpg) |
 | 名称：[领导梯队](https://book.douban.com/subject/6536593/)<br>时间：2021-04-06<br>出版：2011-7<br>豆瓣：8.3/10<br>个人：未评分<br>Tags：管理；领导力；企业管理 | ![](https://img2.doubanio.com/mpic/s6522971.jpg) |
 | 名称：[XMind：用好思维导图走上开挂人生](https://book.douban.com/subject/35349296/)<br>时间：2021-04-05<br>出版：2021-2<br>豆瓣：6.9/10<br>个人：未评分<br>Tags：思维导图；思维；方法论 | ![](https://img2.doubanio.com/mpic/s33819323.jpg) |
