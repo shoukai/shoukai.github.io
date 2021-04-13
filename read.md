@@ -12,6 +12,7 @@ header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
 ----
 
 | --- | --- |
+| 名称：[极简时间](https://book.douban.com/subject/30403992/)<br>时间：2021-04-13<br>出版：2019-1<br>豆瓣：6.4/10<br>个人：未评分<br>Tags：时间管理；效率；计划 | ![](https://img2.doubanio.com/mpic/s29948938.jpg) |
 | 名称：[生活的哲学](https://book.douban.com/subject/26892222/)<br>时间：2021-04-12<br>出版：2016-11<br>豆瓣：8.0/10<br>个人：未评分<br>Tags：哲学；生活的哲学；心理学 | ![](https://img2.doubanio.com/mpic/s29131226.jpg) |
 | 名称：[你的第一本哲学书](https://book.douban.com/subject/26892991/)<br>时间：2021-04-11<br>出版：2016-12-30<br>豆瓣：8.1/10<br>个人：未评分<br>Tags：哲学；哲学入门；西方哲学 | ![](https://img2.doubanio.com/mpic/s29114780.jpg) |
 | 名称：[乌合之众](https://book.douban.com/subject/26416883/)<br>时间：2021-04-10<br>出版：2015-6<br>豆瓣：8.2/10<br>个人：未评分<br>Tags：心理学；社会心理学；群体心理学 | ![](https://img2.doubanio.com/mpic/s28102600.jpg) |
