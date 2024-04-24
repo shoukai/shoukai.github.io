@@ -12,6 +12,24 @@ header-img: "cdn.apframework.com/8dfb1b86212935379ada7e13483f27d4.jpg"
 ----
 
 | --- | --- |
+| 名称：[极简时间](https://book.douban.com/subject/30403992/)<br>时间：2021-04-13<br>出版：2019-1<br>豆瓣：6.4/10<br>个人：未评分<br>Tags：时间管理；效率；计划 | ![](https://img2.doubanio.com/mpic/s29948938.jpg) |
+| 名称：[生活的哲学](https://book.douban.com/subject/26892222/)<br>时间：2021-04-12<br>出版：2016-11<br>豆瓣：8.0/10<br>个人：未评分<br>Tags：哲学；生活的哲学；心理学 | ![](https://img2.doubanio.com/mpic/s29131226.jpg) |
+| 名称：[你的第一本哲学书](https://book.douban.com/subject/26892991/)<br>时间：2021-04-11<br>出版：2016-12-30<br>豆瓣：8.1/10<br>个人：未评分<br>Tags：哲学；哲学入门；西方哲学 | ![](https://img2.doubanio.com/mpic/s29114780.jpg) |
+| 名称：[乌合之众](https://book.douban.com/subject/26416883/)<br>时间：2021-04-10<br>出版：2015-6<br>豆瓣：8.2/10<br>个人：未评分<br>Tags：心理学；社会心理学；群体心理学 | ![](https://img2.doubanio.com/mpic/s28102600.jpg) |
+| 名称：[管法](https://book.douban.com/subject/20406746/)<br>时间：2021-04-09<br>出版：2013-1<br>豆瓣：7.5/10<br>个人：未评分<br>Tags：管理；职场；稻盛和夫 | ![](https://img2.doubanio.com/mpic/s24472841.jpg) |
+| 名称：[中层领导力：自我修行篇](https://book.douban.com/subject/27070154/)<br>时间：2021-04-08<br>出版：2017-5-30<br>豆瓣：/10<br>个人：未评分<br>Tags：领导力；经管；读客图书 | ![](https://img2.doubanio.com/mpic/s29476131.jpg) |
+| 名称：[可复制的领导力](https://book.douban.com/subject/27598664/)<br>时间：2021-04-07<br>出版：2017-12<br>豆瓣：7.3/10<br>个人：未评分<br>Tags：领导力；管理；管理学 | ![](https://img2.doubanio.com/mpic/s29630815.jpg) |
+| 名称：[领导梯队](https://book.douban.com/subject/6536593/)<br>时间：2021-04-06<br>出版：2011-7<br>豆瓣：8.3/10<br>个人：未评分<br>Tags：管理；领导力；企业管理 | ![](https://img2.doubanio.com/mpic/s6522971.jpg) |
+| 名称：[XMind：用好思维导图走上开挂人生](https://book.douban.com/subject/35349296/)<br>时间：2021-04-05<br>出版：2021-2<br>豆瓣：6.9/10<br>个人：未评分<br>Tags：思维导图；思维；方法论 | ![](https://img2.doubanio.com/mpic/s33819323.jpg) |
+| 名称：[用数据讲故事](https://book.douban.com/subject/27108685/)<br>时间：2021-04-04<br>出版：2017-8<br>豆瓣：8.4/10<br>个人：未评分<br>Tags：数据分析；数据可视化；数据 | ![](https://img2.doubanio.com/mpic/s29512382.jpg) |
+| 名称：[穿越寒冬](https://book.douban.com/subject/34913571/)<br>时间：2021-04-03<br>出版：2020-1<br>豆瓣：7.6/10<br>个人：未评分<br>Tags：创业；商业模式；思维 | ![](https://img2.doubanio.com/mpic/s33536006.jpg) |
+| 名称：[让时间陪你慢慢变富](https://book.douban.com/subject/34906885/)<br>时间：2021-04-02<br>出版：2020-1<br>豆瓣：7.3/10<br>个人：未评分<br>Tags：李笑来；定投；投资理财 | ![](https://img2.doubanio.com/mpic/s33531872.jpg) |
+| 名称：[Istio入门与实战](https://book.douban.com/subject/33440434/)<br>时间：2021-04-01<br>出版：2019-4-1<br>豆瓣：/10<br>个人：未评分<br>Tags：云计算 | ![](https://img2.doubanio.com/mpic/s32330898.jpg) |
+| 名称：[戒糖](https://book.douban.com/subject/35219154/)<br>时间：2021-03-31<br>出版：2020-9<br>豆瓣：7.8/10<br>个人：未评分<br>Tags：健康；饮食；营养学 | ![](https://img2.doubanio.com/mpic/s33837952.jpg) |
+| 名称：[给年轻人的极简金融课](https://book.douban.com/subject/33455797/)<br>时间：2021-03-30<br>出版：2019-5<br>豆瓣：7.2/10<br>个人：未评分<br>Tags：金融；经济学；学习 | ![](https://img2.doubanio.com/mpic/s33560558.jpg) |
+| 名称：[Kubernetes生产化实践之路](https://book.douban.com/subject/35268764/)<br>时间：2021-03-29<br>出版：2020-11<br>豆瓣：7.7/10<br>个人：未评分<br>Tags：计算机；分布式；程序设计 | ![](https://img2.doubanio.com/mpic/s33766701.jpg) |
+| 名称：[可复制的沟通力](https://book.douban.com/subject/35065103)<br>时间：2021-03-28<br>出版：2020-5<br>豆瓣：6.7/10<br>个人：未评分<br>Tags：沟通；人际关系；社交 | ![](https://img2.doubanio.com/mpic/s33644373.jpg) |
+| 名称：[谢谢你](https://book.douban.com/subject/26301626)<br>时间：2021-03-27<br>出版：2020-6<br>豆瓣：7.4/10<br>个人：未评分<br>Tags：松浦弥太郎；生活；日本 | ![](https://img2.doubanio.com/mpic/s33639418.jpg) |
 | 名称：[支付方法论](https://book.douban.com/subject/35350745/)<br>时间：2021-03-20<br>出版：2021-1<br>豆瓣：7.1/10<br>个人：5/5<br>Tags：金融；产品经理；好书，值得一读； | ![](https://img2.doubanio.com/mpic/s33821051.jpg) |
 | 名称：[Jenkins 2.x 实践指南](https://book.douban.com/subject/33407581/)<br>时间：2021-03-19<br>出版：2019-4<br>豆瓣：6.8/10<br>个人：3/5<br>Tags：DevOps；计算机；技术； | ![](https://img2.doubanio.com/mpic/s32290266.jpg) |
 | 名称：[GraphQL学习指南](https://book.douban.com/subject/34447808/)<br>时间：2021-03-18<br>出版：2019-6<br>豆瓣：6.3/10<br>个人：3/5<br>Tags：计算机；编程；数据库； | ![](https://img2.doubanio.com/mpic/s33508763.jpg) |
