@@ -2,10 +2,10 @@
 layout: page
 title: "Read"
 description: "“学”而时习之……"
-header-img: "cdn.apframework.com/60c55ce158e887f362c3b5c15a20ee74.jpg"
+header-img: "cdn.apframework.com/8dfb1b86212935379ada7e13483f27d4.jpg"
 ---
 
-我的阅读
+我的阅读，最新读书进展请访问：[豆瓣-我读过的书](https://book.douban.com/people/74214055/collect)
 
 ----
 ### 2021
