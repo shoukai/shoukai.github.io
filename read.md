@@ -7,6 +7,326 @@ header-img: "cdn.apframework.com/8dfb1b86212935379ada7e13483f27d4.jpg"
 
 我的阅读，最新读书进展请访问：[豆瓣-我读过的书](https://book.douban.com/people/74214055/collect)
 
+
+----
+### 2024
+----
+
+| --- | --- |
+| 名称：[隐藏的潜能](https://book.douban.com/subject/37050594/)<br>时间：2024-11-03<br>出版：2024-10<br>豆瓣：8.3/10<br>个人：4.0<br>Tags：社会科学；成长；心理学； | ![](https://img2.doubanio.com/mpic/s34970542.jpg) |
+| 名称：[自我决定的生活](https://book.douban.com/subject/36919944/)<br>时间：2024-11-03<br>出版：2024-6-30<br>豆瓣：6.8/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34882562.jpg) |
+| 名称：[美味，一口锅就够了](https://book.douban.com/subject/36452397/)<br>时间：2024-11-03<br>出版：null<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34567428.jpg) |
+| 名称：[领域驱动设计工作坊](https://book.douban.com/subject/37008230/)<br>时间：2024-11-03<br>出版：null<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/update_image) |
+| 名称：[使用GitOps实现Kubernetes的持续部署：模式、流程及工具](https://book.douban.com/subject/36238344/)<br>时间：2024-11-03<br>出版：2023-2<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34817577.jpg) |
+| 名称：[精力管理手册](https://book.douban.com/subject/33407073/)<br>时间：2024-11-03<br>出版：2019-4<br>豆瓣：6.3/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s32289813.jpg) |
+| 名称：[奈飞文化手册](https://book.douban.com/subject/30356081/)<br>时间：2024-10-26<br>出版：2018-10<br>豆瓣：8.1/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29923776.jpg) |
+| 名称：[云原生Spring实战](https://book.douban.com/subject/36840079/)<br>时间：2024-10-26<br>出版：null<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34840421.jpg) |
+| 名称：[道德经](https://book.douban.com/subject/36926388/)<br>时间：2024-10-26<br>出版：2024-6-12<br>豆瓣：9.9/10<br>个人：4.0<br>Tags：哲学；文化； | ![](https://img2.doubanio.com/mpic/s34885473.jpg) |
+| 名称：[《道德经》其实很好懂](https://book.douban.com/subject/36366857/)<br>时间：2024-10-26<br>出版：2023-5<br>豆瓣：7.5/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34838761.jpg) |
+| 名称：[习惯革命](https://book.douban.com/subject/37011377/)<br>时间：2024-10-25<br>出版：2024-7<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34939009.jpg) |
+| 名称：[稳赢](https://book.douban.com/subject/36915370/)<br>时间：2024-10-25<br>出版：2024-6-6<br>豆瓣：6.8/10<br>个人：4.0<br>Tags：冯唐； | ![](https://img2.doubanio.com/mpic/s34878310.jpg) |
+| 名称：[风起陇西](https://book.douban.com/subject/36087703/)<br>时间：2024-10-25<br>出版：2022-10<br>豆瓣：6.7/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34363639.jpg) |
+| 名称：[白帝城之夜](https://book.douban.com/subject/36087702/)<br>时间：2024-10-25<br>出版：2022-10<br>豆瓣：6.8/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34363640.jpg) |
+| 名称：[官渡杀人事件](https://book.douban.com/subject/36087701/)<br>时间：2024-10-25<br>出版：2022-10<br>豆瓣：6.6/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34363638.jpg) |
+| 名称：[Kubernetes快速入门（第2版）](https://book.douban.com/subject/36783187/)<br>时间：2024-10-25<br>出版：2024-2<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34793151.jpg) |
+| 名称：[实用行为学](https://book.douban.com/subject/36782678/)<br>时间：2024-10-20<br>出版：2024-4<br>豆瓣：9.1/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34791782.jpg) |
+| 名称：[再也不踩坑的kubernetes实战指南](https://book.douban.com/subject/34836193/)<br>时间：2024-10-20<br>出版：2019-8-1<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33696390.jpg) |
+| 名称：[疯狂的尿酸](https://book.douban.com/subject/36591951/)<br>时间：2024-10-20<br>出版：2023-10-16<br>豆瓣：7.2/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34663428.jpg) |
+| 名称：[不上班咖啡馆](https://book.douban.com/subject/36946567/)<br>时间：2024-10-14<br>出版：2024-7<br>豆瓣：8.4/10<br>个人：5.0<br>Tags：成长；职场；个人管理；人生；心理学； | ![](https://img2.doubanio.com/mpic/s34898349.jpg) |
+| 名称：[AI时代，学什么，怎么学](https://book.douban.com/subject/36904572/)<br>时间：2024-10-14<br>出版：2024-5<br>豆瓣：6.6/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34870465.jpg) |
+| 名称：[渡边淳一·痛苦始于相爱时](https://book.douban.com/subject/35891217/)<br>时间：2024-10-06<br>出版：null<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34758192.jpg) |
+| 名称：[自由职业者生存手册 从零开始开启自由职业之路](https://book.douban.com/subject/36353900/)<br>时间：2024-10-06<br>出版：null<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34497103.jpg) |
+| 名称：[风起陇西](https://book.douban.com/subject/27113800/)<br>时间：2024-10-06<br>出版：2017-10<br>豆瓣：8.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29622061.jpg) |
+| 名称：[企业级数据架构：核心要素、架构模型、数据管理与平台搭建](https://book.douban.com/subject/36802973/)<br>时间：2024-09-28<br>出版：2023-12<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34804494.jpg) |
+| 名称：[产品认知12讲：成为优秀的产品经理](https://book.douban.com/subject/35556289/)<br>时间：2024-09-28<br>出版：null<br>豆瓣：7.7/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34163423.jpg) |
+| 名称：[阳明学的位相](https://book.douban.com/subject/35701352/)<br>时间：2024-09-28<br>出版：2022-7-1<br>豆瓣：9.3/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34290263.jpg) |
+| 名称：[女神](https://book.douban.com/subject/30404020/)<br>时间：2024-09-22<br>出版：2018-12<br>豆瓣：6.6/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29995928.jpg) |
+| 名称：[产品思维](https://book.douban.com/subject/33456375/)<br>时间：2024-09-22<br>出版：2019-6<br>豆瓣：7.1/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33628447.jpg) |
+| 名称：[ToB的本质：行业逻辑与商业运作](https://book.douban.com/subject/36465263/)<br>时间：2024-09-22<br>出版：2023-6-29<br>豆瓣：8.4/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34579041.jpg) |
+| 名称：[英语极简学习法](https://book.douban.com/subject/36223085/)<br>时间：2024-09-22<br>出版：2022-10<br>豆瓣：7.2/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34397828.jpg) |
+| 名称：[极简学习法](https://book.douban.com/subject/35856498/)<br>时间：2024-09-22<br>出版：2022-4-10<br>豆瓣：7.3/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34914446.jpg) |
+| 名称：[开个小店](https://book.douban.com/subject/36634473/)<br>时间：2024-09-22<br>出版：2023-10-30<br>豆瓣：7.3/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34690073.jpg) |
+| 名称：[古董局中局 4](https://book.douban.com/subject/26650970/)<br>时间：2024-09-19<br>出版：2015-12<br>豆瓣：7.2/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s28340239.jpg) |
+| 名称：[SaaS创业路线图2.0](https://book.douban.com/subject/36630392/)<br>时间：2024-09-18<br>出版：2023-11<br>豆瓣：7.4/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34687095.jpg) |
+| 名称：[从0到1：人工智能赋能商业的秘密](https://book.douban.com/subject/35488872/)<br>时间：2024-09-18<br>出版：2021-5<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33916581.jpg) |
+| 名称：[SaaS攻略：入门、实战与进阶](https://book.douban.com/subject/35737205/)<br>时间：2024-09-18<br>出版：2022-1<br>豆瓣：7.4/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34094982.jpg) |
+| 名称：[SaaS产品实践方法论：从0到N构建SaaS产品](https://book.douban.com/subject/36751947/)<br>时间：2024-09-18<br>出版：null<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34771576.jpg) |
+| 名称：[古董局中局3](https://book.douban.com/subject/30218405/)<br>时间：2024-09-18<br>出版：2018-6<br>豆瓣：8.2/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29814659.jpg) |
+| 名称：[CSS选择器世界](https://book.douban.com/subject/34846688/)<br>时间：2024-09-15<br>出版：2019-10-1<br>豆瓣：9.5/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33496218.jpg) |
+| 名称：[CSS世界](https://book.douban.com/subject/27615777/)<br>时间：2024-09-15<br>出版：2017-12<br>豆瓣：7.7/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29651678.jpg) |
+| 名称：[CSS图鉴](https://book.douban.com/subject/35190815/)<br>时间：2024-09-14<br>出版：2020-8-24<br>豆瓣：6.1/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33711879.jpg) |
+| 名称：[古董局中局 2](https://book.douban.com/subject/24882288/)<br>时间：2024-09-11<br>出版：2013-9-1<br>豆瓣：7.4/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s27034669.jpg) |
+| 名称：[古董局中局1](https://book.douban.com/subject/30197854/)<br>时间：2024-09-10<br>出版：2018-5-1<br>豆瓣：7.6/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29814661.jpg) |
+| 名称：[大模型应用开发极简入门](https://book.douban.com/subject/36764820/)<br>时间：2024-09-08<br>出版：2024-2<br>豆瓣：7.0/10<br>个人：3.0<br>Tags：人工智能；AI； | ![](https://img2.doubanio.com/mpic/s34780515.jpg) |
+| 名称：[AI行动方案](https://book.douban.com/subject/36839460/)<br>时间：2024-09-08<br>出版：2024-4<br>豆瓣：6.8/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34826552.jpg) |
+| 名称：[人工智能产品经理：AI时代PM修炼手册（修订版）](https://book.douban.com/subject/36216289/)<br>时间：2024-09-08<br>出版：2023-1<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34393974.jpg) |
+| 名称：[菜根谭](https://book.douban.com/subject/30182770/)<br>时间：2024-09-07<br>出版：2016-8<br>豆瓣：8.2/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29727765.jpg) |
+| 名称：[我与地坛](https://book.douban.com/subject/5910656/)<br>时间：2024-09-07<br>出版：2011-1-1<br>豆瓣：9.3/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s4594868.jpg) |
+| 名称：[萧条中的生存智慧](https://book.douban.com/subject/35058176/)<br>时间：2024-09-07<br>出版：2020-5<br>豆瓣：6.1/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33638130.jpg) |
+| 名称：[中产上海](https://book.douban.com/subject/36864827/)<br>时间：2024-09-07<br>出版：2024-7-1<br>豆瓣：6.2/10<br>个人：3.0<br>Tags：社会学；上海； | ![](https://img2.doubanio.com/mpic/s34917641.jpg) |
+| 名称：[伟大始于无名](https://book.douban.com/subject/36744297/)<br>时间：2024-09-07<br>出版：2024-5<br>豆瓣：5.7/10<br>个人：3.0<br>Tags：商业； | ![](https://img2.doubanio.com/mpic/s35013215.jpg) |
+| 名称：[我为孩子打突围战](https://book.douban.com/subject/36857822/)<br>时间：2024-09-07<br>出版：2024-4-20<br>豆瓣：8.2/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34838481.jpg) |
+| 名称：[六页备忘录](https://book.douban.com/subject/36768799/)<br>时间：2024-09-07<br>出版：2024-1<br>豆瓣：7.8/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34858380.jpg) |
+| 名称：[孩子一生的底气](https://book.douban.com/subject/37003071/)<br>时间：2024-09-07<br>出版：2024-8<br>豆瓣：8.7/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34934911.jpg) |
+| 名称：[马伯庸笑翻中国简史](https://book.douban.com/subject/34879009/)<br>时间：2024-09-07<br>出版：2020-4<br>豆瓣：5.4/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33594978.jpg) |
+| 名称：[长安的荔枝](https://book.douban.com/subject/36104107/)<br>时间：2024-09-06<br>出版：2022-10<br>豆瓣：8.5/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34327482.jpg) |
+| 名称：[食南之徒](https://book.douban.com/subject/36710597/)<br>时间：2024-09-03<br>出版：2024-4-1<br>豆瓣：8.3/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34823157.jpg) |
+| 名称：[看见](https://book.douban.com/subject/20427187/)<br>时间：2024-09-01<br>出版：2013-1-1<br>豆瓣：8.8/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s24514758.jpg) |
+| 名称：[太白金星有点烦](https://book.douban.com/subject/36328704/)<br>时间：2024-09-01<br>出版：2023-6<br>豆瓣：9.0/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34544956.jpg) |
+| 名称：[关键跃升](https://book.douban.com/subject/36946907/)<br>时间：2024-09-01<br>出版：2024-7-8<br>豆瓣：8.5/10<br>个人：5.0<br>Tags：管理；商业；职场； | ![](https://img2.doubanio.com/mpic/s34903591.jpg) |
+| 名称：[金线](https://book.douban.com/subject/36176944/)<br>时间：2024-08-26<br>出版：2022-11<br>豆瓣：6.4/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34398264.jpg) |
+| 名称：[罗辑思维：认知篇](https://book.douban.com/subject/35273308/)<br>时间：2024-08-26<br>出版：2020-12<br>豆瓣：7.6/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33769845.jpg) |
+| 名称：[罗辑思维：人物篇](https://book.douban.com/subject/35273311/)<br>时间：2024-08-24<br>出版：2020-12<br>豆瓣：7.6/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33769848.jpg) |
+| 名称：[罗辑思维：人文篇](https://book.douban.com/subject/35273310/)<br>时间：2024-08-23<br>出版：2020-12<br>豆瓣：7.6/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33770530.jpg) |
+| 名称：[罗辑思维：历史篇](https://book.douban.com/subject/35268674/)<br>时间：2024-08-23<br>出版：2020-12<br>豆瓣：7.8/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33766644.jpg) |
+| 名称：[罗辑思维：商业篇](https://book.douban.com/subject/35273313/)<br>时间：2024-08-23<br>出版：2020-12<br>豆瓣：7.1/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33769850.jpg) |
+| 名称：[南怀瑾系列第二辑：人生随处是心安](https://book.douban.com/subject/36640000/)<br>时间：2024-08-23<br>出版：null<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34934908.jpg) |
+| 名称：[君主论](https://book.douban.com/subject/36890686/)<br>时间：2024-08-23<br>出版：2024-4<br>豆瓣：8.1/10<br>个人：4.0<br>Tags：哲学；政治； | ![](https://img2.doubanio.com/mpic/s34861446.jpg) |
+| 名称：[挣扎的帝国：元与明](https://book.douban.com/subject/26838266/)<br>时间：2024-08-22<br>出版：2016-10<br>豆瓣：8.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29069557.jpg) |
+| 名称：[毛泽东传](https://book.douban.com/subject/5246800/)<br>时间：2024-08-22<br>出版：2010-8<br>豆瓣：8.2/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34307358.jpg) |
+| 名称：[儒家统治的时代：宋的转型](https://book.douban.com/subject/26840507/)<br>时间：2024-08-19<br>出版：2016-10<br>豆瓣：8.2/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29069551.jpg) |
+| 名称：[世界性的帝国：唐朝](https://book.douban.com/subject/1676627/)<br>时间：2024-08-18<br>出版：2016<br>豆瓣：8.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29069549.jpg) |
+| 名称：[天幕红尘](https://book.douban.com/subject/24748615/)<br>时间：2024-08-18<br>出版：2013-6-1<br>豆瓣：8.3/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s26860726.jpg) |
+| 名称：[南怀瑾系列第二辑：身体是个小宇宙](https://book.douban.com/subject/36645157/)<br>时间：2024-08-14<br>出版：null<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34697120.jpg) |
+| 名称：[清晰思考](https://book.douban.com/subject/36953839/)<br>时间：2024-08-14<br>出版：2024-7<br>豆瓣：8.0/10<br>个人：4.0<br>Tags：思维；成长；心理学；自我管理； | ![](https://img2.doubanio.com/mpic/s34902658.jpg) |
+| 名称：[房思琪的初恋乐园](https://book.douban.com/subject/27614904/)<br>时间：2024-08-14<br>出版：2018-2<br>豆瓣：9.2/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29651121.jpg) |
+| 名称：[野草](https://book.douban.com/subject/34858980/)<br>时间：2024-08-07<br>出版：2021-7<br>豆瓣：9.3/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34393652.jpg) |
+| 名称：[命运](https://book.douban.com/subject/36084340/)<br>时间：2024-08-06<br>出版：2022-9-5<br>豆瓣：8.9/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34303676.jpg) |
+| 名称：[分裂的帝国：南北朝](https://book.douban.com/subject/26851895/)<br>时间：2024-07-25<br>出版：2016-10<br>豆瓣：8.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29069546.jpg) |
+| 名称：[人鼠之间](https://book.douban.com/subject/30388871/)<br>时间：2024-07-23<br>出版：2019-3<br>豆瓣：8.9/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s30015192.jpg) |
+| 名称：[世界尽头的咖啡馆](https://book.douban.com/subject/33422386/)<br>时间：2024-07-22<br>出版：2019-6<br>豆瓣：7.3/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s32300809.jpg) |
+| 名称：[空腹的神奇自愈力](https://book.douban.com/subject/36836618/)<br>时间：2024-07-21<br>出版：2024-4<br>豆瓣：5.7/10<br>个人：2.0<br>Tags：健康； | ![](https://img2.doubanio.com/mpic/s34835631.jpg) |
+| 名称：[架构师启示录：知识模型、落地方法与思维模式](https://book.douban.com/subject/36865874/)<br>时间：2024-07-12<br>出版：2024-3<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34843611.jpg) |
+| 名称：[沃伦·巴菲特](https://book.douban.com/subject/36617951/)<br>时间：2024-06-24<br>出版：2024-5-6<br>豆瓣：7.9/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34877126.jpg) |
+| 名称：[5小时吃透小红书（商业版）](https://book.douban.com/subject/36833674/)<br>时间：2024-05-02<br>出版：2024-3<br>豆瓣：7.7/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34845894.jpg) |
+| 名称：[掌控习惯](https://book.douban.com/subject/34326931/)<br>时间：2024-04-26<br>出版：2019-7<br>豆瓣：8.8/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33565235.jpg) |
+| 名称：[新下层](https://book.douban.com/subject/36691629/)<br>时间：2024-03-20<br>出版：2024-1<br>豆瓣：7.2/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34728358.jpg) |
+| 名称：[重新找回自己](https://book.douban.com/subject/36708908/)<br>时间：2024-03-20<br>出版：2024-3<br>豆瓣：8.4/10<br>个人：4.0<br>Tags：心理学；心理； | ![](https://img2.doubanio.com/mpic/s34747586.jpg) |
+| 名称：[如何远程工作](https://book.douban.com/subject/36744868/)<br>时间：2024-03-10<br>出版：null<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/update_image) |
+| 名称：[FIRE：通往财务自由之路](https://book.douban.com/subject/36658338/)<br>时间：2024-03-10<br>出版：2024-1<br>豆瓣：6.5/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34706682.jpg) |
+| 名称：[一人公司](https://book.douban.com/subject/36492867/)<br>时间：2024-03-10<br>出版：2024-1<br>豆瓣：7.2/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34707892.jpg) |
+| 名称：[海洋:深水探秘](https://book.douban.com/subject/25743165/)<br>时间：2024-03-10<br>出版：2013-9-1<br>豆瓣：8.4/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s27084900.jpg) |
+| 名称：[拿下Offer:数据分析师求职面试指南点](https://book.douban.com/subject/35137589/)<br>时间：2024-03-06<br>出版：2020-7<br>豆瓣：7.5/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33686032.jpg) |
+| 名称：[基于Apache Spark的流处理](https://book.douban.com/subject/35437332/)<br>时间：2024-03-06<br>出版：null<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33936673.jpg) |
+| 名称：[Flink内核原理与实现](https://book.douban.com/subject/35217337/)<br>时间：2024-03-06<br>出版：2020-9-1<br>豆瓣：8.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33732220.jpg) |
+| 名称：[构建机器学习应用](https://book.douban.com/subject/36356782/)<br>时间：2024-03-06<br>出版：null<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34499366.jpg) |
+| 名称：[Kafka Streams实战](https://book.douban.com/subject/33425155/)<br>时间：2024-03-06<br>出版：2018-7<br>豆瓣：6.8/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s32303331.jpg) |
+| 名称：[5000天后的世界](https://book.douban.com/subject/36331624/)<br>时间：2024-02-16<br>出版：2023-4<br>豆瓣：6.6/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34487035.jpg) |
+| 名称：[为什么孩子不爱学习：回避性动机与学生学习](https://book.douban.com/subject/36661046/)<br>时间：2024-02-15<br>出版：null<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34797438.jpg) |
+| 名称：[BERT基础教程：Transformer大模型实战](https://book.douban.com/subject/36237507/)<br>时间：2024-02-15<br>出版：2023-3-1<br>豆瓣：7.1/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34409976.jpg) |
+| 名称：[云原生落地：产品、架构与商业模式](https://book.douban.com/subject/36629613/)<br>时间：2024-02-15<br>出版：null<br>豆瓣：0.0/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34686777.jpg) |
+| 名称：[Flowable流程引擎实战](https://book.douban.com/subject/36677303/)<br>时间：2024-02-15<br>出版：2023-11<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34719132.jpg) |
+| 名称：[领域驱动设计：业务建模与架构实践](https://book.douban.com/subject/36649386/)<br>时间：2024-02-10<br>出版：null<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34700346.jpg) |
+| 名称：[程序员软技能](https://book.douban.com/subject/35929962/)<br>时间：2024-02-01<br>出版：null<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34244989.jpg) |
+| 名称：[图解数据科学](https://book.douban.com/subject/36623445/)<br>时间：2024-01-31<br>出版：2023-11<br>豆瓣：8.0/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34691934.jpg) |
+| 名称：[我们生活在巨大的差距里](https://book.douban.com/subject/26291216/)<br>时间：2024-01-13<br>出版：2015-2<br>豆瓣：6.5/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s27999290.jpg) |
+| 名称：[程序员的制胜技](https://book.douban.com/subject/36556922/)<br>时间：2024-01-01<br>出版：2023-9-1<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34674388.jpg) |
+
+
+
+----
+### 2023
+----
+
+| --- | --- |
+| 名称：[真正的蒙氏教育在家庭 蒙台梭利家庭教育解决方案（套装共4册）（全...](https://book.douban.com/subject/30557027/)<br>时间：2023-12-31<br>出版：null<br>豆瓣：8.7/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33610940.jpg) |
+| 名称：[关键期关键帮助：0-7岁成长规律破解](https://book.douban.com/subject/30694502/)<br>时间：2023-12-31<br>出版：2018-10-1<br>豆瓣：7.9/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s32282083.jpg) |
+| 名称：[园丁与木匠](https://book.douban.com/subject/34481379/)<br>时间：2023-12-31<br>出版：2019-7-25<br>豆瓣：8.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33456726.jpg) |
+| 名称：[倾听孩子](https://book.douban.com/subject/1032145/)<br>时间：2023-12-31<br>出版：1998-11<br>豆瓣：8.7/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s9927544.jpg) |
+| 名称：[Spring Boot+Vue 3 大型前后端分离项目实战](https://book.douban.com/subject/36185170/)<br>时间：2023-12-29<br>出版：2023-1<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34373710.jpg) |
+| 名称：[Vue.js 3应用开发与核心源码解析](https://book.douban.com/subject/36153362/)<br>时间：2023-12-29<br>出版：2022-8-1<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34350501.jpg) |
+| 名称：[大模型时代](https://book.douban.com/subject/36397929/)<br>时间：2023-12-29<br>出版：2023-5<br>豆瓣：7.8/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34523140.jpg) |
+| 名称：[通用人工智能](https://book.douban.com/subject/36602138/)<br>时间：2023-12-29<br>出版：null<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34668111.jpg) |
+| 名称：[Quarkus实战](https://book.douban.com/subject/35436760/)<br>时间：2023-12-28<br>出版：null<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33878204.jpg) |
+| 名称：[Kubernetes网络权威指南：基础、原理与实践](https://book.douban.com/subject/34855927/)<br>时间：2023-12-25<br>出版：2019-10<br>豆瓣：8.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33499479.jpg) |
+| 名称：[深入理解Istio：云原生服务网格进阶实战](https://book.douban.com/subject/35929014/)<br>时间：2023-12-25<br>出版：2022-7<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34242287.jpg) |
+| 名称：[阿里云数字新基建系列：云原生操作系统Kubernetes](https://book.douban.com/subject/35260171/)<br>时间：2023-12-23<br>出版：2020-11<br>豆瓣：5.5/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33766061.jpg) |
+| 名称：[Quarkus实践指南：构建新一代的Kubernetes原生Java微服务](https://book.douban.com/subject/35590912/)<br>时间：2023-12-22<br>出版：2021-9<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33989257.jpg) |
+| 名称：[Istio服务网格技术解析与实践](https://book.douban.com/subject/35001667/)<br>时间：2023-12-22<br>出版：2020-3-28<br>豆瓣：8.8/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33609528.jpg) |
+| 名称：[云原生落地：企业级DevOps实践](https://book.douban.com/subject/36075285/)<br>时间：2023-12-22<br>出版：2022-8<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34322175.jpg) |
+| 名称：[Helm学习指南：Kubernetes上的应用程序管理](https://book.douban.com/subject/35597757/)<br>时间：2023-12-22<br>出版：2021-9<br>豆瓣：6.5/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34131114.jpg) |
+| 名称：[Kubernetes实战](https://book.douban.com/subject/35923293/)<br>时间：2023-12-21<br>出版：2022-5<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34257991.jpg) |
+| 名称：[云原生架构进阶实战](https://book.douban.com/subject/35037424/)<br>时间：2023-12-21<br>出版：2020-4-1<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33646187.jpg) |
+| 名称：[Kubernetes Operator开发进阶](https://book.douban.com/subject/36209350/)<br>时间：2023-12-21<br>出版：2023-1<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s35008716.jpg) |
+| 名称：[Kubernetes实战](https://book.douban.com/subject/35346815/)<br>时间：2023-12-21<br>出版：2021-1<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33849689.jpg) |
+| 名称：[Kubernetes in Action中文版](https://book.douban.com/subject/30418855/)<br>时间：2023-12-21<br>出版：2019-1<br>豆瓣：8.8/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29965036.jpg) |
+| 名称：[架构设计2.0：大型分布式系统架构方法论与实践](https://book.douban.com/subject/35731315/)<br>时间：2023-12-16<br>出版：2022-1<br>豆瓣：7.3/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34091379.jpg) |
+| 名称：[《围炉夜话》全是老人言](https://book.douban.com/subject/36619337/)<br>时间：2023-11-19<br>出版：2023-11<br>豆瓣：6.4/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34678861.jpg) |
+| 名称：[发现儿童](https://book.douban.com/subject/36328675/)<br>时间：2023-11-18<br>出版：null<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34477567.jpg) |
+| 名称：[漫长岁月，没有一天是适合上班的](https://book.douban.com/subject/36450800/)<br>时间：2023-11-18<br>出版：2023-7-7<br>豆瓣：7.2/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34587620.jpg) |
+| 名称：[村上春树·美食](https://book.douban.com/subject/35059434/)<br>时间：2023-11-18<br>出版：2020-6<br>豆瓣：6.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33639098.jpg) |
+| 名称：[村上广播](https://book.douban.com/subject/35338091/)<br>时间：2023-11-18<br>出版：2021-4<br>豆瓣：7.5/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33873190.jpg) |
+| 名称：[没有意义就没有摇摆](https://book.douban.com/subject/35338090/)<br>时间：2023-11-18<br>出版：2021-4<br>豆瓣：7.4/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33873196.jpg) |
+| 名称：[旋涡猫的找法](https://book.douban.com/subject/35008721/)<br>时间：2023-11-18<br>出版：2020-8<br>豆瓣：7.3/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33695536.jpg) |
+| 名称：[村上朝日堂是如何锻造的](https://book.douban.com/subject/35005213/)<br>时间：2023-11-16<br>出版：2020-8<br>豆瓣：7.8/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33695535.jpg) |
+| 名称：[村上朝日堂](https://book.douban.com/subject/35006229/)<br>时间：2023-11-16<br>出版：2020-8<br>豆瓣：7.4/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33694994.jpg) |
+| 名称：[日出国的工厂](https://book.douban.com/subject/35338093/)<br>时间：2023-11-16<br>出版：2021-4<br>豆瓣：7.2/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33874599.jpg) |
+| 名称：[村上朝日堂 嗨嗬！](https://book.douban.com/subject/35006230/)<br>时间：2023-11-16<br>出版：2020-8<br>豆瓣：7.6/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33693684.jpg) |
+| 名称：[村上朝日堂的卷土重来](https://book.douban.com/subject/35006333/)<br>时间：2023-11-14<br>出版：2020-8<br>豆瓣：7.5/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33695534.jpg) |
+| 名称：[王阳明：一切心法（修订版）](https://book.douban.com/subject/34898782/)<br>时间：2023-11-14<br>出版：2019-10<br>豆瓣：8.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33531727.jpg) |
+| 名称：[Spring Boot 3核心技术与最佳实践](https://book.douban.com/subject/36356915/)<br>时间：2023-11-14<br>出版：null<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34499499.jpg) |
+| 名称：[人生效率手册：重塑升级版](https://book.douban.com/subject/33423699/)<br>时间：2023-11-14<br>出版：2019-5-31<br>豆瓣：6.5/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s32301886.jpg) |
+| 名称：[超级时间倍增术](https://book.douban.com/subject/26668453/)<br>时间：2023-11-12<br>出版：null<br>豆瓣：7.4/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s28344837.jpg) |
+| 名称：[康奈尔笔记法](https://book.douban.com/subject/36523945/)<br>时间：2023-11-12<br>出版：2023-9<br>豆瓣：6.4/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34655670.jpg) |
+| 名称：[华杉讲透王阳明《传习录》](https://book.douban.com/subject/30443660/)<br>时间：2023-11-12<br>出版：2019-1-1<br>豆瓣：8.3/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34103690.jpg) |
+| 名称：[大明完人王阳明](https://book.douban.com/subject/30290683/)<br>时间：2023-11-12<br>出版：2018-7-1<br>豆瓣：8.9/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29835867.jpg) |
+| 名称：[知行合一王阳明（1472—1529）](https://book.douban.com/subject/25911978/)<br>时间：2023-11-12<br>出版：2014-7<br>豆瓣：7.6/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s27311101.jpg) |
+| 名称：[最美唐诗](https://book.douban.com/subject/26691119/)<br>时间：2023-11-11<br>出版：2015-8<br>豆瓣：7.8/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s28580157.jpg) |
+| 名称：[总会过去 总会到来](https://book.douban.com/subject/36078388/)<br>时间：2023-11-11<br>出版：2022-8-29<br>豆瓣：7.9/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34300811.jpg) |
+| 名称：[认知觉醒](https://book.douban.com/subject/36552876/)<br>时间：2023-11-11<br>出版：2023-10<br>豆瓣：5.7/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34641492.jpg) |
+| 名称：[Kafka实战](https://book.douban.com/subject/36482105/)<br>时间：2023-11-11<br>出版：2023-6<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34593607.jpg) |
+| 名称：[少有人看见的美](https://book.douban.com/subject/34897022/)<br>时间：2023-11-11<br>出版：2019-12<br>豆瓣：8.1/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33525516.jpg) |
+| 名称：[软件平台架构设计与技术管理之道](https://book.douban.com/subject/36206079/)<br>时间：2023-11-08<br>出版：2023-1-1<br>豆瓣：8.1/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34387339.jpg) |
+| 名称：[此心光明，万事可成](https://book.douban.com/subject/35678326/)<br>时间：2023-10-21<br>出版：2021-11<br>豆瓣：7.5/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34052318.jpg) |
+| 名称：[一本书读懂支付](https://book.douban.com/subject/36422205/)<br>时间：2023-10-15<br>出版：2023-5<br>豆瓣：6.9/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34544958.jpg) |
+| 名称：[分布式系统架构](https://book.douban.com/subject/36403511/)<br>时间：2023-09-19<br>出版：2023-5-1<br>豆瓣：7.7/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34530006.jpg) |
+| 名称：[爱因斯坦传](https://book.douban.com/subject/27135236/)<br>时间：2023-08-22<br>出版：2016-11<br>豆瓣：7.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29539269.jpg) |
+| 名称：[Hadoop技术内幕](https://book.douban.com/subject/24375031/)<br>时间：2023-08-20<br>出版：2013-5<br>豆瓣：8.4/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s26559339.jpg) |
+| 名称：[Scrum精髓](https://book.douban.com/subject/25887356/)<br>时间：2023-08-20<br>出版：2014-6-1<br>豆瓣：8.8/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s27283218.jpg) |
+| 名称：[全球经济史](https://book.douban.com/subject/26345472/)<br>时间：2023-08-20<br>出版：2015-1<br>豆瓣：8.1/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s28028348.jpg) |
+| 名称：[金阁寺](https://book.douban.com/subject/35419301/)<br>时间：2023-07-29<br>出版：2021-4<br>豆瓣：8.3/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33865098.jpg) |
+| 名称：[领域驱动设计学习手册](https://book.douban.com/subject/36356783/)<br>时间：2023-07-29<br>出版：null<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34499367.jpg) |
+| 名称：[美丽新世界](https://book.douban.com/subject/26922480/)<br>时间：2023-07-28<br>出版：null<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29176172.jpg) |
+| 名称：[程序员超强大脑](https://book.douban.com/subject/36362026/)<br>时间：2023-07-28<br>出版：2023-5<br>豆瓣：7.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34522383.jpg) |
+| 名称：[中国人行动的逻辑](https://book.douban.com/subject/27169691/)<br>时间：2023-07-22<br>出版：2017-10<br>豆瓣：7.6/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29577318.jpg) |
+| 名称：[资治通鉴熊逸版第1辑](https://book.douban.com/subject/35638809/)<br>时间：2023-07-02<br>出版：2021-11<br>豆瓣：9.1/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34032670.jpg) |
+| 名称：[生成式人工智能](https://book.douban.com/subject/36368084/)<br>时间：2023-06-24<br>出版：2023-5<br>豆瓣：6.5/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34519911.jpg) |
+| 名称：[AIGC未来已来](https://book.douban.com/subject/36353934/)<br>时间：2023-06-24<br>出版：2023-5<br>豆瓣：7.2/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34497135.jpg) |
+| 名称：[架构之道](https://book.douban.com/subject/35563799/)<br>时间：2023-05-27<br>出版：2021-8-16<br>豆瓣：7.7/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33969423.jpg) |
+| 名称：[原则（实践版）](https://book.douban.com/subject/36330727/)<br>时间：2023-05-20<br>出版：2023-3<br>豆瓣：7.8/10<br>个人：5.0<br>Tags：成长；思维； | ![](https://img2.doubanio.com/mpic/s34494884.jpg) |
+| 名称：[毛泽东选集 第三卷](https://book.douban.com/subject/1077621/)<br>时间：2023-04-22<br>出版：1991-6<br>豆瓣：9.4/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s1815767.jpg) |
+| 名称：[摩托日记](https://book.douban.com/subject/5409459/)<br>时间：2023-02-25<br>出版：2012-5<br>豆瓣：8.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29848507.jpg) |
+| 名称：[审判](https://book.douban.com/subject/25746505/)<br>时间：2023-02-25<br>出版：2018-4<br>豆瓣：8.2/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s30010468.jpg) |
+| 名称：[坛经](https://book.douban.com/subject/24284144/)<br>时间：2023-02-25<br>出版：2013-4<br>豆瓣：9.3/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s27023985.jpg) |
+| 名称：[了不起](https://book.douban.com/subject/36071696/)<br>时间：2023-02-07<br>出版：2022-8<br>豆瓣：7.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34294285.jpg) |
+| 名称：[必然](https://book.douban.com/subject/26658379/)<br>时间：2023-01-07<br>出版：2016-1<br>豆瓣：8.3/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s28391270.jpg) |
+
+
+
+----
+### 2022
+----
+
+| --- | --- |
+| 名称：[禅与极简生活艺术](https://book.douban.com/subject/27667053/)<br>时间：2022-12-24<br>出版：2018-3-1<br>豆瓣：7.5/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29667241.jpg) |
+| 名称：[拥抱开源（第2版）](https://book.douban.com/subject/36110140/)<br>时间：2022-12-24<br>出版：2022-10<br>豆瓣：7.3/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34342943.jpg) |
+| 名称：[深入实践DDD：以DSL驱动复杂软件开发](https://book.douban.com/subject/35433162/)<br>时间：2022-12-24<br>出版：2021-4-19<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33875212.jpg) |
+| 名称：[周国平论哲学](https://book.douban.com/subject/26955139/)<br>时间：2022-12-24<br>出版：2015-12-1<br>豆瓣：7.1/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29532743.jpg) |
+| 名称：[饮食的迷思](https://book.douban.com/subject/30437166/)<br>时间：2022-12-24<br>出版：2019-3<br>豆瓣：8.1/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s30017698.jpg) |
+| 名称：[深度剖析Apache Dubbo核心技术内幕](https://book.douban.com/subject/34910777/)<br>时间：2022-12-20<br>出版：2019-12<br>豆瓣：6.2/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33549099.jpg) |
+| 名称：[惊呆了！哲学这么好](https://book.douban.com/subject/27605891/)<br>时间：2022-12-19<br>出版：2018-2<br>豆瓣：8.7/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29668973.jpg) |
+| 名称：[熟经济](https://book.douban.com/subject/35703171/)<br>时间：2022-12-19<br>出版：2021-12-30<br>豆瓣：7.1/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34069738.jpg) |
+| 名称：[自学是门手艺](https://book.douban.com/subject/34432673/)<br>时间：2022-12-10<br>出版：2019-6<br>豆瓣：8.3/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33964382.jpg) |
+| 名称：[香帅金融学讲义](https://book.douban.com/subject/35219152/)<br>时间：2022-12-10<br>出版：2020-9<br>豆瓣：8.4/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33760815.jpg) |
+| 名称：[数据即未来](https://book.douban.com/subject/30177700/)<br>时间：2022-12-09<br>出版：2018-3-1<br>豆瓣：6.4/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29836531.jpg) |
+| 名称：[解构领域驱动设计](https://book.douban.com/subject/35553520/)<br>时间：2022-12-09<br>出版：2021-8-20<br>豆瓣：7.3/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33962201.jpg) |
+| 名称：[凤凰架构](https://book.douban.com/subject/35492898/)<br>时间：2022-12-09<br>出版：2021-6-30<br>豆瓣：9.2/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33966407.jpg) |
+| 名称：[贪婪的多巴胺](https://book.douban.com/subject/35545272/)<br>时间：2022-12-04<br>出版：2021-8<br>豆瓣：7.8/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33973820.jpg) |
+| 名称：[韧性：不确定时代的精进法则](https://book.douban.com/subject/36078243/)<br>时间：2022-11-30<br>出版：2022-9-1<br>豆瓣：7.6/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34298925.jpg) |
+| 名称：[Java并发实现原理：JDK源码剖析](https://book.douban.com/subject/35013531/)<br>时间：2022-11-28<br>出版：2020-4<br>豆瓣：7.7/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33606981.jpg) |
+| 名称：[深入解析 CSS](https://book.douban.com/subject/35021471/)<br>时间：2022-11-26<br>出版：2020-4-15<br>豆瓣：9.2/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33612779.jpg) |
+| 名称：[深入实战vue开发](https://book.douban.com/subject/35602983/)<br>时间：2022-11-26<br>出版：2021-9<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33999381.jpg) |
+| 名称：[拆掉思维里的墙（白金升级版）](https://book.douban.com/subject/35627156/)<br>时间：2022-11-26<br>出版：2021-10-25<br>豆瓣：7.4/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34085629.jpg) |
+| 名称：[Vue.js前端开发](https://book.douban.com/subject/26994869/)<br>时间：2022-11-26<br>出版：2017-2-1<br>豆瓣：6.1/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29396072.jpg) |
+| 名称：[元宇宙的本质](https://book.douban.com/subject/35985161/)<br>时间：2022-11-25<br>出版：null<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34262651.jpg) |
+| 名称：[一本书读懂元宇宙](https://book.douban.com/subject/35710880/)<br>时间：2022-11-25<br>出版：2022-1<br>豆瓣：5.6/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34075547.jpg) |
+| 名称：[金融级IT架构与运维](https://book.douban.com/subject/35745307/)<br>时间：2022-11-25<br>出版：2022-1<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34101853.jpg) |
+| 名称：[德川家康（第二部）](https://book.douban.com/subject/2354909/)<br>时间：2022-11-24<br>出版：2007-11<br>豆瓣：8.6/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s2820200.jpg) |
+| 名称：[学会提问（原书第11版）](https://book.douban.com/subject/33378880/)<br>时间：2022-11-22<br>出版：2019-4<br>豆瓣：8.3/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33576027.jpg) |
+| 名称：[Spring Boot+Vue全栈开发实战](https://book.douban.com/subject/30747218/)<br>时间：2022-11-22<br>出版：null<br>豆瓣：5.5/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s30551966.jpg) |
+| 名称：[Vue.js 从入门到项目实践（超值版）（聚慕课教育研发中心）](https://book.douban.com/subject/35354003/)<br>时间：2022-11-21<br>出版：null<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34186561.jpg) |
+| 名称：[领导梯队：全面打造领导力驱动型公司（原书第2版）](https://book.douban.com/subject/26863476/)<br>时间：2022-11-20<br>出版：2016-8<br>豆瓣：8.3/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29008307.jpg) |
+| 名称：[金融产品方法论](https://book.douban.com/subject/35779176/)<br>时间：2022-11-20<br>出版：2022-2<br>豆瓣：6.4/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34130259.jpg) |
+| 名称：[Spring技术内幕（第2版）](https://book.douban.com/subject/10470970/)<br>时间：2022-11-19<br>出版：2012-2<br>豆瓣：6.1/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s28047189.jpg) |
+| 名称：[正本清源分布式事务之Seata（全彩）](https://book.douban.com/subject/35637709/)<br>时间：2022-11-19<br>出版：2021-11<br>豆瓣：8.2/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34026189.jpg) |
+| 名称：[财务共享的智能化升级：业财税一体化的深度融合](https://book.douban.com/subject/34991144/)<br>时间：2022-11-19<br>出版：2020-3<br>豆瓣：6.5/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33592267.jpg) |
+| 名称：[Spring Boot企业级项目开发实战](https://book.douban.com/subject/35814556/)<br>时间：2022-11-19<br>出版：2022-3-1<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34993979.jpg) |
+| 名称：[电子商务客户关系管理（第2版）](https://book.douban.com/subject/36101386/)<br>时间：2022-11-19<br>出版：null<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/update_image) |
+| 名称：[陪孩子终身成长](https://book.douban.com/subject/35019107/)<br>时间：2022-11-19<br>出版：2020-4<br>豆瓣：7.6/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33623882.jpg) |
+| 名称：[麦肯锡结构化战略思维](https://book.douban.com/subject/35252834/)<br>时间：2022-11-19<br>出版：2021-1-1<br>豆瓣：7.6/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33757911.jpg) |
+| 名称：[程序员的思维修炼](https://book.douban.com/subject/5372651/)<br>时间：2022-11-19<br>出版：2010-12-10<br>豆瓣：8.4/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s4548399.jpg) |
+| 名称：[真希望我父母读过这本书](https://book.douban.com/subject/35173329/)<br>时间：2022-11-18<br>出版：2020-7<br>豆瓣：8.7/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34046232.jpg) |
+| 名称：[新营销3.0：bC一体数字化转型](https://book.douban.com/subject/36129815/)<br>时间：2022-11-16<br>出版：2022-10<br>豆瓣：5.4/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34785842.jpg) |
+| 名称：[企业微信私域运营从入门到精通](https://book.douban.com/subject/35772627/)<br>时间：2022-11-14<br>出版：2022-2<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34124474.jpg) |
+| 名称：[企业级Java现代化：写给开发者的云原生简明指南](https://book.douban.com/subject/36149274/)<br>时间：2022-11-12<br>出版：2022-11<br>豆瓣：0.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34350181.jpg) |
+| 名称：[德川家康（第一部）](https://book.douban.com/subject/2317974/)<br>时间：2022-11-12<br>出版：2007-11<br>豆瓣：8.5/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s2926371.jpg) |
+| 名称：[微前端设计与实现](https://book.douban.com/subject/36014313/)<br>时间：2022-11-10<br>出版：2022-8-1<br>豆瓣：8.4/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34270936.jpg) |
+| 名称：[贾宁财务讲义](https://book.douban.com/subject/35200539/)<br>时间：2022-11-10<br>出版：2020-8-28<br>豆瓣：8.7/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33850544.jpg) |
+| 名称：[写作脑科学](https://book.douban.com/subject/36013894/)<br>时间：2022-11-09<br>出版：2022-8<br>豆瓣：7.5/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34270659.jpg) |
+| 名称：[哲学不思议](https://book.douban.com/subject/30276253/)<br>时间：2022-11-08<br>出版：2019-1<br>豆瓣：8.7/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29961301.jpg) |
+| 名称：[考试脑科学](https://book.douban.com/subject/33944838/)<br>时间：2022-11-08<br>出版：2019-7<br>豆瓣：8.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33322823.jpg) |
+| 名称：[底层逻辑2](https://book.douban.com/subject/36122558/)<br>时间：2022-11-07<br>出版：2022-10-1<br>豆瓣：7.7/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34605884.jpg) |
+| 名称：[底层逻辑](https://book.douban.com/subject/35620025/)<br>时间：2022-11-05<br>出版：2021-10-9<br>豆瓣：6.8/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34076681.jpg) |
+| 名称：[倾听孩子](https://book.douban.com/subject/22993372/)<br>时间：2022-11-05<br>出版：2013-3<br>豆瓣：8.9/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34590838.jpg) |
+| 名称：[西尔斯育儿经](https://book.douban.com/subject/3344034/)<br>时间：2022-11-05<br>出版：2008-9<br>豆瓣：8.3/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s11156118.jpg) |
+| 名称：[终身学习](https://book.douban.com/subject/27179367/)<br>时间：2022-11-05<br>出版：2017-9<br>豆瓣：4.9/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29799251.jpg) |
+| 名称：[学习学习](https://book.douban.com/subject/36139415/)<br>时间：2022-11-05<br>出版：2022-10<br>豆瓣：7.7/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34755738.jpg) |
+| 名称：[重新思考](https://book.douban.com/subject/36124326/)<br>时间：2022-11-05<br>出版：2022-9<br>豆瓣：7.2/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34341051.jpg) |
+| 名称：[一本书读懂Web3.0：区块链、NFT、元宇宙和DAO](https://book.douban.com/subject/35879784/)<br>时间：2022-11-05<br>出版：2022-5<br>豆瓣：6.4/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34205069.jpg) |
+| 名称：[元宇宙：重构人类文明与商业世界](https://book.douban.com/subject/36011079/)<br>时间：2022-11-05<br>出版：2022-7<br>豆瓣：0.0/10<br>个人：0.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34271450.jpg) |
+| 名称：[元宇宙基石：Web3.0与分布式存储](https://book.douban.com/subject/35698689/)<br>时间：2022-11-05<br>出版：null<br>豆瓣：3.3/10<br>个人：0.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34066089.jpg) |
+| 名称：[天才程序员](https://book.douban.com/subject/35868880/)<br>时间：2022-10-29<br>出版：2022-5-1<br>豆瓣：7.8/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34618769.jpg) |
+| 名称：[电商产品经理宝典：电商后台系统产品逻辑全解析](https://book.douban.com/subject/27157290/)<br>时间：2022-10-29<br>出版：2017-10-1<br>豆瓣：7.3/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29562842.jpg) |
+| 名称：[跨境电商B2B运营——阿里巴巴国际站运营实战118讲](https://book.douban.com/subject/35752081/)<br>时间：2022-10-29<br>出版：2022-3<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34108100.jpg) |
+| 名称：[云原生架构：从技术演进到最佳实践](https://book.douban.com/subject/35637708/)<br>时间：2022-10-29<br>出版：2021-10<br>豆瓣：6.8/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34026188.jpg) |
+| 名称：[数字化转型架构：方法论与云原生实践](https://book.douban.com/subject/35573400/)<br>时间：2022-10-29<br>出版：2021-8<br>豆瓣：7.8/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33976768.jpg) |
+| 名称：[编程的原则：改善代码质量的101个方法](https://book.douban.com/subject/35088343/)<br>时间：2022-10-29<br>出版：2020-6-1<br>豆瓣：7.4/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33658765.jpg) |
+| 名称：[山野的日常](https://book.douban.com/subject/30353947/)<br>时间：2022-10-29<br>出版：2018-12<br>豆瓣：6.5/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29951543.jpg) |
+| 名称：[半小时读懂元宇宙](https://book.douban.com/subject/35881044/)<br>时间：2022-10-29<br>出版：2022-5<br>豆瓣：6.5/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34208378.jpg) |
+| 名称：[成事](https://book.douban.com/subject/33420594/)<br>时间：2022-10-29<br>出版：2019-5<br>豆瓣：7.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s32317746.jpg) |
+| 名称：[深入理解Java虚拟机（第3版）](https://book.douban.com/subject/34907497/)<br>时间：2022-10-28<br>出版：2019-12<br>豆瓣：9.5/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33531736.jpg) |
+| 名称：[活文档：与代码共同演进](https://book.douban.com/subject/35372829/)<br>时间：2022-10-28<br>出版：2021-2-23<br>豆瓣：7.0/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33836693.jpg) |
+| 名称：[业务中台产品搭建指南](https://book.douban.com/subject/35049421/)<br>时间：2022-10-26<br>出版：2020-5<br>豆瓣：7.5/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33647860.jpg) |
+| 名称：[业务架构•应用架构•数据架构实战](https://book.douban.com/subject/35355450/)<br>时间：2022-10-22<br>出版：2021-4<br>豆瓣：7.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33823566.jpg) |
+| 名称：[正面管教（修订版）](https://book.douban.com/subject/26968034/)<br>时间：2022-10-22<br>出版：2016-7-1<br>豆瓣：8.6/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29325688.jpg) |
+| 名称：[钱从哪里来](https://book.douban.com/subject/34925762/)<br>时间：2022-10-22<br>出版：2020-1-1<br>豆瓣：6.9/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33551591.jpg) |
+| 名称：[第一性原理](https://book.douban.com/subject/35265358/)<br>时间：2022-10-22<br>出版：2021-1<br>豆瓣：7.2/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33764618.jpg) |
+| 名称：[留白](https://book.douban.com/subject/30451681/)<br>时间：2022-10-22<br>出版：2018-12<br>豆瓣：6.7/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33820082.jpg) |
+| 名称：[少年维特的烦恼](https://book.douban.com/subject/30197934/)<br>时间：2022-10-22<br>出版：2017-10<br>豆瓣：7.5/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33644149.jpg) |
+| 名称：[雪舞](https://book.douban.com/subject/30451668/)<br>时间：2022-10-22<br>出版：2019-1<br>豆瓣：8.4/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29997075.jpg) |
+| 名称：[UNIX编程艺术](https://book.douban.com/subject/5387401/)<br>时间：2022-10-21<br>出版：2011-1<br>豆瓣：8.9/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s6476712.jpg) |
+| 名称：[小家，越住越大](https://book.douban.com/subject/26775466/)<br>时间：2022-10-21<br>出版：2016-5<br>豆瓣：8.4/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s28643319.jpg) |
+| 名称：[政治秩序的起源](https://book.douban.com/subject/25971624/)<br>时间：2022-10-15<br>出版：2014-9<br>豆瓣：8.8/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29009773.jpg) |
+| 名称：[情商](https://book.douban.com/subject/4929897/)<br>时间：2022-10-15<br>出版：2010/11/08<br>豆瓣：7.7/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s4532029.jpg) |
+| 名称：[异类](https://book.douban.com/subject/25863621/)<br>时间：2022-10-08<br>出版：2014-5<br>豆瓣：8.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s27256934.jpg) |
+| 名称：[长期有耐心 : 美团的成长与进化逻辑](https://book.douban.com/subject/35462649/)<br>时间：2022-09-11<br>出版：2021-5<br>豆瓣：7.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33897174.jpg) |
+| 名称：[1984](https://book.douban.com/subject/4820710/)<br>时间：2022-07-23<br>出版：2010-4-1<br>豆瓣：9.4/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s4371408.jpg) |
+| 名称：[动物农场](https://book.douban.com/subject/2035179/)<br>时间：2022-07-23<br>出版：2007-3<br>豆瓣：9.3/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s2347590.jpg) |
+| 名称：[商业模式新生代](https://book.douban.com/subject/26904600/)<br>时间：2022-07-02<br>出版：2016-10<br>豆瓣：8.4/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34209375.jpg) |
+| 名称：[敏捷整洁之道](https://book.douban.com/subject/35083518/)<br>时间：2022-07-02<br>出版：2020-7<br>豆瓣：8.9/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33655063.jpg) |
+| 名称：[程序员的底层思维](https://book.douban.com/subject/35794819/)<br>时间：2022-06-25<br>出版：2022-2<br>豆瓣：7.9/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34144082.jpg) |
+| 名称：[支付架构实战](https://book.douban.com/subject/35879782/)<br>时间：2022-06-25<br>出版：2022-4<br>豆瓣：6.1/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34205067.jpg) |
+| 名称：[会计学基础（第7版）（21世纪会计系列教材）](https://book.douban.com/subject/34941565/)<br>时间：2022-06-25<br>出版：null<br>豆瓣：0.0/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/update_image) |
+| 名称：[会计学基础](https://book.douban.com/subject/21332119/)<br>时间：2022-06-25<br>出版：2013-2<br>豆瓣：9.2/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s26097195.jpg) |
+| 名称：[现代企业架构](https://book.douban.com/subject/35809629/)<br>时间：2022-06-25<br>出版：2022-3<br>豆瓣：0.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34216912.jpg) |
+| 名称：[齐昊趣谈财务管理](https://book.douban.com/subject/35749539/)<br>时间：2022-06-18<br>出版：2022-1<br>豆瓣：7.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34105794.jpg) |
+| 名称：[从总账到总监](https://book.douban.com/subject/35222644/)<br>时间：2022-06-11<br>出版：2021-1<br>豆瓣：9.1/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33794521.jpg) |
+| 名称：[中华国学经典精粹·诸子经典必读本](https://book.douban.com/subject/26825935/)<br>时间：2022-06-11<br>出版：2015-7-1<br>豆瓣：9.3/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34303723.jpg) |
+| 名称：[重构学习体验](https://book.douban.com/subject/26389293/)<br>时间：2022-06-11<br>出版：2015-4<br>豆瓣：8.5/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29160676.jpg) |
+| 名称：[冯唐成事心法](https://book.douban.com/subject/35267458/)<br>时间：2022-06-11<br>出版：2020-12-1<br>豆瓣：7.4/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33775208.jpg) |
+| 名称：[大局观](https://book.douban.com/subject/30382577/)<br>时间：2022-06-11<br>出版：2018-12-1<br>豆瓣：7.0/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29926997.jpg) |
+| 名称：[最佳实践萃取](https://book.douban.com/subject/27136792/)<br>时间：2022-05-21<br>出版：2017-4-1<br>豆瓣：8.3/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34366293.jpg) |
+| 名称：[破茧](https://book.douban.com/subject/35221197/)<br>时间：2022-05-21<br>出版：2020-12<br>豆瓣：7.8/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33767894.jpg) |
+| 名称：[只管去做](https://book.douban.com/subject/35449351/)<br>时间：2022-05-21<br>出版：2021-5-1<br>豆瓣：8.2/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33886452.jpg) |
+| 名称：[十分钟冥想](https://book.douban.com/subject/34888157/)<br>时间：2022-05-20<br>出版：2019-12<br>豆瓣：7.9/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34011955.jpg) |
+| 名称：[软件架构](https://book.douban.com/subject/35487561/)<br>时间：2022-05-08<br>出版：2021-6-6<br>豆瓣：7.5/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33915517.jpg) |
+| 名称：[德鲁克管理思想精要](https://book.douban.com/subject/30384062/)<br>时间：2022-05-03<br>出版：2018-11<br>豆瓣：9.1/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34737860.jpg) |
+| 名称：[认识商业（修订第10版）](https://book.douban.com/subject/27621512/)<br>时间：2022-05-03<br>出版：2018-2<br>豆瓣：8.4/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s29657405.jpg) |
+| 名称：[解决方案架构师修炼之道](https://book.douban.com/subject/35672058/)<br>时间：2022-04-10<br>出版：2021-11-22<br>豆瓣：7.4/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34048859.jpg) |
+| 名称：[心经解读](https://book.douban.com/subject/10743004/)<br>时间：2022-04-10<br>出版：2012-4<br>豆瓣：8.8/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s9116951.jpg) |
+| 名称：[我不过低配的人生](https://book.douban.com/subject/26878947/)<br>时间：2022-04-09<br>出版：2016-10<br>豆瓣：6.9/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34871928.jpg) |
+| 名称：[OKR使用手册](https://book.douban.com/subject/33426573/)<br>时间：2022-04-09<br>出版：null<br>豆瓣：6.7/10<br>个人：3.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34497404.jpg) |
+| 名称：[聚合架构](https://book.douban.com/subject/35611107/)<br>时间：2022-04-09<br>出版：2021-9-27<br>豆瓣：7.7/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s34005878.jpg) |
+| 名称：[技术人修炼之道](https://book.douban.com/subject/35283800/)<br>时间：2022-04-05<br>出版：2020-12<br>豆瓣：6.1/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33964377.jpg) |
+| 名称：[禅的行囊](https://book.douban.com/subject/5290370/)<br>时间：2022-04-04<br>出版：2010-10<br>豆瓣：8.6/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s4493088.jpg) |
+| 名称：[西藏，西藏！](https://book.douban.com/subject/35125801/)<br>时间：2022-03-26<br>出版：2020-7-1<br>豆瓣：8.5/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33679280.jpg) |
+| 名称：[重来2](https://book.douban.com/subject/25861795/)<br>时间：2022-03-26<br>出版：2014-4-8<br>豆瓣：7.3/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s27255276.jpg) |
+| 名称：[置身事内](https://book.douban.com/subject/35546622/)<br>时间：2022-03-26<br>出版：2021-8<br>豆瓣：9.1/10<br>个人：5.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33956867.jpg) |
+| 名称：[卡片笔记写作法](https://book.douban.com/subject/35503571/)<br>时间：2022-03-26<br>出版：2021-7<br>豆瓣：7.8/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33927783.jpg) |
+| 名称：[无界成长](https://book.douban.com/subject/35065701/)<br>时间：2022-03-13<br>出版：2020-5<br>豆瓣：8.2/10<br>个人：4.0<br>Tags：暂无 | ![](https://img2.doubanio.com/mpic/s33679423.jpg) |
+
+
+
 ----
 ### 2021
 ----
