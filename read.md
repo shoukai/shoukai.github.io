@@ -5,7 +5,7 @@ description: "“学”而时习之……"
 header-img: "cdn.apframework.com/8dfb1b86212935379ada7e13483f27d4.jpg"
 ---
 
-我的阅读，最新读书进展请访问：[豆瓣-我读过的书](https://book.douban.com/people/74214055/collect)
+已经完成阅读书籍列表。 最新读书进展请访问：[Shoukai 读过的书](https://book.douban.com/people/74214055/collect)
 
 
 ----
